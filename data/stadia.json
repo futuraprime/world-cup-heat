@@ -1,0 +1,50 @@
+{
+    "Estadio do Maracana" : {
+        "lat" : -22.912109,
+        "lng" : -43.230156
+    },
+    "Estadio Nacional" : {
+        "lat" : -15.783519,
+        "lng" : -47.899211
+    },
+    "Arena de Sao Paulo" : {
+        "lat" :-23.545333,
+        "lng" :-46.473702
+    },
+    "Estadio Castelao" : {
+        "lat" : -3.807231,
+        "lng" : -38.522434
+    },
+    "Estadio Beira-Rio": {
+        "lat" : -30.065384,
+        "lng" : -51.235822
+    },
+    "Arena Pernambuco" : {
+        "lat" : -8.04065,
+        "lng" : -35.008205
+    },
+    "Arena da Baixada" : {
+        "lat" : -25.4482121,
+        "lng" : -49.276987
+    },
+    "Estadio das Dunas" : {
+        "lat" : -5.826827,
+        "lng" : -35.21243
+    },
+    "Arena Amazonia" : {
+        "lat" : -3.083142,
+        "lng" : -60.028108
+    },
+    "Arena Pantanal" : {
+        "lat" : -15.604017,
+        "lng" : -56.121632
+    },
+    "Arena Fonte Nova" : {
+        "lat" : -12.97883,
+        "lng" : -38.504371
+    },
+    "Estadio Mineirao" : {
+        "lat" : -19.865867,
+        "lng" : -43.971132 
+    }
+}
