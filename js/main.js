@@ -13,7 +13,10 @@
     .domain([0,3]);
   var yScale = d3.scale.ordinal()
     .domain(_.range(32))
-    .rangePoints([0, h], 1);
+    .rangePoints([0, h-20], 1);
+  var colorScale = d3.scale.linear()
+    .domain([50,90])
+    .range([120,0]);
 
   var line = d3.svg.line()
     .x(function(d) { return xScale(d.number); })
@@ -44,7 +47,9 @@
       .attr('x', 0)
       .attr('width', xScale(2) - xScale(1))
       .attr('height', yScale(2) - yScale(1))
-      .attr('fill', function(d) { return '#B13631'; });
+      .attr('fill', function(d) { 
+        return d3.hcl(colorScale(d.weather.temperature), 70, 40).toString();
+      });
 
     teamGroups.append('text')
       .text(function(d) { return d.weather.temperature; })
