@@ -1,0 +1,3502 @@
+{
+    "ALG": {
+        "code": "ALG", 
+        "country": "Algeria", 
+        "group": "H", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "ALG", 
+                    "country": "Algeria", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-17T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "BEL", 
+                    "country": "Belgium", 
+                    "goals": 2
+                }, 
+                "lat": -19.865867, 
+                "lng": -43.971132, 
+                "location": "Estadio Mineirao", 
+                "match_number": 15, 
+                "weather": {
+                    "apparentTemperature": 75.65, 
+                    "cloudCover": 0.72, 
+                    "dewPoint": 54.55, 
+                    "humidity": 0.48, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 252.39, 
+                    "precipIntensity": 0.0002, 
+                    "precipProbability": 0.87, 
+                    "precipType": "rain", 
+                    "pressure": 1019.34, 
+                    "summary": "Mostly Cloudy", 
+                    "temperature": 75.65, 
+                    "time": 1403020800, 
+                    "windBearing": 90, 
+                    "windSpeed": 4.39
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "ALG", 
+                    "country": "Algeria", 
+                    "goals": 4
+                }, 
+                "datetime": "2014-06-22T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "KOR", 
+                    "country": "Korea Republic", 
+                    "goals": 2
+                }, 
+                "lat": -30.065384, 
+                "lng": -51.235822, 
+                "location": "Estadio Beira-Rio", 
+                "match_number": 32, 
+                "weather": {
+                    "apparentTemperature": 67.47, 
+                    "cloudCover": 0.3, 
+                    "dewPoint": 57.65, 
+                    "humidity": 0.71, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 264.33, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1019.13, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 67.47, 
+                    "time": 1403463600, 
+                    "windBearing": 113, 
+                    "windSpeed": 1.24
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "RUS", 
+                    "country": "Russia", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-26T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ALG", 
+                    "country": "Algeria", 
+                    "goals": 1
+                }, 
+                "lat": -25.4482121, 
+                "lng": -49.276987, 
+                "location": "Arena da Baixada", 
+                "match_number": 48, 
+                "weather": {
+                    "apparentTemperature": 69.96, 
+                    "cloudCover": 0.34, 
+                    "dewPoint": 57.35, 
+                    "humidity": 0.64, 
+                    "icon": "rain", 
+                    "ozone": 272.45, 
+                    "precipIntensity": 0.0027, 
+                    "precipProbability": 0.74, 
+                    "precipType": "rain", 
+                    "pressure": 1013.16, 
+                    "summary": "Drizzle", 
+                    "temperature": 69.96, 
+                    "time": 1403812800, 
+                    "visibility": 6.21, 
+                    "windBearing": 17, 
+                    "windSpeed": 3.36
+                }
+            }
+        ]
+    }, 
+    "ARG": {
+        "code": "ARG", 
+        "country": "Argentina", 
+        "group": "F", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "BIH", 
+                    "country": "Bosnia and Herzegovina", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-15T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ARG", 
+                    "country": "Argentina", 
+                    "goals": 2
+                }, 
+                "lat": -22.912109, 
+                "lng": -43.230156, 
+                "location": "Estadio do Maracana", 
+                "match_number": 11, 
+                "weather": {
+                    "apparentTemperature": 71.96, 
+                    "cloudCover": 0, 
+                    "dewPoint": 67.26, 
+                    "humidity": 0.85, 
+                    "icon": "rain", 
+                    "ozone": 249.87, 
+                    "precipIntensity": 0.0033, 
+                    "precipProbability": 0.67, 
+                    "precipType": "rain", 
+                    "pressure": 1021.92, 
+                    "summary": "Drizzle", 
+                    "temperature": 71.96, 
+                    "time": 1402869600, 
+                    "visibility": 6.2, 
+                    "windBearing": 215, 
+                    "windSpeed": 5.58
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "IRN", 
+                    "country": "Iran", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-21T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ARG", 
+                    "country": "Argentina", 
+                    "goals": 1
+                }, 
+                "lat": -19.865867, 
+                "lng": -43.971132, 
+                "location": "Estadio Mineirao", 
+                "match_number": 27, 
+                "weather": {
+                    "apparentTemperature": 72.39, 
+                    "cloudCover": 0.54, 
+                    "dewPoint": 57.64, 
+                    "humidity": 0.6, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 266.23, 
+                    "precipIntensity": 0.0016, 
+                    "precipProbability": 0.93, 
+                    "precipType": "rain", 
+                    "pressure": 1019.94, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 72.39, 
+                    "time": 1403366400, 
+                    "visibility": 6.2, 
+                    "windBearing": 84, 
+                    "windSpeed": 5.45
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "ARG", 
+                    "country": "Argentina", 
+                    "goals": 3
+                }, 
+                "datetime": "2014-06-25T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "NGA", 
+                    "country": "Nigeria", 
+                    "goals": 2
+                }, 
+                "lat": -30.065384, 
+                "lng": -51.235822, 
+                "location": "Estadio Beira-Rio", 
+                "match_number": 43, 
+                "weather": {
+                    "apparentTemperature": 69.82, 
+                    "cloudCover": 0.75, 
+                    "dewPoint": 64.27, 
+                    "humidity": 0.83, 
+                    "icon": "rain", 
+                    "ozone": 274.12, 
+                    "precipIntensity": 0.018, 
+                    "precipProbability": 0.66, 
+                    "precipType": "rain", 
+                    "pressure": 1011.94, 
+                    "summary": "Light Rain", 
+                    "temperature": 69.82, 
+                    "time": 1403712000, 
+                    "visibility": 3.82, 
+                    "windBearing": 280, 
+                    "windSpeed": 1.35
+                }
+            }
+        ]
+    }, 
+    "AUS": {
+        "code": "AUS", 
+        "country": "Australia", 
+        "group": "B", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "AUS", 
+                    "country": "Australia", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-13T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "CHI", 
+                    "country": "Chile", 
+                    "goals": 3
+                }, 
+                "lat": -15.604017, 
+                "lng": -56.121632, 
+                "location": "Arena Pantanal", 
+                "match_number": 4, 
+                "weather": {
+                    "apparentTemperature": 75, 
+                    "dewPoint": 66.14, 
+                    "humidity": 0.74, 
+                    "icon": "clear-night", 
+                    "precipType": "rain", 
+                    "summary": "Clear", 
+                    "temperature": 75, 
+                    "time": 1402700400, 
+                    "windBearing": 0, 
+                    "windSpeed": 3
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "NED", 
+                    "country": "Netherlands", 
+                    "goals": 3
+                }, 
+                "datetime": "2014-06-18T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "AUS", 
+                    "country": "Australia", 
+                    "goals": 2
+                }, 
+                "lat": -30.065384, 
+                "lng": -51.235822, 
+                "location": "Estadio Beira-Rio", 
+                "match_number": 20, 
+                "weather": {
+                    "apparentTemperature": 58.43, 
+                    "cloudCover": 0.02, 
+                    "dewPoint": 45.08, 
+                    "humidity": 0.61, 
+                    "icon": "clear-day", 
+                    "ozone": 312.67, 
+                    "precipIntensity": 0.0005, 
+                    "precipProbability": 0.88, 
+                    "precipType": "rain", 
+                    "pressure": 1027.65, 
+                    "summary": "Clear", 
+                    "temperature": 58.43, 
+                    "time": 1403107200, 
+                    "visibility": 6.2, 
+                    "windBearing": 217, 
+                    "windSpeed": 7.18
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "ESP", 
+                    "country": "Spain", 
+                    "goals": 3
+                }, 
+                "datetime": "2014-06-23T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "AUS", 
+                    "country": "Australia", 
+                    "goals": 0
+                }, 
+                "lat": -25.4482121, 
+                "lng": -49.276987, 
+                "location": "Arena da Baixada", 
+                "match_number": 35, 
+                "weather": {
+                    "apparentTemperature": 68.42, 
+                    "cloudCover": 0.84, 
+                    "dewPoint": 60.71, 
+                    "humidity": 0.76, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 275.51, 
+                    "precipIntensity": 0.0003, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1019.55, 
+                    "summary": "Mostly Cloudy", 
+                    "temperature": 68.42, 
+                    "time": 1403539200, 
+                    "windBearing": 346, 
+                    "windSpeed": 3.5
+                }
+            }
+        ]
+    }, 
+    "BEL": {
+        "code": "BEL", 
+        "country": "Belgium", 
+        "group": "H", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "ALG", 
+                    "country": "Algeria", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-17T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "BEL", 
+                    "country": "Belgium", 
+                    "goals": 2
+                }, 
+                "lat": -19.865867, 
+                "lng": -43.971132, 
+                "location": "Estadio Mineirao", 
+                "match_number": 15, 
+                "weather": {
+                    "apparentTemperature": 75.65, 
+                    "cloudCover": 0.72, 
+                    "dewPoint": 54.55, 
+                    "humidity": 0.48, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 252.39, 
+                    "precipIntensity": 0.0002, 
+                    "precipProbability": 0.87, 
+                    "precipType": "rain", 
+                    "pressure": 1019.34, 
+                    "summary": "Mostly Cloudy", 
+                    "temperature": 75.65, 
+                    "time": 1403020800, 
+                    "windBearing": 90, 
+                    "windSpeed": 4.39
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "RUS", 
+                    "country": "Russia", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-22T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "BEL", 
+                    "country": "Belgium", 
+                    "goals": 1
+                }, 
+                "lat": -22.912109, 
+                "lng": -43.230156, 
+                "location": "Estadio do Maracana", 
+                "match_number": 31, 
+                "weather": {
+                    "apparentTemperature": 76.48, 
+                    "cloudCover": 0.05, 
+                    "dewPoint": 67.53, 
+                    "humidity": 0.74, 
+                    "icon": "rain", 
+                    "ozone": 270.16, 
+                    "precipIntensity": 0.0031, 
+                    "precipProbability": 0.81, 
+                    "precipType": "rain", 
+                    "pressure": 1023.39, 
+                    "summary": "Drizzle", 
+                    "temperature": 76.48, 
+                    "time": 1403452800, 
+                    "windBearing": 84, 
+                    "windSpeed": 10.35
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "BEL", 
+                    "country": "Belgium", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-26T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "KOR", 
+                    "country": "Korea Republic", 
+                    "goals": 0
+                }, 
+                "lat": -23.545333, 
+                "lng": -46.473702, 
+                "location": "Arena de Sao Paulo", 
+                "match_number": 47, 
+                "weather": {
+                    "apparentTemperature": 75.3, 
+                    "cloudCover": 0.98, 
+                    "dewPoint": 54.95, 
+                    "humidity": 0.49, 
+                    "icon": "cloudy", 
+                    "ozone": 264.28, 
+                    "precipIntensity": 0.0002, 
+                    "precipProbability": 0.89, 
+                    "precipType": "rain", 
+                    "pressure": 1014.2, 
+                    "summary": "Overcast", 
+                    "temperature": 75.3, 
+                    "time": 1403812800, 
+                    "visibility": 3.11, 
+                    "windBearing": 312, 
+                    "windSpeed": 3.94
+                }
+            }
+        ]
+    }, 
+    "BIH": {
+        "code": "BIH", 
+        "country": "Bosnia and Herzegovina", 
+        "group": "F", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "BIH", 
+                    "country": "Bosnia and Herzegovina", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-15T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ARG", 
+                    "country": "Argentina", 
+                    "goals": 2
+                }, 
+                "lat": -22.912109, 
+                "lng": -43.230156, 
+                "location": "Estadio do Maracana", 
+                "match_number": 11, 
+                "weather": {
+                    "apparentTemperature": 71.96, 
+                    "cloudCover": 0, 
+                    "dewPoint": 67.26, 
+                    "humidity": 0.85, 
+                    "icon": "rain", 
+                    "ozone": 249.87, 
+                    "precipIntensity": 0.0033, 
+                    "precipProbability": 0.67, 
+                    "precipType": "rain", 
+                    "pressure": 1021.92, 
+                    "summary": "Drizzle", 
+                    "temperature": 71.96, 
+                    "time": 1402869600, 
+                    "visibility": 6.2, 
+                    "windBearing": 215, 
+                    "windSpeed": 5.58
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "BIH", 
+                    "country": "Bosnia and Herzegovina", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-21T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "NGA", 
+                    "country": "Nigeria", 
+                    "goals": 1
+                }, 
+                "lat": -15.604017, 
+                "lng": -56.121632, 
+                "location": "Arena Pantanal", 
+                "match_number": 28, 
+                "weather": {
+                    "apparentTemperature": 76.62, 
+                    "cloudCover": 0.32, 
+                    "dewPoint": 68.24, 
+                    "humidity": 0.75, 
+                    "icon": "partly-cloudy-night", 
+                    "ozone": 254.45, 
+                    "precipIntensity": 0.0001, 
+                    "precipProbability": 0.98, 
+                    "precipType": "rain", 
+                    "pressure": 1013.16, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 76.62, 
+                    "time": 1403391600, 
+                    "windBearing": 144, 
+                    "windSpeed": 0.95
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "IRN", 
+                    "country": "Iran", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-25T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "BIH", 
+                    "country": "Bosnia and Herzegovina", 
+                    "goals": 3
+                }, 
+                "lat": -12.97883, 
+                "lng": -38.504371, 
+                "location": "Arena Fonte Nova", 
+                "match_number": 44, 
+                "weather": {
+                    "apparentTemperature": 78.35, 
+                    "cloudCover": 0.69, 
+                    "dewPoint": 70.39, 
+                    "humidity": 0.77, 
+                    "icon": "rain", 
+                    "ozone": 253.89, 
+                    "precipIntensity": 0.0097, 
+                    "precipProbability": 0.32, 
+                    "precipType": "rain", 
+                    "pressure": 1015.86, 
+                    "summary": "Drizzle", 
+                    "temperature": 78.35, 
+                    "time": 1403712000, 
+                    "visibility": 10, 
+                    "windBearing": 143, 
+                    "windSpeed": 7.39
+                }
+            }
+        ]
+    }, 
+    "BRA": {
+        "code": "BRA", 
+        "country": "Brazil", 
+        "group": "A", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "CRO", 
+                    "country": "Croatia", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-12T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "BRA", 
+                    "country": "Brazil", 
+                    "goals": 3
+                }, 
+                "lat": -23.545333, 
+                "lng": -46.473702, 
+                "location": "Arena de Sao Paulo", 
+                "match_number": 1, 
+                "weather": {
+                    "apparentTemperature": 74.8, 
+                    "dewPoint": 62.7, 
+                    "humidity": 0.66, 
+                    "icon": "clear-day", 
+                    "precipType": "rain", 
+                    "summary": "Clear", 
+                    "temperature": 74.8, 
+                    "time": 1402603200, 
+                    "visibility": 6.2, 
+                    "windBearing": 82, 
+                    "windSpeed": 8.26
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "MEX", 
+                    "country": "Mexico", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-17T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "BRA", 
+                    "country": "Brazil", 
+                    "goals": 0
+                }, 
+                "lat": -3.807231, 
+                "lng": -38.522434, 
+                "location": "Estadio Castelao", 
+                "match_number": 17, 
+                "weather": {
+                    "apparentTemperature": 87.93, 
+                    "cloudCover": 0.43, 
+                    "dewPoint": 70.16, 
+                    "humidity": 0.64, 
+                    "icon": "rain", 
+                    "ozone": 257.01, 
+                    "precipIntensity": 0.0046, 
+                    "precipProbability": 0.62, 
+                    "precipType": "rain", 
+                    "pressure": 1012.35, 
+                    "summary": "Drizzle", 
+                    "temperature": 83.59, 
+                    "time": 1403031600, 
+                    "visibility": 6.2, 
+                    "windBearing": 92, 
+                    "windSpeed": 14.24
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "BRA", 
+                    "country": "Brazil", 
+                    "goals": 4
+                }, 
+                "datetime": "2014-06-23T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "CMR", 
+                    "country": "Cameroon", 
+                    "goals": 1
+                }, 
+                "lat": -15.783519, 
+                "lng": -47.899211, 
+                "location": "Estadio Nacional", 
+                "match_number": 33, 
+                "weather": {
+                    "apparentTemperature": 72.01, 
+                    "cloudCover": 0.98, 
+                    "dewPoint": 58.63, 
+                    "humidity": 0.63, 
+                    "icon": "cloudy", 
+                    "ozone": 251.39, 
+                    "precipIntensity": 0.0004, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1017.79, 
+                    "summary": "Overcast", 
+                    "temperature": 72.01, 
+                    "time": 1403553600, 
+                    "windBearing": 76, 
+                    "windSpeed": 7.63
+                }
+            }
+        ]
+    }, 
+    "CHI": {
+        "code": "CHI", 
+        "country": "Chile", 
+        "group": "B", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "AUS", 
+                    "country": "Australia", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-13T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "CHI", 
+                    "country": "Chile", 
+                    "goals": 3
+                }, 
+                "lat": -15.604017, 
+                "lng": -56.121632, 
+                "location": "Arena Pantanal", 
+                "match_number": 4, 
+                "weather": {
+                    "apparentTemperature": 75, 
+                    "dewPoint": 66.14, 
+                    "humidity": 0.74, 
+                    "icon": "clear-night", 
+                    "precipType": "rain", 
+                    "summary": "Clear", 
+                    "temperature": 75, 
+                    "time": 1402700400, 
+                    "windBearing": 0, 
+                    "windSpeed": 3
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "CHI", 
+                    "country": "Chile", 
+                    "goals": 2
+                }, 
+                "datetime": "2014-06-18T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ESP", 
+                    "country": "Spain", 
+                    "goals": 0
+                }, 
+                "lat": -22.912109, 
+                "lng": -43.230156, 
+                "location": "Estadio do Maracana", 
+                "match_number": 19, 
+                "weather": {
+                    "apparentTemperature": 73.6, 
+                    "cloudCover": 0.25, 
+                    "dewPoint": 67.93, 
+                    "humidity": 0.83, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 263.01, 
+                    "precipIntensity": 0.0006, 
+                    "precipProbability": 0.88, 
+                    "precipType": "rain", 
+                    "pressure": 1019.46, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 73.6, 
+                    "time": 1403118000, 
+                    "visibility": 3.53, 
+                    "windBearing": 202, 
+                    "windSpeed": 9.2
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "CHI", 
+                    "country": "Chile", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-23T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "NED", 
+                    "country": "Netherlands", 
+                    "goals": 2
+                }, 
+                "lat": -23.545333, 
+                "lng": -46.473702, 
+                "location": "Arena de Sao Paulo", 
+                "match_number": 36, 
+                "weather": {
+                    "apparentTemperature": 73.86, 
+                    "cloudCover": 0.82, 
+                    "dewPoint": 63.24, 
+                    "humidity": 0.69, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 265.14, 
+                    "precipIntensity": 0.0002, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1020.67, 
+                    "summary": "Mostly Cloudy", 
+                    "temperature": 73.86, 
+                    "time": 1403539200, 
+                    "windBearing": 337, 
+                    "windSpeed": 3.68
+                }
+            }
+        ]
+    }, 
+    "CIV": {
+        "code": "CIV", 
+        "country": "Ivory Coast", 
+        "group": "C", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "JPN", 
+                    "country": "Japan", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-14T22:00:00.000-03:00", 
+                "home_team": {
+                    "code": "CIV", 
+                    "country": "Ivory Coast", 
+                    "goals": 2
+                }, 
+                "lat": -8.04065, 
+                "lng": -35.008205, 
+                "location": "Arena Pernambuco", 
+                "match_number": 6, 
+                "weather": {
+                    "apparentTemperature": 74.82, 
+                    "cloudCover": 0.05, 
+                    "dewPoint": 71.3, 
+                    "humidity": 0.89, 
+                    "icon": "clear-night", 
+                    "ozone": 251.46, 
+                    "precipIntensity": 0.0219, 
+                    "precipProbability": 0.12, 
+                    "precipType": "rain", 
+                    "pressure": 1015.85, 
+                    "summary": "Clear", 
+                    "temperature": 74.82, 
+                    "time": 1402794000, 
+                    "visibility": 5.34, 
+                    "windBearing": 141, 
+                    "windSpeed": 9.43
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "CIV", 
+                    "country": "Ivory Coast", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-19T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "COL", 
+                    "country": "Colombia", 
+                    "goals": 2
+                }, 
+                "lat": -15.783519, 
+                "lng": -47.899211, 
+                "location": "Estadio Nacional", 
+                "match_number": 21, 
+                "weather": {
+                    "apparentTemperature": 77.98, 
+                    "cloudCover": 0.98, 
+                    "dewPoint": 56.53, 
+                    "humidity": 0.48, 
+                    "icon": "cloudy", 
+                    "ozone": 259.05, 
+                    "precipIntensity": 0.0003, 
+                    "precipProbability": 0.92, 
+                    "precipType": "rain", 
+                    "pressure": 1018.22, 
+                    "summary": "Overcast", 
+                    "temperature": 77.98, 
+                    "time": 1403193600, 
+                    "visibility": 6.2, 
+                    "windBearing": 152, 
+                    "windSpeed": 6.07
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "CIV", 
+                    "country": "Ivory Coast", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-24T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "GRE", 
+                    "country": "Greece", 
+                    "goals": 2
+                }, 
+                "lat": -3.807231, 
+                "lng": -38.522434, 
+                "location": "Estadio Castelao", 
+                "match_number": 38, 
+                "weather": {
+                    "apparentTemperature": 88.93, 
+                    "cloudCover": 0.61, 
+                    "dewPoint": 71.26, 
+                    "humidity": 0.66, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 252.84, 
+                    "precipIntensity": 0.0002, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1012.02, 
+                    "summary": "Mostly Cloudy", 
+                    "temperature": 83.84, 
+                    "time": 1403640000, 
+                    "windBearing": 65, 
+                    "windSpeed": 16.09
+                }
+            }
+        ]
+    }, 
+    "CMR": {
+        "code": "CMR", 
+        "country": "Cameroon", 
+        "group": "A", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "CMR", 
+                    "country": "Cameroon", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-13T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "MEX", 
+                    "country": "Mexico", 
+                    "goals": 1
+                }, 
+                "lat": -5.826827, 
+                "lng": -35.21243, 
+                "location": "Estadio das Dunas", 
+                "match_number": 2, 
+                "weather": {
+                    "apparentTemperature": 73.92, 
+                    "dewPoint": 72.01, 
+                    "humidity": 0.94, 
+                    "icon": "clear-day", 
+                    "precipType": "rain", 
+                    "summary": "Humid", 
+                    "temperature": 73.92, 
+                    "time": 1402675200, 
+                    "visibility": 3.47, 
+                    "windBearing": 87, 
+                    "windSpeed": 5.08
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "CRO", 
+                    "country": "Croatia", 
+                    "goals": 4
+                }, 
+                "datetime": "2014-06-18T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "CMR", 
+                    "country": "Cameroon", 
+                    "goals": 0
+                }, 
+                "lat": -3.083142, 
+                "lng": -60.028108, 
+                "location": "Arena Amazonia", 
+                "match_number": 18, 
+                "weather": {
+                    "apparentTemperature": 77.22, 
+                    "cloudCover": 0.81, 
+                    "dewPoint": 73.32, 
+                    "humidity": 0.88, 
+                    "icon": "rain", 
+                    "ozone": 249.45, 
+                    "precipIntensity": 0.0115, 
+                    "precipProbability": 0.4, 
+                    "precipType": "rain", 
+                    "pressure": 1014.23, 
+                    "summary": "Drizzle", 
+                    "temperature": 77.22, 
+                    "time": 1403132400, 
+                    "visibility": 6.2, 
+                    "windBearing": 57, 
+                    "windSpeed": 1.45
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "BRA", 
+                    "country": "Brazil", 
+                    "goals": 4
+                }, 
+                "datetime": "2014-06-23T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "CMR", 
+                    "country": "Cameroon", 
+                    "goals": 1
+                }, 
+                "lat": -15.783519, 
+                "lng": -47.899211, 
+                "location": "Estadio Nacional", 
+                "match_number": 33, 
+                "weather": {
+                    "apparentTemperature": 72.01, 
+                    "cloudCover": 0.98, 
+                    "dewPoint": 58.63, 
+                    "humidity": 0.63, 
+                    "icon": "cloudy", 
+                    "ozone": 251.39, 
+                    "precipIntensity": 0.0004, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1017.79, 
+                    "summary": "Overcast", 
+                    "temperature": 72.01, 
+                    "time": 1403553600, 
+                    "windBearing": 76, 
+                    "windSpeed": 7.63
+                }
+            }
+        ]
+    }, 
+    "COL": {
+        "code": "COL", 
+        "country": "Colombia", 
+        "group": "C", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "GRE", 
+                    "country": "Greece", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-14T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "COL", 
+                    "country": "Colombia", 
+                    "goals": 3
+                }, 
+                "lat": -19.865867, 
+                "lng": -43.971132, 
+                "location": "Estadio Mineirao", 
+                "match_number": 5, 
+                "weather": {
+                    "apparentTemperature": 72.26, 
+                    "cloudCover": 0.7, 
+                    "dewPoint": 55.19, 
+                    "humidity": 0.55, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 255.8, 
+                    "precipIntensity": 0.0002, 
+                    "precipProbability": 0.8, 
+                    "precipType": "rain", 
+                    "pressure": 1020.92, 
+                    "summary": "Mostly Cloudy", 
+                    "temperature": 72.26, 
+                    "time": 1402761600, 
+                    "visibility": 6.2, 
+                    "windBearing": 84, 
+                    "windSpeed": 7.13
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "CIV", 
+                    "country": "Ivory Coast", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-19T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "COL", 
+                    "country": "Colombia", 
+                    "goals": 2
+                }, 
+                "lat": -15.783519, 
+                "lng": -47.899211, 
+                "location": "Estadio Nacional", 
+                "match_number": 21, 
+                "weather": {
+                    "apparentTemperature": 77.98, 
+                    "cloudCover": 0.98, 
+                    "dewPoint": 56.53, 
+                    "humidity": 0.48, 
+                    "icon": "cloudy", 
+                    "ozone": 259.05, 
+                    "precipIntensity": 0.0003, 
+                    "precipProbability": 0.92, 
+                    "precipType": "rain", 
+                    "pressure": 1018.22, 
+                    "summary": "Overcast", 
+                    "temperature": 77.98, 
+                    "time": 1403193600, 
+                    "visibility": 6.2, 
+                    "windBearing": 152, 
+                    "windSpeed": 6.07
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "COL", 
+                    "country": "Colombia", 
+                    "goals": 4
+                }, 
+                "datetime": "2014-06-24T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "JPN", 
+                    "country": "Japan", 
+                    "goals": 1
+                }, 
+                "lat": -15.604017, 
+                "lng": -56.121632, 
+                "location": "Arena Pantanal", 
+                "match_number": 37, 
+                "weather": {
+                    "apparentTemperature": 81.38, 
+                    "cloudCover": 0.35, 
+                    "dewPoint": 56.86, 
+                    "humidity": 0.43, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 252.9, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1013.16, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 81.5, 
+                    "time": 1403643600, 
+                    "windBearing": 55, 
+                    "windSpeed": 3.84
+                }
+            }
+        ]
+    }, 
+    "CRC": {
+        "code": "CRC", 
+        "country": "Costa Rica", 
+        "group": "D", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "CRC", 
+                    "country": "Costa Rica", 
+                    "goals": 3
+                }, 
+                "datetime": "2014-06-14T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "URU", 
+                    "country": "Uruguay", 
+                    "goals": 1
+                }, 
+                "lat": -3.807231, 
+                "lng": -38.522434, 
+                "location": "Estadio Castelao", 
+                "match_number": 7, 
+                "weather": {
+                    "apparentTemperature": 87.58, 
+                    "cloudCover": 0.22, 
+                    "dewPoint": 67.53, 
+                    "humidity": 0.57, 
+                    "icon": "rain", 
+                    "ozone": 247.92, 
+                    "precipIntensity": 0.0046, 
+                    "precipProbability": 0.61, 
+                    "precipType": "rain", 
+                    "pressure": 1011.52, 
+                    "summary": "Drizzle", 
+                    "temperature": 84.56, 
+                    "time": 1402772400, 
+                    "visibility": 6.2, 
+                    "windBearing": 94, 
+                    "windSpeed": 10.27
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "CRC", 
+                    "country": "Costa Rica", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-20T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ITA", 
+                    "country": "Italy", 
+                    "goals": 0
+                }, 
+                "lat": -8.04065, 
+                "lng": -35.008205, 
+                "location": "Arena Pernambuco", 
+                "match_number": 24, 
+                "weather": {
+                    "apparentTemperature": 86.1, 
+                    "cloudCover": 0.23, 
+                    "dewPoint": 70.47, 
+                    "humidity": 0.68, 
+                    "icon": "rain", 
+                    "ozone": 257.87, 
+                    "precipIntensity": 0.0052, 
+                    "precipProbability": 0.64, 
+                    "precipType": "rain", 
+                    "pressure": 1015.33, 
+                    "summary": "Drizzle", 
+                    "temperature": 82.04, 
+                    "time": 1403280000, 
+                    "visibility": 6.2, 
+                    "windBearing": 149, 
+                    "windSpeed": 14.06
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "ENG", 
+                    "country": "England", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-24T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "CRC", 
+                    "country": "Costa Rica", 
+                    "goals": 0
+                }, 
+                "lat": -19.865867, 
+                "lng": -43.971132, 
+                "location": "Estadio Mineirao", 
+                "match_number": 40, 
+                "weather": {
+                    "apparentTemperature": 76.16, 
+                    "cloudCover": 0.41, 
+                    "dewPoint": 54.04, 
+                    "humidity": 0.46, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 264.8, 
+                    "precipIntensity": 0.0001, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1019.44, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 76.16, 
+                    "time": 1403625600, 
+                    "visibility": 6.21, 
+                    "windBearing": 70, 
+                    "windSpeed": 6.17
+                }
+            }
+        ]
+    }, 
+    "CRO": {
+        "code": "CRO", 
+        "country": "Croatia", 
+        "group": "A", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "CRO", 
+                    "country": "Croatia", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-12T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "BRA", 
+                    "country": "Brazil", 
+                    "goals": 3
+                }, 
+                "lat": -23.545333, 
+                "lng": -46.473702, 
+                "location": "Arena de Sao Paulo", 
+                "match_number": 1, 
+                "weather": {
+                    "apparentTemperature": 74.8, 
+                    "dewPoint": 62.7, 
+                    "humidity": 0.66, 
+                    "icon": "clear-day", 
+                    "precipType": "rain", 
+                    "summary": "Clear", 
+                    "temperature": 74.8, 
+                    "time": 1402603200, 
+                    "visibility": 6.2, 
+                    "windBearing": 82, 
+                    "windSpeed": 8.26
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "CRO", 
+                    "country": "Croatia", 
+                    "goals": 4
+                }, 
+                "datetime": "2014-06-18T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "CMR", 
+                    "country": "Cameroon", 
+                    "goals": 0
+                }, 
+                "lat": -3.083142, 
+                "lng": -60.028108, 
+                "location": "Arena Amazonia", 
+                "match_number": 18, 
+                "weather": {
+                    "apparentTemperature": 77.22, 
+                    "cloudCover": 0.81, 
+                    "dewPoint": 73.32, 
+                    "humidity": 0.88, 
+                    "icon": "rain", 
+                    "ozone": 249.45, 
+                    "precipIntensity": 0.0115, 
+                    "precipProbability": 0.4, 
+                    "precipType": "rain", 
+                    "pressure": 1014.23, 
+                    "summary": "Drizzle", 
+                    "temperature": 77.22, 
+                    "time": 1403132400, 
+                    "visibility": 6.2, 
+                    "windBearing": 57, 
+                    "windSpeed": 1.45
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "MEX", 
+                    "country": "Mexico", 
+                    "goals": 3
+                }, 
+                "datetime": "2014-06-23T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "CRO", 
+                    "country": "Croatia", 
+                    "goals": 1
+                }, 
+                "lat": -8.04065, 
+                "lng": -35.008205, 
+                "location": "Arena Pernambuco", 
+                "match_number": 34, 
+                "weather": {
+                    "apparentTemperature": 76.35, 
+                    "cloudCover": 0.94, 
+                    "dewPoint": 72.02, 
+                    "humidity": 0.87, 
+                    "icon": "cloudy", 
+                    "ozone": 254.04, 
+                    "precipIntensity": 0.0293, 
+                    "precipProbability": 0.03, 
+                    "precipType": "rain", 
+                    "pressure": 1016.7, 
+                    "summary": "Humid and Overcast", 
+                    "temperature": 76.35, 
+                    "time": 1403553600, 
+                    "windBearing": 149, 
+                    "windSpeed": 10.8
+                }
+            }
+        ]
+    }, 
+    "ECU": {
+        "code": "ECU", 
+        "country": "Ecuador", 
+        "group": "E", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "ECU", 
+                    "country": "Ecuador", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-15T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "SUI", 
+                    "country": "Switzerland", 
+                    "goals": 2
+                }, 
+                "lat": -15.783519, 
+                "lng": -47.899211, 
+                "location": "Estadio Nacional", 
+                "match_number": 9, 
+                "weather": {
+                    "apparentTemperature": 73.4, 
+                    "cloudCover": 0.97, 
+                    "dewPoint": 59.17, 
+                    "humidity": 0.61, 
+                    "icon": "cloudy", 
+                    "ozone": 254.22, 
+                    "precipIntensity": 0.0009, 
+                    "precipProbability": 0.8, 
+                    "precipType": "rain", 
+                    "pressure": 1017.56, 
+                    "summary": "Overcast", 
+                    "temperature": 73.4, 
+                    "time": 1402848000, 
+                    "visibility": 6.2, 
+                    "windBearing": 92, 
+                    "windSpeed": 9.32
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "ECU", 
+                    "country": "Ecuador", 
+                    "goals": 2
+                }, 
+                "datetime": "2014-06-20T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "HON", 
+                    "country": "Honduras", 
+                    "goals": 1
+                }, 
+                "lat": -25.4482121, 
+                "lng": -49.276987, 
+                "location": "Arena da Baixada", 
+                "match_number": 26, 
+                "weather": {
+                    "apparentTemperature": 54.76, 
+                    "cloudCover": 1, 
+                    "dewPoint": 51.02, 
+                    "humidity": 0.87, 
+                    "icon": "cloudy", 
+                    "ozone": 291.34, 
+                    "precipIntensity": 0.0003, 
+                    "precipProbability": 0.95, 
+                    "precipType": "rain", 
+                    "pressure": 1022.15, 
+                    "summary": "Overcast", 
+                    "temperature": 54.76, 
+                    "time": 1403301600, 
+                    "visibility": 6.2, 
+                    "windBearing": 108, 
+                    "windSpeed": 2.72
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "FRA", 
+                    "country": "France", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-25T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ECU", 
+                    "country": "Ecuador", 
+                    "goals": 0
+                }, 
+                "lat": -22.912109, 
+                "lng": -43.230156, 
+                "location": "Estadio do Maracana", 
+                "match_number": 42, 
+                "weather": {
+                    "apparentTemperature": 76.07, 
+                    "cloudCover": 0.17, 
+                    "dewPoint": 65.35, 
+                    "humidity": 0.69, 
+                    "icon": "clear-day", 
+                    "ozone": 262.48, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1015.99, 
+                    "summary": "Clear", 
+                    "temperature": 76.07, 
+                    "time": 1403726400, 
+                    "visibility": 4.35, 
+                    "windBearing": 166, 
+                    "windSpeed": 7.81
+                }
+            }
+        ]
+    }, 
+    "ENG": {
+        "code": "ENG", 
+        "country": "England", 
+        "group": "D", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "ITA", 
+                    "country": "Italy", 
+                    "goals": 2
+                }, 
+                "datetime": "2014-06-14T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ENG", 
+                    "country": "England", 
+                    "goals": 1
+                }, 
+                "lat": -3.083142, 
+                "lng": -60.028108, 
+                "location": "Arena Amazonia", 
+                "match_number": 8, 
+                "weather": {
+                    "apparentTemperature": 79.76, 
+                    "cloudCover": 0.01, 
+                    "dewPoint": 68.11, 
+                    "humidity": 0.68, 
+                    "icon": "clear-night", 
+                    "ozone": 251.99, 
+                    "precipIntensity": 0.0003, 
+                    "precipProbability": 0.8, 
+                    "precipType": "rain", 
+                    "pressure": 1010.8, 
+                    "summary": "Clear", 
+                    "temperature": 79.76, 
+                    "time": 1402786800, 
+                    "windBearing": 119, 
+                    "windSpeed": 3
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "ENG", 
+                    "country": "England", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-19T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "URU", 
+                    "country": "Uruguay", 
+                    "goals": 2
+                }, 
+                "lat": -23.545333, 
+                "lng": -46.473702, 
+                "location": "Arena de Sao Paulo", 
+                "match_number": 23, 
+                "weather": {
+                    "apparentTemperature": 61.03, 
+                    "cloudCover": 0.91, 
+                    "dewPoint": 56.8, 
+                    "humidity": 0.86, 
+                    "icon": "rain", 
+                    "ozone": 286.33, 
+                    "precipIntensity": 0.0081, 
+                    "precipProbability": 0.42, 
+                    "precipType": "rain", 
+                    "pressure": 1024.34, 
+                    "summary": "Drizzle", 
+                    "temperature": 61.03, 
+                    "time": 1403204400, 
+                    "visibility": 5.84, 
+                    "windBearing": 166, 
+                    "windSpeed": 9.02
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "ENG", 
+                    "country": "England", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-24T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "CRC", 
+                    "country": "Costa Rica", 
+                    "goals": 0
+                }, 
+                "lat": -19.865867, 
+                "lng": -43.971132, 
+                "location": "Estadio Mineirao", 
+                "match_number": 40, 
+                "weather": {
+                    "apparentTemperature": 76.16, 
+                    "cloudCover": 0.41, 
+                    "dewPoint": 54.04, 
+                    "humidity": 0.46, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 264.8, 
+                    "precipIntensity": 0.0001, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1019.44, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 76.16, 
+                    "time": 1403625600, 
+                    "visibility": 6.21, 
+                    "windBearing": 70, 
+                    "windSpeed": 6.17
+                }
+            }
+        ]
+    }, 
+    "ESP": {
+        "code": "ESP", 
+        "country": "Spain", 
+        "group": "B", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "NED", 
+                    "country": "Netherlands", 
+                    "goals": 5
+                }, 
+                "datetime": "2014-06-13T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ESP", 
+                    "country": "Spain", 
+                    "goals": 1
+                }, 
+                "lat": -12.97883, 
+                "lng": -38.504371, 
+                "location": "Arena Fonte Nova", 
+                "match_number": 3, 
+                "weather": {
+                    "apparentTemperature": 79, 
+                    "dewPoint": 71.91, 
+                    "humidity": 0.79, 
+                    "icon": "clear-day", 
+                    "precipType": "rain", 
+                    "summary": "Clear", 
+                    "temperature": 79, 
+                    "time": 1402686000, 
+                    "visibility": 6.2, 
+                    "windBearing": 150, 
+                    "windSpeed": 8
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "CHI", 
+                    "country": "Chile", 
+                    "goals": 2
+                }, 
+                "datetime": "2014-06-18T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ESP", 
+                    "country": "Spain", 
+                    "goals": 0
+                }, 
+                "lat": -22.912109, 
+                "lng": -43.230156, 
+                "location": "Estadio do Maracana", 
+                "match_number": 19, 
+                "weather": {
+                    "apparentTemperature": 73.6, 
+                    "cloudCover": 0.25, 
+                    "dewPoint": 67.93, 
+                    "humidity": 0.83, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 263.01, 
+                    "precipIntensity": 0.0006, 
+                    "precipProbability": 0.88, 
+                    "precipType": "rain", 
+                    "pressure": 1019.46, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 73.6, 
+                    "time": 1403118000, 
+                    "visibility": 3.53, 
+                    "windBearing": 202, 
+                    "windSpeed": 9.2
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "ESP", 
+                    "country": "Spain", 
+                    "goals": 3
+                }, 
+                "datetime": "2014-06-23T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "AUS", 
+                    "country": "Australia", 
+                    "goals": 0
+                }, 
+                "lat": -25.4482121, 
+                "lng": -49.276987, 
+                "location": "Arena da Baixada", 
+                "match_number": 35, 
+                "weather": {
+                    "apparentTemperature": 68.42, 
+                    "cloudCover": 0.84, 
+                    "dewPoint": 60.71, 
+                    "humidity": 0.76, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 275.51, 
+                    "precipIntensity": 0.0003, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1019.55, 
+                    "summary": "Mostly Cloudy", 
+                    "temperature": 68.42, 
+                    "time": 1403539200, 
+                    "windBearing": 346, 
+                    "windSpeed": 3.5
+                }
+            }
+        ]
+    }, 
+    "FRA": {
+        "code": "FRA", 
+        "country": "France", 
+        "group": "E", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "HON", 
+                    "country": "Honduras", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-15T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "FRA", 
+                    "country": "France", 
+                    "goals": 3
+                }, 
+                "lat": -30.065384, 
+                "lng": -51.235822, 
+                "location": "Estadio Beira-Rio", 
+                "match_number": 10, 
+                "weather": {
+                    "apparentTemperature": 66.1, 
+                    "cloudCover": 0.13, 
+                    "dewPoint": 60.19, 
+                    "humidity": 0.81, 
+                    "icon": "clear-day", 
+                    "ozone": 265.66, 
+                    "precipIntensity": 0.0002, 
+                    "precipProbability": 0.83, 
+                    "precipType": "rain", 
+                    "pressure": 1022.29, 
+                    "summary": "Clear", 
+                    "temperature": 66.1, 
+                    "time": 1402858800, 
+                    "visibility": 6.1, 
+                    "windBearing": 97, 
+                    "windSpeed": 12
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "FRA", 
+                    "country": "France", 
+                    "goals": 5
+                }, 
+                "datetime": "2014-06-20T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "SUI", 
+                    "country": "Switzerland", 
+                    "goals": 2
+                }, 
+                "lat": -12.97883, 
+                "lng": -38.504371, 
+                "location": "Arena Fonte Nova", 
+                "match_number": 25, 
+                "weather": {
+                    "apparentTemperature": 83.45, 
+                    "cloudCover": 0.94, 
+                    "dewPoint": 70.53, 
+                    "humidity": 0.73, 
+                    "icon": "rain", 
+                    "ozone": 254.07, 
+                    "precipIntensity": 0.0092, 
+                    "precipProbability": 0.42, 
+                    "precipType": "rain", 
+                    "pressure": 1016.83, 
+                    "summary": "Drizzle", 
+                    "temperature": 80.09, 
+                    "time": 1403290800, 
+                    "visibility": 6.2, 
+                    "windBearing": 134, 
+                    "windSpeed": 7.72
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "FRA", 
+                    "country": "France", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-25T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ECU", 
+                    "country": "Ecuador", 
+                    "goals": 0
+                }, 
+                "lat": -22.912109, 
+                "lng": -43.230156, 
+                "location": "Estadio do Maracana", 
+                "match_number": 42, 
+                "weather": {
+                    "apparentTemperature": 76.07, 
+                    "cloudCover": 0.17, 
+                    "dewPoint": 65.35, 
+                    "humidity": 0.69, 
+                    "icon": "clear-day", 
+                    "ozone": 262.48, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1015.99, 
+                    "summary": "Clear", 
+                    "temperature": 76.07, 
+                    "time": 1403726400, 
+                    "visibility": 4.35, 
+                    "windBearing": 166, 
+                    "windSpeed": 7.81
+                }
+            }
+        ]
+    }, 
+    "GER": {
+        "code": "GER", 
+        "country": "Germany", 
+        "group": "G", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "POR", 
+                    "country": "Portugal", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-16T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "GER", 
+                    "country": "Germany", 
+                    "goals": 4
+                }, 
+                "lat": -12.97883, 
+                "lng": -38.504371, 
+                "location": "Arena Fonte Nova", 
+                "match_number": 13, 
+                "weather": {
+                    "apparentTemperature": 79.86, 
+                    "cloudCover": 0.17, 
+                    "dewPoint": 70.52, 
+                    "humidity": 0.73, 
+                    "icon": "clear-day", 
+                    "ozone": 255.43, 
+                    "precipIntensity": 0.0127, 
+                    "precipProbability": 0.24, 
+                    "precipType": "rain", 
+                    "pressure": 1017.5, 
+                    "summary": "Clear", 
+                    "temperature": 79.86, 
+                    "time": 1402934400, 
+                    "visibility": 6.2, 
+                    "windBearing": 130, 
+                    "windSpeed": 11.61
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "GHA", 
+                    "country": "Ghana", 
+                    "goals": 2
+                }, 
+                "datetime": "2014-06-21T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "GER", 
+                    "country": "Germany", 
+                    "goals": 2
+                }, 
+                "lat": -3.807231, 
+                "lng": -38.522434, 
+                "location": "Estadio Castelao", 
+                "match_number": 29, 
+                "weather": {
+                    "apparentTemperature": 86.49, 
+                    "cloudCover": 0.24, 
+                    "dewPoint": 64.4, 
+                    "humidity": 0.5, 
+                    "icon": "clear-day", 
+                    "ozone": 255.14, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1011.81, 
+                    "summary": "Clear", 
+                    "temperature": 84.97, 
+                    "time": 1403377200, 
+                    "windBearing": 96, 
+                    "windSpeed": 10.58
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "GER", 
+                    "country": "Germany", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-26T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "USA", 
+                    "country": "USA", 
+                    "goals": 0
+                }, 
+                "lat": -8.04065, 
+                "lng": -35.008205, 
+                "location": "Arena Pernambuco", 
+                "match_number": 45, 
+                "weather": {
+                    "apparentTemperature": 79.15, 
+                    "cloudCover": 0.76, 
+                    "dewPoint": 74.67, 
+                    "humidity": 0.86, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 249.56, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1014.18, 
+                    "summary": "Humid and Mostly Cloudy", 
+                    "temperature": 79.15, 
+                    "time": 1403798400, 
+                    "windBearing": 102, 
+                    "windSpeed": 7.37
+                }
+            }
+        ]
+    }, 
+    "GHA": {
+        "code": "GHA", 
+        "country": "Ghana", 
+        "group": "G", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "USA", 
+                    "country": "USA", 
+                    "goals": 2
+                }, 
+                "datetime": "2014-06-16T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "GHA", 
+                    "country": "Ghana", 
+                    "goals": 1
+                }, 
+                "lat": -5.826827, 
+                "lng": -35.21243, 
+                "location": "Estadio das Dunas", 
+                "match_number": 14, 
+                "weather": {
+                    "apparentTemperature": 79.27, 
+                    "cloudCover": 0.22, 
+                    "dewPoint": 71.3, 
+                    "humidity": 0.77, 
+                    "icon": "rain", 
+                    "ozone": 252.42, 
+                    "precipIntensity": 0.0101, 
+                    "precipProbability": 0.49, 
+                    "precipType": "rain", 
+                    "pressure": 1014.88, 
+                    "summary": "Drizzle", 
+                    "temperature": 79.27, 
+                    "time": 1402956000, 
+                    "visibility": 6.2, 
+                    "windBearing": 144, 
+                    "windSpeed": 14.24
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "GHA", 
+                    "country": "Ghana", 
+                    "goals": 2
+                }, 
+                "datetime": "2014-06-21T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "GER", 
+                    "country": "Germany", 
+                    "goals": 2
+                }, 
+                "lat": -3.807231, 
+                "lng": -38.522434, 
+                "location": "Estadio Castelao", 
+                "match_number": 29, 
+                "weather": {
+                    "apparentTemperature": 86.49, 
+                    "cloudCover": 0.24, 
+                    "dewPoint": 64.4, 
+                    "humidity": 0.5, 
+                    "icon": "clear-day", 
+                    "ozone": 255.14, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1011.81, 
+                    "summary": "Clear", 
+                    "temperature": 84.97, 
+                    "time": 1403377200, 
+                    "windBearing": 96, 
+                    "windSpeed": 10.58
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "GHA", 
+                    "country": "Ghana", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-26T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "POR", 
+                    "country": "Portugal", 
+                    "goals": 2
+                }, 
+                "lat": -15.783519, 
+                "lng": -47.899211, 
+                "location": "Estadio Nacional", 
+                "match_number": 46, 
+                "weather": {
+                    "apparentTemperature": 77.01, 
+                    "cloudCover": 0.49, 
+                    "dewPoint": 52.37, 
+                    "humidity": 0.42, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 252.3, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1015.16, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 77.01, 
+                    "time": 1403798400, 
+                    "windBearing": 71, 
+                    "windSpeed": 6.56
+                }
+            }
+        ]
+    }, 
+    "GRE": {
+        "code": "GRE", 
+        "country": "Greece", 
+        "group": "C", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "GRE", 
+                    "country": "Greece", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-14T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "COL", 
+                    "country": "Colombia", 
+                    "goals": 3
+                }, 
+                "lat": -19.865867, 
+                "lng": -43.971132, 
+                "location": "Estadio Mineirao", 
+                "match_number": 5, 
+                "weather": {
+                    "apparentTemperature": 72.26, 
+                    "cloudCover": 0.7, 
+                    "dewPoint": 55.19, 
+                    "humidity": 0.55, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 255.8, 
+                    "precipIntensity": 0.0002, 
+                    "precipProbability": 0.8, 
+                    "precipType": "rain", 
+                    "pressure": 1020.92, 
+                    "summary": "Mostly Cloudy", 
+                    "temperature": 72.26, 
+                    "time": 1402761600, 
+                    "visibility": 6.2, 
+                    "windBearing": 84, 
+                    "windSpeed": 7.13
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "GRE", 
+                    "country": "Greece", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-19T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "JPN", 
+                    "country": "Japan", 
+                    "goals": 0
+                }, 
+                "lat": -5.826827, 
+                "lng": -35.21243, 
+                "location": "Estadio das Dunas", 
+                "match_number": 22, 
+                "weather": {
+                    "apparentTemperature": 78.78, 
+                    "cloudCover": 0.61, 
+                    "dewPoint": 73.38, 
+                    "humidity": 0.84, 
+                    "icon": "rain", 
+                    "ozone": 256.26, 
+                    "precipIntensity": 0.0086, 
+                    "precipProbability": 0.69, 
+                    "precipType": "rain", 
+                    "pressure": 1015.07, 
+                    "summary": "Drizzle", 
+                    "temperature": 78.78, 
+                    "time": 1403215200, 
+                    "visibility": 6.2, 
+                    "windBearing": 143, 
+                    "windSpeed": 16.3
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "CIV", 
+                    "country": "Ivory Coast", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-24T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "GRE", 
+                    "country": "Greece", 
+                    "goals": 2
+                }, 
+                "lat": -3.807231, 
+                "lng": -38.522434, 
+                "location": "Estadio Castelao", 
+                "match_number": 38, 
+                "weather": {
+                    "apparentTemperature": 88.93, 
+                    "cloudCover": 0.61, 
+                    "dewPoint": 71.26, 
+                    "humidity": 0.66, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 252.84, 
+                    "precipIntensity": 0.0002, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1012.02, 
+                    "summary": "Mostly Cloudy", 
+                    "temperature": 83.84, 
+                    "time": 1403640000, 
+                    "windBearing": 65, 
+                    "windSpeed": 16.09
+                }
+            }
+        ]
+    }, 
+    "HON": {
+        "code": "HON", 
+        "country": "Honduras", 
+        "group": "E", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "HON", 
+                    "country": "Honduras", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-15T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "FRA", 
+                    "country": "France", 
+                    "goals": 3
+                }, 
+                "lat": -30.065384, 
+                "lng": -51.235822, 
+                "location": "Estadio Beira-Rio", 
+                "match_number": 10, 
+                "weather": {
+                    "apparentTemperature": 66.1, 
+                    "cloudCover": 0.13, 
+                    "dewPoint": 60.19, 
+                    "humidity": 0.81, 
+                    "icon": "clear-day", 
+                    "ozone": 265.66, 
+                    "precipIntensity": 0.0002, 
+                    "precipProbability": 0.83, 
+                    "precipType": "rain", 
+                    "pressure": 1022.29, 
+                    "summary": "Clear", 
+                    "temperature": 66.1, 
+                    "time": 1402858800, 
+                    "visibility": 6.1, 
+                    "windBearing": 97, 
+                    "windSpeed": 12
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "ECU", 
+                    "country": "Ecuador", 
+                    "goals": 2
+                }, 
+                "datetime": "2014-06-20T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "HON", 
+                    "country": "Honduras", 
+                    "goals": 1
+                }, 
+                "lat": -25.4482121, 
+                "lng": -49.276987, 
+                "location": "Arena da Baixada", 
+                "match_number": 26, 
+                "weather": {
+                    "apparentTemperature": 54.76, 
+                    "cloudCover": 1, 
+                    "dewPoint": 51.02, 
+                    "humidity": 0.87, 
+                    "icon": "cloudy", 
+                    "ozone": 291.34, 
+                    "precipIntensity": 0.0003, 
+                    "precipProbability": 0.95, 
+                    "precipType": "rain", 
+                    "pressure": 1022.15, 
+                    "summary": "Overcast", 
+                    "temperature": 54.76, 
+                    "time": 1403301600, 
+                    "visibility": 6.2, 
+                    "windBearing": 108, 
+                    "windSpeed": 2.72
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "SUI", 
+                    "country": "Switzerland", 
+                    "goals": 3
+                }, 
+                "datetime": "2014-06-25T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "HON", 
+                    "country": "Honduras", 
+                    "goals": 0
+                }, 
+                "lat": -3.083142, 
+                "lng": -60.028108, 
+                "location": "Arena Amazonia", 
+                "match_number": 41, 
+                "weather": {
+                    "apparentTemperature": 103.39, 
+                    "cloudCover": 0.25, 
+                    "dewPoint": 82.28, 
+                    "humidity": 0.91, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 252.9, 
+                    "precipIntensity": 0.0077, 
+                    "precipProbability": 0.26, 
+                    "precipType": "rain", 
+                    "pressure": 1010.19, 
+                    "summary": "Humid and Partly Cloudy", 
+                    "temperature": 85.36, 
+                    "time": 1403730000, 
+                    "visibility": 6.21, 
+                    "windBearing": 7, 
+                    "windSpeed": 1.88
+                }
+            }
+        ]
+    }, 
+    "IRN": {
+        "code": "IRN", 
+        "country": "Iran", 
+        "group": "F", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "NGA", 
+                    "country": "Nigeria", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-16T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "IRN", 
+                    "country": "Iran", 
+                    "goals": 0
+                }, 
+                "lat": -25.4482121, 
+                "lng": -49.276987, 
+                "location": "Arena da Baixada", 
+                "match_number": 12, 
+                "weather": {
+                    "apparentTemperature": 70.21, 
+                    "cloudCover": 0.51, 
+                    "dewPoint": 62.3, 
+                    "humidity": 0.76, 
+                    "icon": "rain", 
+                    "ozone": 253.94, 
+                    "precipIntensity": 0.0032, 
+                    "precipProbability": 0.7, 
+                    "precipType": "rain", 
+                    "pressure": 1019.68, 
+                    "summary": "Drizzle", 
+                    "temperature": 70.21, 
+                    "time": 1402945200, 
+                    "visibility": 6.2, 
+                    "windBearing": 259, 
+                    "windSpeed": 5.21
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "IRN", 
+                    "country": "Iran", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-21T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ARG", 
+                    "country": "Argentina", 
+                    "goals": 1
+                }, 
+                "lat": -19.865867, 
+                "lng": -43.971132, 
+                "location": "Estadio Mineirao", 
+                "match_number": 27, 
+                "weather": {
+                    "apparentTemperature": 72.39, 
+                    "cloudCover": 0.54, 
+                    "dewPoint": 57.64, 
+                    "humidity": 0.6, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 266.23, 
+                    "precipIntensity": 0.0016, 
+                    "precipProbability": 0.93, 
+                    "precipType": "rain", 
+                    "pressure": 1019.94, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 72.39, 
+                    "time": 1403366400, 
+                    "visibility": 6.2, 
+                    "windBearing": 84, 
+                    "windSpeed": 5.45
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "IRN", 
+                    "country": "Iran", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-25T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "BIH", 
+                    "country": "Bosnia and Herzegovina", 
+                    "goals": 3
+                }, 
+                "lat": -12.97883, 
+                "lng": -38.504371, 
+                "location": "Arena Fonte Nova", 
+                "match_number": 44, 
+                "weather": {
+                    "apparentTemperature": 78.35, 
+                    "cloudCover": 0.69, 
+                    "dewPoint": 70.39, 
+                    "humidity": 0.77, 
+                    "icon": "rain", 
+                    "ozone": 253.89, 
+                    "precipIntensity": 0.0097, 
+                    "precipProbability": 0.32, 
+                    "precipType": "rain", 
+                    "pressure": 1015.86, 
+                    "summary": "Drizzle", 
+                    "temperature": 78.35, 
+                    "time": 1403712000, 
+                    "visibility": 10, 
+                    "windBearing": 143, 
+                    "windSpeed": 7.39
+                }
+            }
+        ]
+    }, 
+    "ITA": {
+        "code": "ITA", 
+        "country": "Italy", 
+        "group": "D", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "ITA", 
+                    "country": "Italy", 
+                    "goals": 2
+                }, 
+                "datetime": "2014-06-14T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ENG", 
+                    "country": "England", 
+                    "goals": 1
+                }, 
+                "lat": -3.083142, 
+                "lng": -60.028108, 
+                "location": "Arena Amazonia", 
+                "match_number": 8, 
+                "weather": {
+                    "apparentTemperature": 79.76, 
+                    "cloudCover": 0.01, 
+                    "dewPoint": 68.11, 
+                    "humidity": 0.68, 
+                    "icon": "clear-night", 
+                    "ozone": 251.99, 
+                    "precipIntensity": 0.0003, 
+                    "precipProbability": 0.8, 
+                    "precipType": "rain", 
+                    "pressure": 1010.8, 
+                    "summary": "Clear", 
+                    "temperature": 79.76, 
+                    "time": 1402786800, 
+                    "windBearing": 119, 
+                    "windSpeed": 3
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "CRC", 
+                    "country": "Costa Rica", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-20T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ITA", 
+                    "country": "Italy", 
+                    "goals": 0
+                }, 
+                "lat": -8.04065, 
+                "lng": -35.008205, 
+                "location": "Arena Pernambuco", 
+                "match_number": 24, 
+                "weather": {
+                    "apparentTemperature": 86.1, 
+                    "cloudCover": 0.23, 
+                    "dewPoint": 70.47, 
+                    "humidity": 0.68, 
+                    "icon": "rain", 
+                    "ozone": 257.87, 
+                    "precipIntensity": 0.0052, 
+                    "precipProbability": 0.64, 
+                    "precipType": "rain", 
+                    "pressure": 1015.33, 
+                    "summary": "Drizzle", 
+                    "temperature": 82.04, 
+                    "time": 1403280000, 
+                    "visibility": 6.2, 
+                    "windBearing": 149, 
+                    "windSpeed": 14.06
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "URU", 
+                    "country": "Uruguay", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-24T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ITA", 
+                    "country": "Italy", 
+                    "goals": 0
+                }, 
+                "lat": -5.826827, 
+                "lng": -35.21243, 
+                "location": "Estadio das Dunas", 
+                "match_number": 39, 
+                "weather": {
+                    "apparentTemperature": 88.05, 
+                    "cloudCover": 0.74, 
+                    "dewPoint": 74.34, 
+                    "humidity": 0.78, 
+                    "icon": "rain", 
+                    "ozone": 251.98, 
+                    "precipIntensity": 0.0144, 
+                    "precipProbability": 0.25, 
+                    "precipType": "rain", 
+                    "pressure": 1014.64, 
+                    "summary": "Drizzle", 
+                    "temperature": 81.89, 
+                    "time": 1403625600, 
+                    "visibility": 6.21, 
+                    "windBearing": 133, 
+                    "windSpeed": 17.81
+                }
+            }
+        ]
+    }, 
+    "JPN": {
+        "code": "JPN", 
+        "country": "Japan", 
+        "group": "C", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "JPN", 
+                    "country": "Japan", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-14T22:00:00.000-03:00", 
+                "home_team": {
+                    "code": "CIV", 
+                    "country": "Ivory Coast", 
+                    "goals": 2
+                }, 
+                "lat": -8.04065, 
+                "lng": -35.008205, 
+                "location": "Arena Pernambuco", 
+                "match_number": 6, 
+                "weather": {
+                    "apparentTemperature": 74.82, 
+                    "cloudCover": 0.05, 
+                    "dewPoint": 71.3, 
+                    "humidity": 0.89, 
+                    "icon": "clear-night", 
+                    "ozone": 251.46, 
+                    "precipIntensity": 0.0219, 
+                    "precipProbability": 0.12, 
+                    "precipType": "rain", 
+                    "pressure": 1015.85, 
+                    "summary": "Clear", 
+                    "temperature": 74.82, 
+                    "time": 1402794000, 
+                    "visibility": 5.34, 
+                    "windBearing": 141, 
+                    "windSpeed": 9.43
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "GRE", 
+                    "country": "Greece", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-19T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "JPN", 
+                    "country": "Japan", 
+                    "goals": 0
+                }, 
+                "lat": -5.826827, 
+                "lng": -35.21243, 
+                "location": "Estadio das Dunas", 
+                "match_number": 22, 
+                "weather": {
+                    "apparentTemperature": 78.78, 
+                    "cloudCover": 0.61, 
+                    "dewPoint": 73.38, 
+                    "humidity": 0.84, 
+                    "icon": "rain", 
+                    "ozone": 256.26, 
+                    "precipIntensity": 0.0086, 
+                    "precipProbability": 0.69, 
+                    "precipType": "rain", 
+                    "pressure": 1015.07, 
+                    "summary": "Drizzle", 
+                    "temperature": 78.78, 
+                    "time": 1403215200, 
+                    "visibility": 6.2, 
+                    "windBearing": 143, 
+                    "windSpeed": 16.3
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "COL", 
+                    "country": "Colombia", 
+                    "goals": 4
+                }, 
+                "datetime": "2014-06-24T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "JPN", 
+                    "country": "Japan", 
+                    "goals": 1
+                }, 
+                "lat": -15.604017, 
+                "lng": -56.121632, 
+                "location": "Arena Pantanal", 
+                "match_number": 37, 
+                "weather": {
+                    "apparentTemperature": 81.38, 
+                    "cloudCover": 0.35, 
+                    "dewPoint": 56.86, 
+                    "humidity": 0.43, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 252.9, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1013.16, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 81.5, 
+                    "time": 1403643600, 
+                    "windBearing": 55, 
+                    "windSpeed": 3.84
+                }
+            }
+        ]
+    }, 
+    "KOR": {
+        "code": "KOR", 
+        "country": "Korea Republic", 
+        "group": "H", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "KOR", 
+                    "country": "Korea Republic", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-17T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "RUS", 
+                    "country": "Russia", 
+                    "goals": 1
+                }, 
+                "lat": -15.604017, 
+                "lng": -56.121632, 
+                "location": "Arena Pantanal", 
+                "match_number": 16, 
+                "weather": {
+                    "apparentTemperature": 74.51, 
+                    "cloudCover": 0.96, 
+                    "dewPoint": 65.67, 
+                    "humidity": 0.74, 
+                    "icon": "cloudy", 
+                    "ozone": 260.83, 
+                    "precipIntensity": 0.0001, 
+                    "precipProbability": 0.88, 
+                    "precipType": "rain", 
+                    "pressure": 1015.31, 
+                    "summary": "Overcast", 
+                    "temperature": 74.51, 
+                    "time": 1403046000, 
+                    "visibility": 6.2, 
+                    "windBearing": 168, 
+                    "windSpeed": 3.05
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "ALG", 
+                    "country": "Algeria", 
+                    "goals": 4
+                }, 
+                "datetime": "2014-06-22T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "KOR", 
+                    "country": "Korea Republic", 
+                    "goals": 2
+                }, 
+                "lat": -30.065384, 
+                "lng": -51.235822, 
+                "location": "Estadio Beira-Rio", 
+                "match_number": 32, 
+                "weather": {
+                    "apparentTemperature": 67.47, 
+                    "cloudCover": 0.3, 
+                    "dewPoint": 57.65, 
+                    "humidity": 0.71, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 264.33, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1019.13, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 67.47, 
+                    "time": 1403463600, 
+                    "windBearing": 113, 
+                    "windSpeed": 1.24
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "BEL", 
+                    "country": "Belgium", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-26T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "KOR", 
+                    "country": "Korea Republic", 
+                    "goals": 0
+                }, 
+                "lat": -23.545333, 
+                "lng": -46.473702, 
+                "location": "Arena de Sao Paulo", 
+                "match_number": 47, 
+                "weather": {
+                    "apparentTemperature": 75.3, 
+                    "cloudCover": 0.98, 
+                    "dewPoint": 54.95, 
+                    "humidity": 0.49, 
+                    "icon": "cloudy", 
+                    "ozone": 264.28, 
+                    "precipIntensity": 0.0002, 
+                    "precipProbability": 0.89, 
+                    "precipType": "rain", 
+                    "pressure": 1014.2, 
+                    "summary": "Overcast", 
+                    "temperature": 75.3, 
+                    "time": 1403812800, 
+                    "visibility": 3.11, 
+                    "windBearing": 312, 
+                    "windSpeed": 3.94
+                }
+            }
+        ]
+    }, 
+    "MEX": {
+        "code": "MEX", 
+        "country": "Mexico", 
+        "group": "A", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "CMR", 
+                    "country": "Cameroon", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-13T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "MEX", 
+                    "country": "Mexico", 
+                    "goals": 1
+                }, 
+                "lat": -5.826827, 
+                "lng": -35.21243, 
+                "location": "Estadio das Dunas", 
+                "match_number": 2, 
+                "weather": {
+                    "apparentTemperature": 73.92, 
+                    "dewPoint": 72.01, 
+                    "humidity": 0.94, 
+                    "icon": "clear-day", 
+                    "precipType": "rain", 
+                    "summary": "Humid", 
+                    "temperature": 73.92, 
+                    "time": 1402675200, 
+                    "visibility": 3.47, 
+                    "windBearing": 87, 
+                    "windSpeed": 5.08
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "MEX", 
+                    "country": "Mexico", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-17T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "BRA", 
+                    "country": "Brazil", 
+                    "goals": 0
+                }, 
+                "lat": -3.807231, 
+                "lng": -38.522434, 
+                "location": "Estadio Castelao", 
+                "match_number": 17, 
+                "weather": {
+                    "apparentTemperature": 87.93, 
+                    "cloudCover": 0.43, 
+                    "dewPoint": 70.16, 
+                    "humidity": 0.64, 
+                    "icon": "rain", 
+                    "ozone": 257.01, 
+                    "precipIntensity": 0.0046, 
+                    "precipProbability": 0.62, 
+                    "precipType": "rain", 
+                    "pressure": 1012.35, 
+                    "summary": "Drizzle", 
+                    "temperature": 83.59, 
+                    "time": 1403031600, 
+                    "visibility": 6.2, 
+                    "windBearing": 92, 
+                    "windSpeed": 14.24
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "MEX", 
+                    "country": "Mexico", 
+                    "goals": 3
+                }, 
+                "datetime": "2014-06-23T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "CRO", 
+                    "country": "Croatia", 
+                    "goals": 1
+                }, 
+                "lat": -8.04065, 
+                "lng": -35.008205, 
+                "location": "Arena Pernambuco", 
+                "match_number": 34, 
+                "weather": {
+                    "apparentTemperature": 76.35, 
+                    "cloudCover": 0.94, 
+                    "dewPoint": 72.02, 
+                    "humidity": 0.87, 
+                    "icon": "cloudy", 
+                    "ozone": 254.04, 
+                    "precipIntensity": 0.0293, 
+                    "precipProbability": 0.03, 
+                    "precipType": "rain", 
+                    "pressure": 1016.7, 
+                    "summary": "Humid and Overcast", 
+                    "temperature": 76.35, 
+                    "time": 1403553600, 
+                    "windBearing": 149, 
+                    "windSpeed": 10.8
+                }
+            }
+        ]
+    }, 
+    "NED": {
+        "code": "NED", 
+        "country": "Netherlands", 
+        "group": "B", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "NED", 
+                    "country": "Netherlands", 
+                    "goals": 5
+                }, 
+                "datetime": "2014-06-13T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ESP", 
+                    "country": "Spain", 
+                    "goals": 1
+                }, 
+                "lat": -12.97883, 
+                "lng": -38.504371, 
+                "location": "Arena Fonte Nova", 
+                "match_number": 3, 
+                "weather": {
+                    "apparentTemperature": 79, 
+                    "dewPoint": 71.91, 
+                    "humidity": 0.79, 
+                    "icon": "clear-day", 
+                    "precipType": "rain", 
+                    "summary": "Clear", 
+                    "temperature": 79, 
+                    "time": 1402686000, 
+                    "visibility": 6.2, 
+                    "windBearing": 150, 
+                    "windSpeed": 8
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "NED", 
+                    "country": "Netherlands", 
+                    "goals": 3
+                }, 
+                "datetime": "2014-06-18T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "AUS", 
+                    "country": "Australia", 
+                    "goals": 2
+                }, 
+                "lat": -30.065384, 
+                "lng": -51.235822, 
+                "location": "Estadio Beira-Rio", 
+                "match_number": 20, 
+                "weather": {
+                    "apparentTemperature": 58.43, 
+                    "cloudCover": 0.02, 
+                    "dewPoint": 45.08, 
+                    "humidity": 0.61, 
+                    "icon": "clear-day", 
+                    "ozone": 312.67, 
+                    "precipIntensity": 0.0005, 
+                    "precipProbability": 0.88, 
+                    "precipType": "rain", 
+                    "pressure": 1027.65, 
+                    "summary": "Clear", 
+                    "temperature": 58.43, 
+                    "time": 1403107200, 
+                    "visibility": 6.2, 
+                    "windBearing": 217, 
+                    "windSpeed": 7.18
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "CHI", 
+                    "country": "Chile", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-23T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "NED", 
+                    "country": "Netherlands", 
+                    "goals": 2
+                }, 
+                "lat": -23.545333, 
+                "lng": -46.473702, 
+                "location": "Arena de Sao Paulo", 
+                "match_number": 36, 
+                "weather": {
+                    "apparentTemperature": 73.86, 
+                    "cloudCover": 0.82, 
+                    "dewPoint": 63.24, 
+                    "humidity": 0.69, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 265.14, 
+                    "precipIntensity": 0.0002, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1020.67, 
+                    "summary": "Mostly Cloudy", 
+                    "temperature": 73.86, 
+                    "time": 1403539200, 
+                    "windBearing": 337, 
+                    "windSpeed": 3.68
+                }
+            }
+        ]
+    }, 
+    "NGA": {
+        "code": "NGA", 
+        "country": "Nigeria", 
+        "group": "F", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "NGA", 
+                    "country": "Nigeria", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-16T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "IRN", 
+                    "country": "Iran", 
+                    "goals": 0
+                }, 
+                "lat": -25.4482121, 
+                "lng": -49.276987, 
+                "location": "Arena da Baixada", 
+                "match_number": 12, 
+                "weather": {
+                    "apparentTemperature": 70.21, 
+                    "cloudCover": 0.51, 
+                    "dewPoint": 62.3, 
+                    "humidity": 0.76, 
+                    "icon": "rain", 
+                    "ozone": 253.94, 
+                    "precipIntensity": 0.0032, 
+                    "precipProbability": 0.7, 
+                    "precipType": "rain", 
+                    "pressure": 1019.68, 
+                    "summary": "Drizzle", 
+                    "temperature": 70.21, 
+                    "time": 1402945200, 
+                    "visibility": 6.2, 
+                    "windBearing": 259, 
+                    "windSpeed": 5.21
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "BIH", 
+                    "country": "Bosnia and Herzegovina", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-21T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "NGA", 
+                    "country": "Nigeria", 
+                    "goals": 1
+                }, 
+                "lat": -15.604017, 
+                "lng": -56.121632, 
+                "location": "Arena Pantanal", 
+                "match_number": 28, 
+                "weather": {
+                    "apparentTemperature": 76.62, 
+                    "cloudCover": 0.32, 
+                    "dewPoint": 68.24, 
+                    "humidity": 0.75, 
+                    "icon": "partly-cloudy-night", 
+                    "ozone": 254.45, 
+                    "precipIntensity": 0.0001, 
+                    "precipProbability": 0.98, 
+                    "precipType": "rain", 
+                    "pressure": 1013.16, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 76.62, 
+                    "time": 1403391600, 
+                    "windBearing": 144, 
+                    "windSpeed": 0.95
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "ARG", 
+                    "country": "Argentina", 
+                    "goals": 3
+                }, 
+                "datetime": "2014-06-25T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "NGA", 
+                    "country": "Nigeria", 
+                    "goals": 2
+                }, 
+                "lat": -30.065384, 
+                "lng": -51.235822, 
+                "location": "Estadio Beira-Rio", 
+                "match_number": 43, 
+                "weather": {
+                    "apparentTemperature": 69.82, 
+                    "cloudCover": 0.75, 
+                    "dewPoint": 64.27, 
+                    "humidity": 0.83, 
+                    "icon": "rain", 
+                    "ozone": 274.12, 
+                    "precipIntensity": 0.018, 
+                    "precipProbability": 0.66, 
+                    "precipType": "rain", 
+                    "pressure": 1011.94, 
+                    "summary": "Light Rain", 
+                    "temperature": 69.82, 
+                    "time": 1403712000, 
+                    "visibility": 3.82, 
+                    "windBearing": 280, 
+                    "windSpeed": 1.35
+                }
+            }
+        ]
+    }, 
+    "POR": {
+        "code": "POR", 
+        "country": "Portugal", 
+        "group": "G", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "POR", 
+                    "country": "Portugal", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-16T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "GER", 
+                    "country": "Germany", 
+                    "goals": 4
+                }, 
+                "lat": -12.97883, 
+                "lng": -38.504371, 
+                "location": "Arena Fonte Nova", 
+                "match_number": 13, 
+                "weather": {
+                    "apparentTemperature": 79.86, 
+                    "cloudCover": 0.17, 
+                    "dewPoint": 70.52, 
+                    "humidity": 0.73, 
+                    "icon": "clear-day", 
+                    "ozone": 255.43, 
+                    "precipIntensity": 0.0127, 
+                    "precipProbability": 0.24, 
+                    "precipType": "rain", 
+                    "pressure": 1017.5, 
+                    "summary": "Clear", 
+                    "temperature": 79.86, 
+                    "time": 1402934400, 
+                    "visibility": 6.2, 
+                    "windBearing": 130, 
+                    "windSpeed": 11.61
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "POR", 
+                    "country": "Portugal", 
+                    "goals": 2
+                }, 
+                "datetime": "2014-06-22T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "USA", 
+                    "country": "USA", 
+                    "goals": 2
+                }, 
+                "lat": -3.083142, 
+                "lng": -60.028108, 
+                "location": "Arena Amazonia", 
+                "match_number": 30, 
+                "weather": {
+                    "apparentTemperature": 86.94, 
+                    "cloudCover": 0.96, 
+                    "dewPoint": 74.86, 
+                    "humidity": 0.81, 
+                    "icon": "rain", 
+                    "ozone": 255.76, 
+                    "precipIntensity": 0.0055, 
+                    "precipProbability": 0.63, 
+                    "precipType": "rain", 
+                    "pressure": 1011.72, 
+                    "summary": "Drizzle", 
+                    "temperature": 81.1, 
+                    "time": 1403478000, 
+                    "windBearing": 85, 
+                    "windSpeed": 1.58
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "GHA", 
+                    "country": "Ghana", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-26T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "POR", 
+                    "country": "Portugal", 
+                    "goals": 2
+                }, 
+                "lat": -15.783519, 
+                "lng": -47.899211, 
+                "location": "Estadio Nacional", 
+                "match_number": 46, 
+                "weather": {
+                    "apparentTemperature": 77.01, 
+                    "cloudCover": 0.49, 
+                    "dewPoint": 52.37, 
+                    "humidity": 0.42, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 252.3, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1015.16, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 77.01, 
+                    "time": 1403798400, 
+                    "windBearing": 71, 
+                    "windSpeed": 6.56
+                }
+            }
+        ]
+    }, 
+    "RUS": {
+        "code": "RUS", 
+        "country": "Russia", 
+        "group": "H", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "KOR", 
+                    "country": "Korea Republic", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-17T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "RUS", 
+                    "country": "Russia", 
+                    "goals": 1
+                }, 
+                "lat": -15.604017, 
+                "lng": -56.121632, 
+                "location": "Arena Pantanal", 
+                "match_number": 16, 
+                "weather": {
+                    "apparentTemperature": 74.51, 
+                    "cloudCover": 0.96, 
+                    "dewPoint": 65.67, 
+                    "humidity": 0.74, 
+                    "icon": "cloudy", 
+                    "ozone": 260.83, 
+                    "precipIntensity": 0.0001, 
+                    "precipProbability": 0.88, 
+                    "precipType": "rain", 
+                    "pressure": 1015.31, 
+                    "summary": "Overcast", 
+                    "temperature": 74.51, 
+                    "time": 1403046000, 
+                    "visibility": 6.2, 
+                    "windBearing": 168, 
+                    "windSpeed": 3.05
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "RUS", 
+                    "country": "Russia", 
+                    "goals": 0
+                }, 
+                "datetime": "2014-06-22T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "BEL", 
+                    "country": "Belgium", 
+                    "goals": 1
+                }, 
+                "lat": -22.912109, 
+                "lng": -43.230156, 
+                "location": "Estadio do Maracana", 
+                "match_number": 31, 
+                "weather": {
+                    "apparentTemperature": 76.48, 
+                    "cloudCover": 0.05, 
+                    "dewPoint": 67.53, 
+                    "humidity": 0.74, 
+                    "icon": "rain", 
+                    "ozone": 270.16, 
+                    "precipIntensity": 0.0031, 
+                    "precipProbability": 0.81, 
+                    "precipType": "rain", 
+                    "pressure": 1023.39, 
+                    "summary": "Drizzle", 
+                    "temperature": 76.48, 
+                    "time": 1403452800, 
+                    "windBearing": 84, 
+                    "windSpeed": 10.35
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "RUS", 
+                    "country": "Russia", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-26T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ALG", 
+                    "country": "Algeria", 
+                    "goals": 1
+                }, 
+                "lat": -25.4482121, 
+                "lng": -49.276987, 
+                "location": "Arena da Baixada", 
+                "match_number": 48, 
+                "weather": {
+                    "apparentTemperature": 69.96, 
+                    "cloudCover": 0.34, 
+                    "dewPoint": 57.35, 
+                    "humidity": 0.64, 
+                    "icon": "rain", 
+                    "ozone": 272.45, 
+                    "precipIntensity": 0.0027, 
+                    "precipProbability": 0.74, 
+                    "precipType": "rain", 
+                    "pressure": 1013.16, 
+                    "summary": "Drizzle", 
+                    "temperature": 69.96, 
+                    "time": 1403812800, 
+                    "visibility": 6.21, 
+                    "windBearing": 17, 
+                    "windSpeed": 3.36
+                }
+            }
+        ]
+    }, 
+    "SUI": {
+        "code": "SUI", 
+        "country": "Switzerland", 
+        "group": "E", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "ECU", 
+                    "country": "Ecuador", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-15T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "SUI", 
+                    "country": "Switzerland", 
+                    "goals": 2
+                }, 
+                "lat": -15.783519, 
+                "lng": -47.899211, 
+                "location": "Estadio Nacional", 
+                "match_number": 9, 
+                "weather": {
+                    "apparentTemperature": 73.4, 
+                    "cloudCover": 0.97, 
+                    "dewPoint": 59.17, 
+                    "humidity": 0.61, 
+                    "icon": "cloudy", 
+                    "ozone": 254.22, 
+                    "precipIntensity": 0.0009, 
+                    "precipProbability": 0.8, 
+                    "precipType": "rain", 
+                    "pressure": 1017.56, 
+                    "summary": "Overcast", 
+                    "temperature": 73.4, 
+                    "time": 1402848000, 
+                    "visibility": 6.2, 
+                    "windBearing": 92, 
+                    "windSpeed": 9.32
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "FRA", 
+                    "country": "France", 
+                    "goals": 5
+                }, 
+                "datetime": "2014-06-20T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "SUI", 
+                    "country": "Switzerland", 
+                    "goals": 2
+                }, 
+                "lat": -12.97883, 
+                "lng": -38.504371, 
+                "location": "Arena Fonte Nova", 
+                "match_number": 25, 
+                "weather": {
+                    "apparentTemperature": 83.45, 
+                    "cloudCover": 0.94, 
+                    "dewPoint": 70.53, 
+                    "humidity": 0.73, 
+                    "icon": "rain", 
+                    "ozone": 254.07, 
+                    "precipIntensity": 0.0092, 
+                    "precipProbability": 0.42, 
+                    "precipType": "rain", 
+                    "pressure": 1016.83, 
+                    "summary": "Drizzle", 
+                    "temperature": 80.09, 
+                    "time": 1403290800, 
+                    "visibility": 6.2, 
+                    "windBearing": 134, 
+                    "windSpeed": 7.72
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "SUI", 
+                    "country": "Switzerland", 
+                    "goals": 3
+                }, 
+                "datetime": "2014-06-25T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "HON", 
+                    "country": "Honduras", 
+                    "goals": 0
+                }, 
+                "lat": -3.083142, 
+                "lng": -60.028108, 
+                "location": "Arena Amazonia", 
+                "match_number": 41, 
+                "weather": {
+                    "apparentTemperature": 103.39, 
+                    "cloudCover": 0.25, 
+                    "dewPoint": 82.28, 
+                    "humidity": 0.91, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 252.9, 
+                    "precipIntensity": 0.0077, 
+                    "precipProbability": 0.26, 
+                    "precipType": "rain", 
+                    "pressure": 1010.19, 
+                    "summary": "Humid and Partly Cloudy", 
+                    "temperature": 85.36, 
+                    "time": 1403730000, 
+                    "visibility": 6.21, 
+                    "windBearing": 7, 
+                    "windSpeed": 1.88
+                }
+            }
+        ]
+    }, 
+    "URU": {
+        "code": "URU", 
+        "country": "Uruguay", 
+        "group": "D", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "CRC", 
+                    "country": "Costa Rica", 
+                    "goals": 3
+                }, 
+                "datetime": "2014-06-14T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "URU", 
+                    "country": "Uruguay", 
+                    "goals": 1
+                }, 
+                "lat": -3.807231, 
+                "lng": -38.522434, 
+                "location": "Estadio Castelao", 
+                "match_number": 7, 
+                "weather": {
+                    "apparentTemperature": 87.58, 
+                    "cloudCover": 0.22, 
+                    "dewPoint": 67.53, 
+                    "humidity": 0.57, 
+                    "icon": "rain", 
+                    "ozone": 247.92, 
+                    "precipIntensity": 0.0046, 
+                    "precipProbability": 0.61, 
+                    "precipType": "rain", 
+                    "pressure": 1011.52, 
+                    "summary": "Drizzle", 
+                    "temperature": 84.56, 
+                    "time": 1402772400, 
+                    "visibility": 6.2, 
+                    "windBearing": 94, 
+                    "windSpeed": 10.27
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "ENG", 
+                    "country": "England", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-19T16:00:00.000-03:00", 
+                "home_team": {
+                    "code": "URU", 
+                    "country": "Uruguay", 
+                    "goals": 2
+                }, 
+                "lat": -23.545333, 
+                "lng": -46.473702, 
+                "location": "Arena de Sao Paulo", 
+                "match_number": 23, 
+                "weather": {
+                    "apparentTemperature": 61.03, 
+                    "cloudCover": 0.91, 
+                    "dewPoint": 56.8, 
+                    "humidity": 0.86, 
+                    "icon": "rain", 
+                    "ozone": 286.33, 
+                    "precipIntensity": 0.0081, 
+                    "precipProbability": 0.42, 
+                    "precipType": "rain", 
+                    "pressure": 1024.34, 
+                    "summary": "Drizzle", 
+                    "temperature": 61.03, 
+                    "time": 1403204400, 
+                    "visibility": 5.84, 
+                    "windBearing": 166, 
+                    "windSpeed": 9.02
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "URU", 
+                    "country": "Uruguay", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-24T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ITA", 
+                    "country": "Italy", 
+                    "goals": 0
+                }, 
+                "lat": -5.826827, 
+                "lng": -35.21243, 
+                "location": "Estadio das Dunas", 
+                "match_number": 39, 
+                "weather": {
+                    "apparentTemperature": 88.05, 
+                    "cloudCover": 0.74, 
+                    "dewPoint": 74.34, 
+                    "humidity": 0.78, 
+                    "icon": "rain", 
+                    "ozone": 251.98, 
+                    "precipIntensity": 0.0144, 
+                    "precipProbability": 0.25, 
+                    "precipType": "rain", 
+                    "pressure": 1014.64, 
+                    "summary": "Drizzle", 
+                    "temperature": 81.89, 
+                    "time": 1403625600, 
+                    "visibility": 6.21, 
+                    "windBearing": 133, 
+                    "windSpeed": 17.81
+                }
+            }
+        ]
+    }, 
+    "USA": {
+        "code": "USA", 
+        "country": "USA", 
+        "group": "G", 
+        "matches": [
+            {
+                "away_team": {
+                    "code": "USA", 
+                    "country": "USA", 
+                    "goals": 2
+                }, 
+                "datetime": "2014-06-16T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "GHA", 
+                    "country": "Ghana", 
+                    "goals": 1
+                }, 
+                "lat": -5.826827, 
+                "lng": -35.21243, 
+                "location": "Estadio das Dunas", 
+                "match_number": 14, 
+                "weather": {
+                    "apparentTemperature": 79.27, 
+                    "cloudCover": 0.22, 
+                    "dewPoint": 71.3, 
+                    "humidity": 0.77, 
+                    "icon": "rain", 
+                    "ozone": 252.42, 
+                    "precipIntensity": 0.0101, 
+                    "precipProbability": 0.49, 
+                    "precipType": "rain", 
+                    "pressure": 1014.88, 
+                    "summary": "Drizzle", 
+                    "temperature": 79.27, 
+                    "time": 1402956000, 
+                    "visibility": 6.2, 
+                    "windBearing": 144, 
+                    "windSpeed": 14.24
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "POR", 
+                    "country": "Portugal", 
+                    "goals": 2
+                }, 
+                "datetime": "2014-06-22T19:00:00.000-03:00", 
+                "home_team": {
+                    "code": "USA", 
+                    "country": "USA", 
+                    "goals": 2
+                }, 
+                "lat": -3.083142, 
+                "lng": -60.028108, 
+                "location": "Arena Amazonia", 
+                "match_number": 30, 
+                "weather": {
+                    "apparentTemperature": 86.94, 
+                    "cloudCover": 0.96, 
+                    "dewPoint": 74.86, 
+                    "humidity": 0.81, 
+                    "icon": "rain", 
+                    "ozone": 255.76, 
+                    "precipIntensity": 0.0055, 
+                    "precipProbability": 0.63, 
+                    "precipType": "rain", 
+                    "pressure": 1011.72, 
+                    "summary": "Drizzle", 
+                    "temperature": 81.1, 
+                    "time": 1403478000, 
+                    "windBearing": 85, 
+                    "windSpeed": 1.58
+                }
+            }, 
+            {
+                "away_team": {
+                    "code": "GER", 
+                    "country": "Germany", 
+                    "goals": 1
+                }, 
+                "datetime": "2014-06-26T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "USA", 
+                    "country": "USA", 
+                    "goals": 0
+                }, 
+                "lat": -8.04065, 
+                "lng": -35.008205, 
+                "location": "Arena Pernambuco", 
+                "match_number": 45, 
+                "weather": {
+                    "apparentTemperature": 79.15, 
+                    "cloudCover": 0.76, 
+                    "dewPoint": 74.67, 
+                    "humidity": 0.86, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 249.56, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1014.18, 
+                    "summary": "Humid and Mostly Cloudy", 
+                    "temperature": 79.15, 
+                    "time": 1403798400, 
+                    "windBearing": 102, 
+                    "windSpeed": 7.37
+                }
+            }
+        ]
+    }
+}
