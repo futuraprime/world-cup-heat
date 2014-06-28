@@ -1,15 +1,19 @@
 (function($, _, d3) {
-  var w = 400; var h = 600;
+  var w = 400; var h = 800;
   var chart = d3.select('#interactive').append('svg');
   chart.attr('width', w)
     .attr('height', h);
 
+  function getTransformString(x, y, css) {
+    return 'translate('+(x || 0)+(css ? 'px' : '')+','+(y || 0)+(css ? 'px' : '')+')';
+  }
+
   var xScale = d3.scale.linear()
-    .range([50, w-50])
-    .domain([1,3]);
-  var yScale = d3.scale.linear()
-    .range([h-50, 50])
-    .domain([40, 100]);
+    .range([100, w])
+    .domain([0,3]);
+  var yScale = d3.scale.ordinal()
+    .domain(_.range(32))
+    .rangePoints([0, h], 1);
 
   var line = d3.svg.line()
     .x(function(d) { return xScale(d.number); })
@@ -21,14 +25,32 @@
   $.getJSON('data/teams.json', function(teams) {
     console.log(teams);
     var teamArray = _.values(teams);
-    var teamGroups = chart.selectAll('g.team')
+    var allTeams = chart.selectAll('g.team')
       .data(teamArray).enter().append('g')
-      .attr('class', 'team');
-
-    teamGroups.append('path')
-      .attr('d', function(d) {
-        // console.log(d.matches);
-        return line(d.matches);
+      .attr('class', 'team')
+      .attr('transform', function(d, i) {
+        return getTransformString(0, yScale(i));
       });
+
+    var teamGroups = allTeams.selectAll('g.match')
+      .data(function(d) { return d.matches; })
+      .enter().append('g')
+      .attr('class', 'match')
+      .attr('transform', function(d) {
+        return getTransformString(xScale(d.number -1), 0);
+      });
+
+    teamGroups.append('rect')
+      .attr('x', 0)
+      .attr('width', xScale(2) - xScale(1))
+      .attr('height', yScale(2) - yScale(1))
+      .attr('fill', function(d) { return '#B13631'; });
+
+    teamGroups.append('text')
+      .text(function(d) { return d.weather.temperature; })
+      .attr('class', 'team-text')
+      .attr('x', (xScale(2) - xScale(1)) / 2)
+      .attr('y', 15)
+      .attr('text-anchor', 'middle');
   });
 }).call(this, jQuery, _, d3);
