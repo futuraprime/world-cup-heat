@@ -1,5 +1,5 @@
 (function($, _, d3) {
-  var w = 400; var h = 800;
+  var w = 350; var h = 800;
   var chart = d3.select('#interactive').append('svg');
   chart.attr('width', w)
     .attr('height', h);
@@ -9,7 +9,7 @@
   }
 
   var xScale = d3.scale.linear()
-    .range([100, w])
+    .range([50, w])
     .domain([0,3]);
   var yScale = d3.scale.ordinal()
     .domain(_.range(32))
@@ -30,6 +30,8 @@
       return yScale(d.weather.temperature);
     });
 
+  var textOffset = 16;
+
   $.getJSON('data/teams.json', function(teams) {
     console.log(teams);
     var teamArray = _.values(teams);
@@ -39,6 +41,14 @@
       .attr('transform', function(d, i) {
         return getTransformString(0, yScale(i));
       });
+
+    allTeams.append('text')
+      .text(function(d) { return d.code; })
+      .attr('text-anchor', 'end')
+      .attr('x', xScale(0) - 5)
+      .attr('y', textOffset + 2)
+      .attr('title', function(d) { return d.country; })
+      .attr('class', 'team-label');
 
     var teamGroups = allTeams.selectAll('g.match')
       .data(function(d) { return d.matches; })
@@ -60,7 +70,7 @@
       .text(function(d) { return d.weather.temperature; })
       .attr('class', 'team-text')
       .attr('x', (xScale(2) - xScale(1)) / 2)
-      .attr('y', 15)
+      .attr('y', textOffset)
       .attr('text-anchor', 'middle');
   });
 }).call(this, jQuery, _, d3);
