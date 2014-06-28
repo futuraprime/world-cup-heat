@@ -20,6 +20,7 @@
                 "lng": -43.971132, 
                 "location": "Estadio Mineirao", 
                 "match_number": 15, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 75.65, 
                     "cloudCover": 0.72, 
@@ -54,6 +55,7 @@
                 "lng": -51.235822, 
                 "location": "Estadio Beira-Rio", 
                 "match_number": 32, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 67.47, 
                     "cloudCover": 0.3, 
@@ -87,6 +89,7 @@
                 "lng": -49.276987, 
                 "location": "Arena da Baixada", 
                 "match_number": 48, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 69.96, 
                     "cloudCover": 0.34, 
@@ -129,6 +132,7 @@
                 "lng": -43.230156, 
                 "location": "Estadio do Maracana", 
                 "match_number": 11, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 71.96, 
                     "cloudCover": 0, 
@@ -164,6 +168,7 @@
                 "lng": -43.971132, 
                 "location": "Estadio Mineirao", 
                 "match_number": 27, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 72.39, 
                     "cloudCover": 0.54, 
@@ -199,6 +204,7 @@
                 "lng": -51.235822, 
                 "location": "Estadio Beira-Rio", 
                 "match_number": 43, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 69.82, 
                     "cloudCover": 0.75, 
@@ -241,6 +247,7 @@
                 "lng": -56.121632, 
                 "location": "Arena Pantanal", 
                 "match_number": 4, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 75, 
                     "dewPoint": 66.14, 
@@ -270,6 +277,7 @@
                 "lng": -51.235822, 
                 "location": "Estadio Beira-Rio", 
                 "match_number": 20, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 58.43, 
                     "cloudCover": 0.02, 
@@ -305,6 +313,7 @@
                 "lng": -49.276987, 
                 "location": "Arena da Baixada", 
                 "match_number": 35, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 68.42, 
                     "cloudCover": 0.84, 
@@ -346,6 +355,7 @@
                 "lng": -43.971132, 
                 "location": "Estadio Mineirao", 
                 "match_number": 15, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 75.65, 
                     "cloudCover": 0.72, 
@@ -380,6 +390,7 @@
                 "lng": -43.230156, 
                 "location": "Estadio do Maracana", 
                 "match_number": 31, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 76.48, 
                     "cloudCover": 0.05, 
@@ -414,6 +425,7 @@
                 "lng": -46.473702, 
                 "location": "Arena de Sao Paulo", 
                 "match_number": 47, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 75.3, 
                     "cloudCover": 0.98, 
@@ -456,6 +468,7 @@
                 "lng": -43.230156, 
                 "location": "Estadio do Maracana", 
                 "match_number": 11, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 71.96, 
                     "cloudCover": 0, 
@@ -491,6 +504,7 @@
                 "lng": -56.121632, 
                 "location": "Arena Pantanal", 
                 "match_number": 28, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 76.62, 
                     "cloudCover": 0.32, 
@@ -525,6 +539,7 @@
                 "lng": -38.504371, 
                 "location": "Arena Fonte Nova", 
                 "match_number": 44, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 78.35, 
                     "cloudCover": 0.69, 
@@ -567,6 +582,7 @@
                 "lng": -46.473702, 
                 "location": "Arena de Sao Paulo", 
                 "match_number": 1, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 74.8, 
                     "dewPoint": 62.7, 
@@ -597,6 +613,7 @@
                 "lng": -38.522434, 
                 "location": "Estadio Castelao", 
                 "match_number": 17, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 87.93, 
                     "cloudCover": 0.43, 
@@ -632,6 +649,7 @@
                 "lng": -47.899211, 
                 "location": "Estadio Nacional", 
                 "match_number": 33, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 72.01, 
                     "cloudCover": 0.98, 
@@ -673,6 +691,7 @@
                 "lng": -56.121632, 
                 "location": "Arena Pantanal", 
                 "match_number": 4, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 75, 
                     "dewPoint": 66.14, 
@@ -702,6 +721,7 @@
                 "lng": -43.230156, 
                 "location": "Estadio do Maracana", 
                 "match_number": 19, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 73.6, 
                     "cloudCover": 0.25, 
@@ -737,6 +757,7 @@
                 "lng": -46.473702, 
                 "location": "Arena de Sao Paulo", 
                 "match_number": 36, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 73.86, 
                     "cloudCover": 0.82, 
@@ -778,6 +799,7 @@
                 "lng": -35.008205, 
                 "location": "Arena Pernambuco", 
                 "match_number": 6, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 74.82, 
                     "cloudCover": 0.05, 
@@ -813,6 +835,7 @@
                 "lng": -47.899211, 
                 "location": "Estadio Nacional", 
                 "match_number": 21, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 77.98, 
                     "cloudCover": 0.98, 
@@ -848,6 +871,7 @@
                 "lng": -38.522434, 
                 "location": "Estadio Castelao", 
                 "match_number": 38, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 88.93, 
                     "cloudCover": 0.61, 
@@ -889,6 +913,7 @@
                 "lng": -35.21243, 
                 "location": "Estadio das Dunas", 
                 "match_number": 2, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 73.92, 
                     "dewPoint": 72.01, 
@@ -919,6 +944,7 @@
                 "lng": -60.028108, 
                 "location": "Arena Amazonia", 
                 "match_number": 18, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 77.22, 
                     "cloudCover": 0.81, 
@@ -954,6 +980,7 @@
                 "lng": -47.899211, 
                 "location": "Estadio Nacional", 
                 "match_number": 33, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 72.01, 
                     "cloudCover": 0.98, 
@@ -995,6 +1022,7 @@
                 "lng": -43.971132, 
                 "location": "Estadio Mineirao", 
                 "match_number": 5, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 72.26, 
                     "cloudCover": 0.7, 
@@ -1030,6 +1058,7 @@
                 "lng": -47.899211, 
                 "location": "Estadio Nacional", 
                 "match_number": 21, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 77.98, 
                     "cloudCover": 0.98, 
@@ -1065,6 +1094,7 @@
                 "lng": -56.121632, 
                 "location": "Arena Pantanal", 
                 "match_number": 37, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 81.38, 
                     "cloudCover": 0.35, 
@@ -1105,6 +1135,7 @@
                 "lng": -38.522434, 
                 "location": "Estadio Castelao", 
                 "match_number": 7, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 87.58, 
                     "cloudCover": 0.22, 
@@ -1140,6 +1171,7 @@
                 "lng": -35.008205, 
                 "location": "Arena Pernambuco", 
                 "match_number": 24, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 86.1, 
                     "cloudCover": 0.23, 
@@ -1175,6 +1207,7 @@
                 "lng": -43.971132, 
                 "location": "Estadio Mineirao", 
                 "match_number": 40, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 76.16, 
                     "cloudCover": 0.41, 
@@ -1217,6 +1250,7 @@
                 "lng": -46.473702, 
                 "location": "Arena de Sao Paulo", 
                 "match_number": 1, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 74.8, 
                     "dewPoint": 62.7, 
@@ -1247,6 +1281,7 @@
                 "lng": -60.028108, 
                 "location": "Arena Amazonia", 
                 "match_number": 18, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 77.22, 
                     "cloudCover": 0.81, 
@@ -1282,6 +1317,7 @@
                 "lng": -35.008205, 
                 "location": "Arena Pernambuco", 
                 "match_number": 34, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 76.35, 
                     "cloudCover": 0.94, 
@@ -1323,6 +1359,7 @@
                 "lng": -47.899211, 
                 "location": "Estadio Nacional", 
                 "match_number": 9, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 73.4, 
                     "cloudCover": 0.97, 
@@ -1358,6 +1395,7 @@
                 "lng": -49.276987, 
                 "location": "Arena da Baixada", 
                 "match_number": 26, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 54.76, 
                     "cloudCover": 1, 
@@ -1393,6 +1431,7 @@
                 "lng": -43.230156, 
                 "location": "Estadio do Maracana", 
                 "match_number": 42, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 76.07, 
                     "cloudCover": 0.17, 
@@ -1434,6 +1473,7 @@
                 "lng": -60.028108, 
                 "location": "Arena Amazonia", 
                 "match_number": 8, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 79.76, 
                     "cloudCover": 0.01, 
@@ -1468,6 +1508,7 @@
                 "lng": -46.473702, 
                 "location": "Arena de Sao Paulo", 
                 "match_number": 23, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 61.03, 
                     "cloudCover": 0.91, 
@@ -1503,6 +1544,7 @@
                 "lng": -43.971132, 
                 "location": "Estadio Mineirao", 
                 "match_number": 40, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 76.16, 
                     "cloudCover": 0.41, 
@@ -1545,6 +1587,7 @@
                 "lng": -38.504371, 
                 "location": "Arena Fonte Nova", 
                 "match_number": 3, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 79, 
                     "dewPoint": 71.91, 
@@ -1575,6 +1618,7 @@
                 "lng": -43.230156, 
                 "location": "Estadio do Maracana", 
                 "match_number": 19, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 73.6, 
                     "cloudCover": 0.25, 
@@ -1610,6 +1654,7 @@
                 "lng": -49.276987, 
                 "location": "Arena da Baixada", 
                 "match_number": 35, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 68.42, 
                     "cloudCover": 0.84, 
@@ -1651,6 +1696,7 @@
                 "lng": -51.235822, 
                 "location": "Estadio Beira-Rio", 
                 "match_number": 10, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 66.1, 
                     "cloudCover": 0.13, 
@@ -1686,6 +1732,7 @@
                 "lng": -38.504371, 
                 "location": "Arena Fonte Nova", 
                 "match_number": 25, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 83.45, 
                     "cloudCover": 0.94, 
@@ -1721,6 +1768,7 @@
                 "lng": -43.230156, 
                 "location": "Estadio do Maracana", 
                 "match_number": 42, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 76.07, 
                     "cloudCover": 0.17, 
@@ -1762,6 +1810,7 @@
                 "lng": -38.504371, 
                 "location": "Arena Fonte Nova", 
                 "match_number": 13, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 79.86, 
                     "cloudCover": 0.17, 
@@ -1797,6 +1846,7 @@
                 "lng": -38.522434, 
                 "location": "Estadio Castelao", 
                 "match_number": 29, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 86.49, 
                     "cloudCover": 0.24, 
@@ -1830,6 +1880,7 @@
                 "lng": -35.008205, 
                 "location": "Arena Pernambuco", 
                 "match_number": 45, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 79.15, 
                     "cloudCover": 0.76, 
@@ -1870,6 +1921,7 @@
                 "lng": -35.21243, 
                 "location": "Estadio das Dunas", 
                 "match_number": 14, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 79.27, 
                     "cloudCover": 0.22, 
@@ -1905,6 +1957,7 @@
                 "lng": -38.522434, 
                 "location": "Estadio Castelao", 
                 "match_number": 29, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 86.49, 
                     "cloudCover": 0.24, 
@@ -1938,6 +1991,7 @@
                 "lng": -47.899211, 
                 "location": "Estadio Nacional", 
                 "match_number": 46, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 77.01, 
                     "cloudCover": 0.49, 
@@ -1978,6 +2032,7 @@
                 "lng": -43.971132, 
                 "location": "Estadio Mineirao", 
                 "match_number": 5, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 72.26, 
                     "cloudCover": 0.7, 
@@ -2013,6 +2068,7 @@
                 "lng": -35.21243, 
                 "location": "Estadio das Dunas", 
                 "match_number": 22, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 78.78, 
                     "cloudCover": 0.61, 
@@ -2048,6 +2104,7 @@
                 "lng": -38.522434, 
                 "location": "Estadio Castelao", 
                 "match_number": 38, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 88.93, 
                     "cloudCover": 0.61, 
@@ -2089,6 +2146,7 @@
                 "lng": -51.235822, 
                 "location": "Estadio Beira-Rio", 
                 "match_number": 10, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 66.1, 
                     "cloudCover": 0.13, 
@@ -2124,6 +2182,7 @@
                 "lng": -49.276987, 
                 "location": "Arena da Baixada", 
                 "match_number": 26, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 54.76, 
                     "cloudCover": 1, 
@@ -2159,6 +2218,7 @@
                 "lng": -60.028108, 
                 "location": "Arena Amazonia", 
                 "match_number": 41, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 103.39, 
                     "cloudCover": 0.25, 
@@ -2201,6 +2261,7 @@
                 "lng": -49.276987, 
                 "location": "Arena da Baixada", 
                 "match_number": 12, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 70.21, 
                     "cloudCover": 0.51, 
@@ -2236,6 +2297,7 @@
                 "lng": -43.971132, 
                 "location": "Estadio Mineirao", 
                 "match_number": 27, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 72.39, 
                     "cloudCover": 0.54, 
@@ -2271,6 +2333,7 @@
                 "lng": -38.504371, 
                 "location": "Arena Fonte Nova", 
                 "match_number": 44, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 78.35, 
                     "cloudCover": 0.69, 
@@ -2313,6 +2376,7 @@
                 "lng": -60.028108, 
                 "location": "Arena Amazonia", 
                 "match_number": 8, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 79.76, 
                     "cloudCover": 0.01, 
@@ -2347,6 +2411,7 @@
                 "lng": -35.008205, 
                 "location": "Arena Pernambuco", 
                 "match_number": 24, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 86.1, 
                     "cloudCover": 0.23, 
@@ -2382,6 +2447,7 @@
                 "lng": -35.21243, 
                 "location": "Estadio das Dunas", 
                 "match_number": 39, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 88.05, 
                     "cloudCover": 0.74, 
@@ -2424,6 +2490,7 @@
                 "lng": -35.008205, 
                 "location": "Arena Pernambuco", 
                 "match_number": 6, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 74.82, 
                     "cloudCover": 0.05, 
@@ -2459,6 +2526,7 @@
                 "lng": -35.21243, 
                 "location": "Estadio das Dunas", 
                 "match_number": 22, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 78.78, 
                     "cloudCover": 0.61, 
@@ -2494,6 +2562,7 @@
                 "lng": -56.121632, 
                 "location": "Arena Pantanal", 
                 "match_number": 37, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 81.38, 
                     "cloudCover": 0.35, 
@@ -2534,6 +2603,7 @@
                 "lng": -56.121632, 
                 "location": "Arena Pantanal", 
                 "match_number": 16, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 74.51, 
                     "cloudCover": 0.96, 
@@ -2569,6 +2639,7 @@
                 "lng": -51.235822, 
                 "location": "Estadio Beira-Rio", 
                 "match_number": 32, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 67.47, 
                     "cloudCover": 0.3, 
@@ -2602,6 +2673,7 @@
                 "lng": -46.473702, 
                 "location": "Arena de Sao Paulo", 
                 "match_number": 47, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 75.3, 
                     "cloudCover": 0.98, 
@@ -2644,6 +2716,7 @@
                 "lng": -35.21243, 
                 "location": "Estadio das Dunas", 
                 "match_number": 2, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 73.92, 
                     "dewPoint": 72.01, 
@@ -2674,6 +2747,7 @@
                 "lng": -38.522434, 
                 "location": "Estadio Castelao", 
                 "match_number": 17, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 87.93, 
                     "cloudCover": 0.43, 
@@ -2709,6 +2783,7 @@
                 "lng": -35.008205, 
                 "location": "Arena Pernambuco", 
                 "match_number": 34, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 76.35, 
                     "cloudCover": 0.94, 
@@ -2750,6 +2825,7 @@
                 "lng": -38.504371, 
                 "location": "Arena Fonte Nova", 
                 "match_number": 3, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 79, 
                     "dewPoint": 71.91, 
@@ -2780,6 +2856,7 @@
                 "lng": -51.235822, 
                 "location": "Estadio Beira-Rio", 
                 "match_number": 20, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 58.43, 
                     "cloudCover": 0.02, 
@@ -2815,6 +2892,7 @@
                 "lng": -46.473702, 
                 "location": "Arena de Sao Paulo", 
                 "match_number": 36, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 73.86, 
                     "cloudCover": 0.82, 
@@ -2856,6 +2934,7 @@
                 "lng": -49.276987, 
                 "location": "Arena da Baixada", 
                 "match_number": 12, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 70.21, 
                     "cloudCover": 0.51, 
@@ -2891,6 +2970,7 @@
                 "lng": -56.121632, 
                 "location": "Arena Pantanal", 
                 "match_number": 28, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 76.62, 
                     "cloudCover": 0.32, 
@@ -2925,6 +3005,7 @@
                 "lng": -51.235822, 
                 "location": "Estadio Beira-Rio", 
                 "match_number": 43, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 69.82, 
                     "cloudCover": 0.75, 
@@ -2967,6 +3048,7 @@
                 "lng": -38.504371, 
                 "location": "Arena Fonte Nova", 
                 "match_number": 13, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 79.86, 
                     "cloudCover": 0.17, 
@@ -3002,6 +3084,7 @@
                 "lng": -60.028108, 
                 "location": "Arena Amazonia", 
                 "match_number": 30, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 86.94, 
                     "cloudCover": 0.96, 
@@ -3036,6 +3119,7 @@
                 "lng": -47.899211, 
                 "location": "Estadio Nacional", 
                 "match_number": 46, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 77.01, 
                     "cloudCover": 0.49, 
@@ -3076,6 +3160,7 @@
                 "lng": -56.121632, 
                 "location": "Arena Pantanal", 
                 "match_number": 16, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 74.51, 
                     "cloudCover": 0.96, 
@@ -3111,6 +3196,7 @@
                 "lng": -43.230156, 
                 "location": "Estadio do Maracana", 
                 "match_number": 31, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 76.48, 
                     "cloudCover": 0.05, 
@@ -3145,6 +3231,7 @@
                 "lng": -49.276987, 
                 "location": "Arena da Baixada", 
                 "match_number": 48, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 69.96, 
                     "cloudCover": 0.34, 
@@ -3187,6 +3274,7 @@
                 "lng": -47.899211, 
                 "location": "Estadio Nacional", 
                 "match_number": 9, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 73.4, 
                     "cloudCover": 0.97, 
@@ -3222,6 +3310,7 @@
                 "lng": -38.504371, 
                 "location": "Arena Fonte Nova", 
                 "match_number": 25, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 83.45, 
                     "cloudCover": 0.94, 
@@ -3257,6 +3346,7 @@
                 "lng": -60.028108, 
                 "location": "Arena Amazonia", 
                 "match_number": 41, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 103.39, 
                     "cloudCover": 0.25, 
@@ -3299,6 +3389,7 @@
                 "lng": -38.522434, 
                 "location": "Estadio Castelao", 
                 "match_number": 7, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 87.58, 
                     "cloudCover": 0.22, 
@@ -3334,6 +3425,7 @@
                 "lng": -46.473702, 
                 "location": "Arena de Sao Paulo", 
                 "match_number": 23, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 61.03, 
                     "cloudCover": 0.91, 
@@ -3369,6 +3461,7 @@
                 "lng": -35.21243, 
                 "location": "Estadio das Dunas", 
                 "match_number": 39, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 88.05, 
                     "cloudCover": 0.74, 
@@ -3411,6 +3504,7 @@
                 "lng": -35.21243, 
                 "location": "Estadio das Dunas", 
                 "match_number": 14, 
+                "number": 1, 
                 "weather": {
                     "apparentTemperature": 79.27, 
                     "cloudCover": 0.22, 
@@ -3446,6 +3540,7 @@
                 "lng": -60.028108, 
                 "location": "Arena Amazonia", 
                 "match_number": 30, 
+                "number": 2, 
                 "weather": {
                     "apparentTemperature": 86.94, 
                     "cloudCover": 0.96, 
@@ -3480,6 +3575,7 @@
                 "lng": -35.008205, 
                 "location": "Arena Pernambuco", 
                 "match_number": 45, 
+                "number": 3, 
                 "weather": {
                     "apparentTemperature": 79.15, 
                     "cloudCover": 0.76, 
