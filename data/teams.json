@@ -10,6 +10,7 @@
                     "country": "Algeria", 
                     "goals": 1
                 }, 
+                "code": "ALG", 
                 "datetime": "2014-06-17T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "BEL", 
@@ -45,6 +46,7 @@
                     "country": "Algeria", 
                     "goals": 4
                 }, 
+                "code": "ALG", 
                 "datetime": "2014-06-22T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "KOR", 
@@ -79,6 +81,7 @@
                     "country": "Russia", 
                     "goals": 1
                 }, 
+                "code": "ALG", 
                 "datetime": "2014-06-26T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "ALG", 
@@ -122,6 +125,7 @@
                     "country": "Bosnia and Herzegovina", 
                     "goals": 1
                 }, 
+                "code": "ARG", 
                 "datetime": "2014-06-15T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "ARG", 
@@ -158,6 +162,7 @@
                     "country": "Iran", 
                     "goals": 0
                 }, 
+                "code": "ARG", 
                 "datetime": "2014-06-21T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "ARG", 
@@ -194,6 +199,7 @@
                     "country": "Argentina", 
                     "goals": 3
                 }, 
+                "code": "ARG", 
                 "datetime": "2014-06-25T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "NGA", 
@@ -237,6 +243,7 @@
                     "country": "Australia", 
                     "goals": 1
                 }, 
+                "code": "AUS", 
                 "datetime": "2014-06-13T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "CHI", 
@@ -267,6 +274,7 @@
                     "country": "Netherlands", 
                     "goals": 3
                 }, 
+                "code": "AUS", 
                 "datetime": "2014-06-18T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "AUS", 
@@ -303,6 +311,7 @@
                     "country": "Spain", 
                     "goals": 3
                 }, 
+                "code": "AUS", 
                 "datetime": "2014-06-23T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "AUS", 
@@ -345,6 +354,7 @@
                     "country": "Algeria", 
                     "goals": 1
                 }, 
+                "code": "BEL", 
                 "datetime": "2014-06-17T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "BEL", 
@@ -380,6 +390,7 @@
                     "country": "Russia", 
                     "goals": 0
                 }, 
+                "code": "BEL", 
                 "datetime": "2014-06-22T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "BEL", 
@@ -415,6 +426,7 @@
                     "country": "Belgium", 
                     "goals": 1
                 }, 
+                "code": "BEL", 
                 "datetime": "2014-06-26T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "KOR", 
@@ -458,6 +470,7 @@
                     "country": "Bosnia and Herzegovina", 
                     "goals": 1
                 }, 
+                "code": "BIH", 
                 "datetime": "2014-06-15T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "ARG", 
@@ -494,6 +507,7 @@
                     "country": "Bosnia and Herzegovina", 
                     "goals": 0
                 }, 
+                "code": "BIH", 
                 "datetime": "2014-06-21T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "NGA", 
@@ -529,6 +543,7 @@
                     "country": "Iran", 
                     "goals": 1
                 }, 
+                "code": "BIH", 
                 "datetime": "2014-06-25T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "BIH", 
@@ -572,6 +587,7 @@
                     "country": "Croatia", 
                     "goals": 1
                 }, 
+                "code": "BRA", 
                 "datetime": "2014-06-12T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "BRA", 
@@ -603,6 +619,7 @@
                     "country": "Mexico", 
                     "goals": 0
                 }, 
+                "code": "BRA", 
                 "datetime": "2014-06-17T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "BRA", 
@@ -639,6 +656,7 @@
                     "country": "Brazil", 
                     "goals": 4
                 }, 
+                "code": "BRA", 
                 "datetime": "2014-06-23T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "CMR", 
@@ -681,6 +699,7 @@
                     "country": "Australia", 
                     "goals": 1
                 }, 
+                "code": "CHI", 
                 "datetime": "2014-06-13T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "CHI", 
@@ -711,6 +730,7 @@
                     "country": "Chile", 
                     "goals": 2
                 }, 
+                "code": "CHI", 
                 "datetime": "2014-06-18T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "ESP", 
@@ -747,6 +767,7 @@
                     "country": "Chile", 
                     "goals": 0
                 }, 
+                "code": "CHI", 
                 "datetime": "2014-06-23T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "NED", 
@@ -789,6 +810,7 @@
                     "country": "Japan", 
                     "goals": 1
                 }, 
+                "code": "CIV", 
                 "datetime": "2014-06-14T22:00:00.000-03:00", 
                 "home_team": {
                     "code": "CIV", 
@@ -825,6 +847,7 @@
                     "country": "Ivory Coast", 
                     "goals": 1
                 }, 
+                "code": "CIV", 
                 "datetime": "2014-06-19T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "COL", 
@@ -861,6 +884,7 @@
                     "country": "Ivory Coast", 
                     "goals": 1
                 }, 
+                "code": "CIV", 
                 "datetime": "2014-06-24T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "GRE", 
@@ -903,6 +927,7 @@
                     "country": "Cameroon", 
                     "goals": 0
                 }, 
+                "code": "CMR", 
                 "datetime": "2014-06-13T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "MEX", 
@@ -934,6 +959,7 @@
                     "country": "Croatia", 
                     "goals": 4
                 }, 
+                "code": "CMR", 
                 "datetime": "2014-06-18T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "CMR", 
@@ -970,6 +996,7 @@
                     "country": "Brazil", 
                     "goals": 4
                 }, 
+                "code": "CMR", 
                 "datetime": "2014-06-23T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "CMR", 
@@ -1012,6 +1039,7 @@
                     "country": "Greece", 
                     "goals": 0
                 }, 
+                "code": "COL", 
                 "datetime": "2014-06-14T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "COL", 
@@ -1048,6 +1076,7 @@
                     "country": "Ivory Coast", 
                     "goals": 1
                 }, 
+                "code": "COL", 
                 "datetime": "2014-06-19T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "COL", 
@@ -1084,6 +1113,7 @@
                     "country": "Colombia", 
                     "goals": 4
                 }, 
+                "code": "COL", 
                 "datetime": "2014-06-24T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "JPN", 
@@ -1125,6 +1155,7 @@
                     "country": "Costa Rica", 
                     "goals": 3
                 }, 
+                "code": "CRC", 
                 "datetime": "2014-06-14T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "URU", 
@@ -1161,6 +1192,7 @@
                     "country": "Costa Rica", 
                     "goals": 1
                 }, 
+                "code": "CRC", 
                 "datetime": "2014-06-20T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "ITA", 
@@ -1197,6 +1229,7 @@
                     "country": "England", 
                     "goals": 0
                 }, 
+                "code": "CRC", 
                 "datetime": "2014-06-24T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "CRC", 
@@ -1240,6 +1273,7 @@
                     "country": "Croatia", 
                     "goals": 1
                 }, 
+                "code": "CRO", 
                 "datetime": "2014-06-12T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "BRA", 
@@ -1271,6 +1305,7 @@
                     "country": "Croatia", 
                     "goals": 4
                 }, 
+                "code": "CRO", 
                 "datetime": "2014-06-18T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "CMR", 
@@ -1307,6 +1342,7 @@
                     "country": "Mexico", 
                     "goals": 3
                 }, 
+                "code": "CRO", 
                 "datetime": "2014-06-23T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "CRO", 
@@ -1349,6 +1385,7 @@
                     "country": "Ecuador", 
                     "goals": 1
                 }, 
+                "code": "ECU", 
                 "datetime": "2014-06-15T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "SUI", 
@@ -1385,6 +1422,7 @@
                     "country": "Ecuador", 
                     "goals": 2
                 }, 
+                "code": "ECU", 
                 "datetime": "2014-06-20T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "HON", 
@@ -1421,6 +1459,7 @@
                     "country": "France", 
                     "goals": 0
                 }, 
+                "code": "ECU", 
                 "datetime": "2014-06-25T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "ECU", 
@@ -1463,6 +1502,7 @@
                     "country": "Italy", 
                     "goals": 2
                 }, 
+                "code": "ENG", 
                 "datetime": "2014-06-14T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "ENG", 
@@ -1498,6 +1538,7 @@
                     "country": "England", 
                     "goals": 1
                 }, 
+                "code": "ENG", 
                 "datetime": "2014-06-19T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "URU", 
@@ -1534,6 +1575,7 @@
                     "country": "England", 
                     "goals": 0
                 }, 
+                "code": "ENG", 
                 "datetime": "2014-06-24T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "CRC", 
@@ -1577,6 +1619,7 @@
                     "country": "Netherlands", 
                     "goals": 5
                 }, 
+                "code": "ESP", 
                 "datetime": "2014-06-13T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "ESP", 
@@ -1608,6 +1651,7 @@
                     "country": "Chile", 
                     "goals": 2
                 }, 
+                "code": "ESP", 
                 "datetime": "2014-06-18T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "ESP", 
@@ -1644,6 +1688,7 @@
                     "country": "Spain", 
                     "goals": 3
                 }, 
+                "code": "ESP", 
                 "datetime": "2014-06-23T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "AUS", 
@@ -1686,6 +1731,7 @@
                     "country": "Honduras", 
                     "goals": 0
                 }, 
+                "code": "FRA", 
                 "datetime": "2014-06-15T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "FRA", 
@@ -1722,6 +1768,7 @@
                     "country": "France", 
                     "goals": 5
                 }, 
+                "code": "FRA", 
                 "datetime": "2014-06-20T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "SUI", 
@@ -1758,6 +1805,7 @@
                     "country": "France", 
                     "goals": 0
                 }, 
+                "code": "FRA", 
                 "datetime": "2014-06-25T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "ECU", 
@@ -1800,6 +1848,7 @@
                     "country": "Portugal", 
                     "goals": 0
                 }, 
+                "code": "GER", 
                 "datetime": "2014-06-16T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "GER", 
@@ -1836,6 +1885,7 @@
                     "country": "Ghana", 
                     "goals": 2
                 }, 
+                "code": "GER", 
                 "datetime": "2014-06-21T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "GER", 
@@ -1870,6 +1920,7 @@
                     "country": "Germany", 
                     "goals": 1
                 }, 
+                "code": "GER", 
                 "datetime": "2014-06-26T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "USA", 
@@ -1911,6 +1962,7 @@
                     "country": "USA", 
                     "goals": 2
                 }, 
+                "code": "GHA", 
                 "datetime": "2014-06-16T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "GHA", 
@@ -1947,6 +1999,7 @@
                     "country": "Ghana", 
                     "goals": 2
                 }, 
+                "code": "GHA", 
                 "datetime": "2014-06-21T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "GER", 
@@ -1981,6 +2034,7 @@
                     "country": "Ghana", 
                     "goals": 1
                 }, 
+                "code": "GHA", 
                 "datetime": "2014-06-26T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "POR", 
@@ -2022,6 +2076,7 @@
                     "country": "Greece", 
                     "goals": 0
                 }, 
+                "code": "GRE", 
                 "datetime": "2014-06-14T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "COL", 
@@ -2058,6 +2113,7 @@
                     "country": "Greece", 
                     "goals": 0
                 }, 
+                "code": "GRE", 
                 "datetime": "2014-06-19T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "JPN", 
@@ -2094,6 +2150,7 @@
                     "country": "Ivory Coast", 
                     "goals": 1
                 }, 
+                "code": "GRE", 
                 "datetime": "2014-06-24T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "GRE", 
@@ -2136,6 +2193,7 @@
                     "country": "Honduras", 
                     "goals": 0
                 }, 
+                "code": "HON", 
                 "datetime": "2014-06-15T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "FRA", 
@@ -2172,6 +2230,7 @@
                     "country": "Ecuador", 
                     "goals": 2
                 }, 
+                "code": "HON", 
                 "datetime": "2014-06-20T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "HON", 
@@ -2208,6 +2267,7 @@
                     "country": "Switzerland", 
                     "goals": 3
                 }, 
+                "code": "HON", 
                 "datetime": "2014-06-25T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "HON", 
@@ -2251,6 +2311,7 @@
                     "country": "Nigeria", 
                     "goals": 0
                 }, 
+                "code": "IRN", 
                 "datetime": "2014-06-16T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "IRN", 
@@ -2287,6 +2348,7 @@
                     "country": "Iran", 
                     "goals": 0
                 }, 
+                "code": "IRN", 
                 "datetime": "2014-06-21T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "ARG", 
@@ -2323,6 +2385,7 @@
                     "country": "Iran", 
                     "goals": 1
                 }, 
+                "code": "IRN", 
                 "datetime": "2014-06-25T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "BIH", 
@@ -2366,6 +2429,7 @@
                     "country": "Italy", 
                     "goals": 2
                 }, 
+                "code": "ITA", 
                 "datetime": "2014-06-14T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "ENG", 
@@ -2401,6 +2465,7 @@
                     "country": "Costa Rica", 
                     "goals": 1
                 }, 
+                "code": "ITA", 
                 "datetime": "2014-06-20T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "ITA", 
@@ -2437,6 +2502,7 @@
                     "country": "Uruguay", 
                     "goals": 1
                 }, 
+                "code": "ITA", 
                 "datetime": "2014-06-24T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "ITA", 
@@ -2480,6 +2546,7 @@
                     "country": "Japan", 
                     "goals": 1
                 }, 
+                "code": "JPN", 
                 "datetime": "2014-06-14T22:00:00.000-03:00", 
                 "home_team": {
                     "code": "CIV", 
@@ -2516,6 +2583,7 @@
                     "country": "Greece", 
                     "goals": 0
                 }, 
+                "code": "JPN", 
                 "datetime": "2014-06-19T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "JPN", 
@@ -2552,6 +2620,7 @@
                     "country": "Colombia", 
                     "goals": 4
                 }, 
+                "code": "JPN", 
                 "datetime": "2014-06-24T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "JPN", 
@@ -2593,6 +2662,7 @@
                     "country": "Korea Republic", 
                     "goals": 1
                 }, 
+                "code": "KOR", 
                 "datetime": "2014-06-17T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "RUS", 
@@ -2629,6 +2699,7 @@
                     "country": "Algeria", 
                     "goals": 4
                 }, 
+                "code": "KOR", 
                 "datetime": "2014-06-22T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "KOR", 
@@ -2663,6 +2734,7 @@
                     "country": "Belgium", 
                     "goals": 1
                 }, 
+                "code": "KOR", 
                 "datetime": "2014-06-26T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "KOR", 
@@ -2706,6 +2778,7 @@
                     "country": "Cameroon", 
                     "goals": 0
                 }, 
+                "code": "MEX", 
                 "datetime": "2014-06-13T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "MEX", 
@@ -2737,6 +2810,7 @@
                     "country": "Mexico", 
                     "goals": 0
                 }, 
+                "code": "MEX", 
                 "datetime": "2014-06-17T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "BRA", 
@@ -2773,6 +2847,7 @@
                     "country": "Mexico", 
                     "goals": 3
                 }, 
+                "code": "MEX", 
                 "datetime": "2014-06-23T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "CRO", 
@@ -2815,6 +2890,7 @@
                     "country": "Netherlands", 
                     "goals": 5
                 }, 
+                "code": "NED", 
                 "datetime": "2014-06-13T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "ESP", 
@@ -2846,6 +2922,7 @@
                     "country": "Netherlands", 
                     "goals": 3
                 }, 
+                "code": "NED", 
                 "datetime": "2014-06-18T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "AUS", 
@@ -2882,6 +2959,7 @@
                     "country": "Chile", 
                     "goals": 0
                 }, 
+                "code": "NED", 
                 "datetime": "2014-06-23T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "NED", 
@@ -2924,6 +3002,7 @@
                     "country": "Nigeria", 
                     "goals": 0
                 }, 
+                "code": "NGA", 
                 "datetime": "2014-06-16T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "IRN", 
@@ -2960,6 +3039,7 @@
                     "country": "Bosnia and Herzegovina", 
                     "goals": 0
                 }, 
+                "code": "NGA", 
                 "datetime": "2014-06-21T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "NGA", 
@@ -2995,6 +3075,7 @@
                     "country": "Argentina", 
                     "goals": 3
                 }, 
+                "code": "NGA", 
                 "datetime": "2014-06-25T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "NGA", 
@@ -3038,6 +3119,7 @@
                     "country": "Portugal", 
                     "goals": 0
                 }, 
+                "code": "POR", 
                 "datetime": "2014-06-16T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "GER", 
@@ -3074,6 +3156,7 @@
                     "country": "Portugal", 
                     "goals": 2
                 }, 
+                "code": "POR", 
                 "datetime": "2014-06-22T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "USA", 
@@ -3109,6 +3192,7 @@
                     "country": "Ghana", 
                     "goals": 1
                 }, 
+                "code": "POR", 
                 "datetime": "2014-06-26T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "POR", 
@@ -3150,6 +3234,7 @@
                     "country": "Korea Republic", 
                     "goals": 1
                 }, 
+                "code": "RUS", 
                 "datetime": "2014-06-17T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "RUS", 
@@ -3186,6 +3271,7 @@
                     "country": "Russia", 
                     "goals": 0
                 }, 
+                "code": "RUS", 
                 "datetime": "2014-06-22T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "BEL", 
@@ -3221,6 +3307,7 @@
                     "country": "Russia", 
                     "goals": 1
                 }, 
+                "code": "RUS", 
                 "datetime": "2014-06-26T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "ALG", 
@@ -3264,6 +3351,7 @@
                     "country": "Ecuador", 
                     "goals": 1
                 }, 
+                "code": "SUI", 
                 "datetime": "2014-06-15T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "SUI", 
@@ -3300,6 +3388,7 @@
                     "country": "France", 
                     "goals": 5
                 }, 
+                "code": "SUI", 
                 "datetime": "2014-06-20T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "SUI", 
@@ -3336,6 +3425,7 @@
                     "country": "Switzerland", 
                     "goals": 3
                 }, 
+                "code": "SUI", 
                 "datetime": "2014-06-25T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "HON", 
@@ -3379,6 +3469,7 @@
                     "country": "Costa Rica", 
                     "goals": 3
                 }, 
+                "code": "URU", 
                 "datetime": "2014-06-14T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "URU", 
@@ -3415,6 +3506,7 @@
                     "country": "England", 
                     "goals": 1
                 }, 
+                "code": "URU", 
                 "datetime": "2014-06-19T16:00:00.000-03:00", 
                 "home_team": {
                     "code": "URU", 
@@ -3451,6 +3543,7 @@
                     "country": "Uruguay", 
                     "goals": 1
                 }, 
+                "code": "URU", 
                 "datetime": "2014-06-24T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "ITA", 
@@ -3494,6 +3587,7 @@
                     "country": "USA", 
                     "goals": 2
                 }, 
+                "code": "USA", 
                 "datetime": "2014-06-16T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "GHA", 
@@ -3530,6 +3624,7 @@
                     "country": "Portugal", 
                     "goals": 2
                 }, 
+                "code": "USA", 
                 "datetime": "2014-06-22T19:00:00.000-03:00", 
                 "home_team": {
                     "code": "USA", 
@@ -3565,6 +3660,7 @@
                     "country": "Germany", 
                     "goals": 1
                 }, 
+                "code": "USA", 
                 "datetime": "2014-06-26T13:00:00.000-03:00", 
                 "home_team": {
                     "code": "USA", 
