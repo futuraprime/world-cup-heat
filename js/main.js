@@ -15,19 +15,18 @@
     .domain(_.range(32))
     .rangePoints([0, h-20], 1);
   var colorScale = d3.scale.quantize()
-    .domain([50,90])
+    .domain([55,85])
     .range([
+      '#A8D4A1',
       '#77B479',
-      '#337331',
-      '#AD8536',
-      '#8A6318',
+      '#509453',
+      '#B13631',
       '#821B0D'
     ]);
 
   var line = d3.svg.line()
     .x(function(d) { return xScale(d.number); })
     .y(function(d) {
-      console.log(d.weather.temperature, yScale(d.weather.temperature));
       return yScale(d.weather.temperature);
     });
 
@@ -55,7 +54,6 @@
       .attr('height', yScale(2) - yScale(1))
       .attr('fill', function(d) { 
         return colorScale(d.weather.temperature);
-        // return d3.hcl(colorScale(d.weather.temperature), 70, 40).toString();
       });
 
     teamGroups.append('text')
