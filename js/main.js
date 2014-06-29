@@ -56,11 +56,11 @@
       .attr('class', 'match')
       .attr('transform', function(d) {
         return getTransformString(xScale(d.number -1), 0);
-      }).on('mouseenter', function(d) {
-        setActiveLocation(d.location, d.match_number);
-      }).on('mouseleave', function(d) {
-        clearActiveLocation();
-      });
+      })
+      .on('mouseenter', setActiveLocation)
+      .on('touchstart', setActiveLocation)
+      .on('mouseleave', clearActiveLocation)
+      .on('touchend', clearActiveLocation);
 
     teamGroups.append('rect')
       .attr('x', 0)
@@ -108,14 +108,14 @@
       reSort(comparator);
     });
 
-    function setActiveLocation(location, match_number) {
+    function setActiveLocation(match) {
       teamGroups
         .transition(200)
         .attr('opacity', function(d) {
-          return d.location === location ? 1 : 0.5;
+          return d.location === match.location ? 1 : 0.5;
         }).select('rect')
         .attr('stroke-width', function(d) {
-          return d.match_number === match_number ? 2 : 0;
+          return d.match_number === match.match_number ? 2 : 0;
         });
 
     }
