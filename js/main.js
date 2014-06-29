@@ -14,10 +14,6 @@
   var yScale = d3.scale.ordinal()
     .domain(_.range(32))
     .rangePoints([0, h-20], 1);
-  // this is a goofy way to do a sort, but it works...
-  var yQuantize = d3.scale.quantize()
-    .domain([0, 1])
-    .range(_.range(32));
   var colorScale = d3.scale.quantize()
     .domain([55,85])
     .range([
@@ -66,7 +62,7 @@
       .attr('x', 0)
       .attr('width', xScale(2) - xScale(1))
       .attr('height', yScale(2) - yScale(1))
-      .attr('fill', function(d) { 
+      .attr('fill', function(d) {
         return colorScale(d.weather.temperature);
       });
 
@@ -76,5 +72,18 @@
       .attr('x', (xScale(2) - xScale(1)) / 2)
       .attr('y', textOffset)
       .attr('text-anchor', 'middle');
+
+    $('#sortme').click(function() {
+      function comparator(a, b) {
+        return b.average_temps - a.average_temps;
+      }
+      chart.selectAll('g.team')
+        .sort(comparator)
+        .transition()
+        .delay(1000)
+        .attr('transform', function(d, i) {
+          return getTransformString(0, yScale(i));
+        });
+    });
   });
 }).call(this, jQuery, _, d3);
