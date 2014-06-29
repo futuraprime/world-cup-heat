@@ -13,7 +13,7 @@
     .domain([0,3]);
   var yScale = d3.scale.ordinal()
     .domain(_.range(32))
-    .rangePoints([0, h-20], 1);
+    .rangePoints([10, h-10]);
   var colorScale = d3.scale.quantize()
     .domain([55,85])
     .range([
@@ -56,12 +56,18 @@
       .attr('class', 'match')
       .attr('transform', function(d) {
         return getTransformString(xScale(d.number -1), 0);
+      }).on('mouseenter', function(d) {
+        setActiveLocation(d.location, d.match_number);
+      }).on('mouseleave', function(d) {
+        clearActiveLocation();
       });
 
     teamGroups.append('rect')
       .attr('x', 0)
-      .attr('width', xScale(2) - xScale(1))
-      .attr('height', yScale(2) - yScale(1))
+      .attr('width', xScale(2) - xScale(1) - 1)
+      .attr('height', yScale(2) - yScale(1) - 1)
+      .attr('class', 'team-rect')
+      .attr('stroke-width', 0)
       .attr('fill', function(d) {
         return colorScale(d.weather.temperature);
       });
@@ -76,8 +82,7 @@
     function reSort(comparator) {
       chart.selectAll('g.team')
         .sort(comparator)
-        .transition()
-        .delay(1000)
+        .transition(500)
         .attr('transform', function(d, i) {
           return getTransformString(0, yScale(i));
         });
@@ -102,5 +107,24 @@
       }
       reSort(comparator);
     });
+
+    function setActiveLocation(location, match_number) {
+      teamGroups
+        .transition(200)
+        .attr('opacity', function(d) {
+          return d.location === location ? 1 : 0.5;
+        }).select('rect')
+        .attr('stroke-width', function(d) {
+          return d.match_number === match_number ? 2 : 0;
+        });
+
+    }
+    function clearActiveLocation() {
+      teamGroups
+      .transition(200)
+      .attr('opacity', 1);
+    teamGroups.select('rect')
+      .attr('stroke-width', 0);
+    }
   });
 }).call(this, jQuery, _, d3);
