@@ -73,7 +73,7 @@
       .attr('y', textOffset)
       .attr('text-anchor', 'middle');
 
-    function resort(comparator) {
+    function reSort(comparator) {
       chart.selectAll('g.team')
         .sort(comparator)
         .transition()
@@ -87,20 +87,20 @@
       function comparator(a, b) {
         return b.average_temps - a.average_temps;
       }
-      resort(comparator);
+      reSort(comparator);
     });
     var groups = "ABCDEFGH".split('');
     $('#sort_group').click(function() {
       function comparator(a, b) {
         return groups.indexOf(a.group) * 10 + a.group_position - (groups.indexOf(b.group) * 10 + b.group_position);
       }
-      resort(comparator);
+      reSort(comparator);
     });
     $('#sort_differential').click(function() {
       function comparator(a, b) {
         return b.goal_difference - a.goal_difference || b.goals_for - a.goals_for || b.goals_against - a.goals_against;
       }
-      resort(comparator);
+      reSort(comparator);
     });
   });
 }).call(this, jQuery, _, d3);
