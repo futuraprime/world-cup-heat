@@ -1,5 +1,5 @@
 (function($, _, d3) {
-  var w = 340; var h = 800;
+  var w = Math.min(window.innerWidth, 400); var h = 800;
   var chart = d3.select('#interactive').append('svg');
   chart.attr('width', w)
     .attr('height', h);
