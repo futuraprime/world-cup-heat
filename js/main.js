@@ -73,10 +73,7 @@
       .attr('y', textOffset)
       .attr('text-anchor', 'middle');
 
-    $('#sortme').click(function() {
-      function comparator(a, b) {
-        return b.average_temps - a.average_temps;
-      }
+    function resort(comparator) {
       chart.selectAll('g.team')
         .sort(comparator)
         .transition()
@@ -84,6 +81,20 @@
         .attr('transform', function(d, i) {
           return getTransformString(0, yScale(i));
         });
+    }
+
+    $('#sort_heat').click(function() {
+      function comparator(a, b) {
+        return b.average_temps - a.average_temps;
+      }
+      resort(comparator);
+    });
+    var groups = "ABCDEFGH".split('');
+    $('#sort_group').click(function() {
+      function comparator(a, b) {
+        return groups.indexOf(a.group) * 10 + a.group_position - (groups.indexOf(b.group) * 10 + b.group_position);
+      }
+      resort(comparator);
     });
   });
 }).call(this, jQuery, _, d3);
