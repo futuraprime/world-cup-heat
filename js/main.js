@@ -96,5 +96,11 @@
       }
       resort(comparator);
     });
+    $('#sort_differential').click(function() {
+      function comparator(a, b) {
+        return b.goal_difference - a.goal_difference || b.goals_for - a.goals_for || b.goals_against - a.goals_against;
+      }
+      resort(comparator);
+    });
   });
 }).call(this, jQuery, _, d3);
