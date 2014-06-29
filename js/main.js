@@ -42,6 +42,8 @@
         return getTransformString(0, yScale(i));
       });
 
+    $('body').on('touchstart', clearActiveLocation);
+
     allTeams.append('text')
       .text(function(d) { return d.code; })
       .attr('text-anchor', 'end')
@@ -59,8 +61,7 @@
       })
       .on('mouseenter', setActiveLocation)
       .on('touchstart', setActiveLocation)
-      .on('mouseleave', clearActiveLocation)
-      .on('touchend', clearActiveLocation);
+      .on('mouseleave', clearActiveLocation);
 
     teamGroups.append('rect')
       .attr('x', 0)
@@ -121,10 +122,10 @@
     }
     function clearActiveLocation() {
       teamGroups
-      .transition(200)
-      .attr('opacity', 1);
-    teamGroups.select('rect')
-      .attr('stroke-width', 0);
-    }
+        .transition(200)
+        .attr('opacity', 1);
+      teamGroups.select('rect')
+        .attr('stroke-width', 0);
+      };
   });
 }).call(this, jQuery, _, d3);
