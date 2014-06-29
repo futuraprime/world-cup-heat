@@ -110,7 +110,20 @@
     });
     $('#sort_progress').click(function() {
       function comparator(a, b) {
-        return b.matches.length - a.matches.length || a.group_position - b.group_position || groups.indexOf(a.group) - groups.indexOf(b.group);
+        var aNumMatches = a.matches.length;
+        var aActive = a.group_position < 3 &&
+          aNumMatches < 4 ||
+          (aNumMatches > 3 &&
+          a.matches[aNumMatches - 1].winner === a.code);
+        var bNumMatches = b.matches.length;
+        var bActive = b.group_position < 3 &&
+          bNumMatches < 4 ||
+          (bNumMatches > 3 &&
+          b.matches[bNumMatches - 1].winner === b.code);
+        return bNumMatches - aNumMatches ||
+          bActive - aActive ||
+          a.group_position - b.group_position ||
+          groups.indexOf(a.group) - groups.indexOf(b.group);
       }
       reSort(comparator);
     });
