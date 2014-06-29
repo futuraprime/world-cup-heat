@@ -1,4 +1,9 @@
 (function($, _, d3) {
+  var touch = 'ontouchstart' in document.documentElement;
+  if(touch) {
+    $('.tap-instruction').html("Tap on");
+  }
+
   var w = Math.min(window.innerWidth, 400); var h = 800;
   var chart = d3.select('#interactive').append('svg');
   chart.attr('width', w)
