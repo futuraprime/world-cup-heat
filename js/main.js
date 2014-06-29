@@ -13,31 +13,28 @@
     return 'translate('+(x || 0)+(css ? 'px' : '')+','+(y || 0)+(css ? 'px' : '')+')';
   }
 
-  var xScale = d3.scale.linear()
-    .range([40, w])
-    .domain([0,3]);
-  var yScale = d3.scale.ordinal()
-    .domain(_.range(32))
-    .rangePoints([10, h-30]);
-  var colorScale = d3.scale.quantize()
-    .domain([55,85])
-    .range([
-      '#A8D4A1',
-      '#77B479',
-      '#509453',
-      '#B13631',
-      '#821B0D'
-    ]);
-
-  var line = d3.svg.line()
-    .x(function(d) { return xScale(d.number); })
-    .y(function(d) {
-      return yScale(d.weather.temperature);
-    });
-
   var textOffset = 16;
 
   $.getJSON('data/teams.json', function(teams) {
+    var maxMatches = 0;
+    _.each(teams, function(team) {
+      maxMatches = Math.max(maxMatches, team.matches.length);
+    });
+    var xScale = d3.scale.linear()
+      .range([40, w])
+      .domain([0,maxMatches]);
+    var yScale = d3.scale.ordinal()
+      .domain(_.range(32))
+      .rangePoints([10, h-30]);
+    var colorScale = d3.scale.quantize()
+      .domain([55,85])
+      .range([
+        '#A8D4A1',
+        '#77B479',
+        '#509453',
+        '#B13631',
+        '#821B0D'
+      ]);
     console.log(teams);
     var teamArray = _.values(teams);
     var allTeams = chart.selectAll('g.team')
@@ -111,13 +108,20 @@
       }
       reSort(comparator);
     });
+    $('#sort_progress').click(function() {
+      function comparator(a, b) {
+        return b.matches.length - a.matches.length || a.group_position - b.group_position || groups.indexOf(a.group) - groups.indexOf(b.group);
+      }
+      reSort(comparator);
+    });
 
     function setActiveLocation(match) {
       teamGroups
         .transition(200)
         .attr('opacity', function(d) {
           return d.location === match.location ? 1 : 0.5;
-        }).select('rect')
+        });
+      teamGroups.select('rect')
         .attr('stroke-width', function(d) {
           return d.match_number === match.match_number ? 2 : 0;
         });
@@ -129,7 +133,7 @@
         .attr('opacity', 1);
       teamGroups.select('rect')
         .attr('stroke-width', 0);
-      };
+      }
 
     // this is an admittedly rather silly way of making the touch
     // system work properly: if you touch the body, it'll clear, but
