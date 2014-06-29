@@ -14,6 +14,10 @@
   var yScale = d3.scale.ordinal()
     .domain(_.range(32))
     .rangePoints([0, h-20], 1);
+  // this is a goofy way to do a sort, but it works...
+  var yQuantize = d3.scale.quantize()
+    .domain([0, 1])
+    .range(_.range(32));
   var colorScale = d3.scale.quantize()
     .domain([55,85])
     .range([
