@@ -14,6 +14,7 @@
   }
 
   var textOffset = 16;
+  var groups = "ABCDEFGH".split('');
 
   $.getJSON('data/teams.json', function(teams) {
     var maxMatches = 0;
@@ -35,10 +36,11 @@
         '#B13631',
         '#821B0D'
       ]);
-    console.log(teams);
     var teamArray = _.values(teams);
     var allTeams = chart.selectAll('g.team')
-      .data(teamArray).enter().append('g')
+      .data(teamArray)
+      .enter().append('g')
+      .sort(progressComparator)
       .attr('class', 'team')
       .attr('transform', function(d, i) {
         return getTransformString(0, yScale(i));
@@ -95,7 +97,6 @@
       }
       reSort(comparator);
     });
-    var groups = "ABCDEFGH".split('');
     $('#sort_group').click(function() {
       function comparator(a, b) {
         return groups.indexOf(a.group) * 10 + a.group_position - (groups.indexOf(b.group) * 10 + b.group_position);
@@ -108,8 +109,7 @@
       }
       reSort(comparator);
     });
-    $('#sort_progress').click(function() {
-      function comparator(a, b) {
+    function progressComparator(a, b) {
         var aNumMatches = a.matches.length;
         var aActive = a.group_position < 3 &&
           aNumMatches < 4 ||
@@ -124,8 +124,9 @@
           bActive - aActive ||
           a.group_position - b.group_position ||
           groups.indexOf(a.group) - groups.indexOf(b.group);
-      }
-      reSort(comparator);
+    }
+    $('#sort_progress').click(function() {
+      reSort(progressComparator);
     });
 
     function setActiveLocation(match) {
