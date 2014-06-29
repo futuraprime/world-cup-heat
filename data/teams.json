@@ -49,7 +49,8 @@
                     "time": 1403020800, 
                     "windBearing": 90, 
                     "windSpeed": 4.39
-                }
+                }, 
+                "winner": "BEL"
             }, 
             {
                 "away_team": {
@@ -84,7 +85,8 @@
                     "time": 1403463600, 
                     "windBearing": 149, 
                     "windSpeed": 1.64
-                }
+                }, 
+                "winner": "ALG"
             }, 
             {
                 "away_team": {
@@ -120,7 +122,8 @@
                     "time": 1403812800, 
                     "windBearing": 8, 
                     "windSpeed": 3.79
-                }
+                }, 
+                "winner": "ALG"
             }
         ], 
         "temps": [
@@ -175,7 +178,8 @@
                     "visibility": 6.2, 
                     "windBearing": 210, 
                     "windSpeed": 6.44
-                }
+                }, 
+                "winner": "ARG"
             }, 
             {
                 "away_team": {
@@ -212,7 +216,8 @@
                     "visibility": 6.2, 
                     "windBearing": 84, 
                     "windSpeed": 5.45
-                }
+                }, 
+                "winner": "ARG"
             }, 
             {
                 "away_team": {
@@ -249,7 +254,8 @@
                     "visibility": 3.84, 
                     "windBearing": 272, 
                     "windSpeed": 1.05
-                }
+                }, 
+                "winner": "ARG"
             }
         ], 
         "temps": [
@@ -303,7 +309,8 @@
                     "time": 1402700400, 
                     "windBearing": 0, 
                     "windSpeed": 3
-                }
+                }, 
+                "winner": "CHI"
             }, 
             {
                 "away_team": {
@@ -340,7 +347,8 @@
                     "visibility": 6.2, 
                     "windBearing": 217, 
                     "windSpeed": 7.18
-                }
+                }, 
+                "winner": "NED"
             }, 
             {
                 "away_team": {
@@ -377,7 +385,8 @@
                     "visibility": 6.2, 
                     "windBearing": 2, 
                     "windSpeed": 4.51
-                }
+                }, 
+                "winner": "ESP"
             }
         ], 
         "temps": [
@@ -436,7 +445,8 @@
                     "time": 1403020800, 
                     "windBearing": 90, 
                     "windSpeed": 4.39
-                }
+                }, 
+                "winner": "BEL"
             }, 
             {
                 "away_team": {
@@ -473,7 +483,8 @@
                     "visibility": 6.2, 
                     "windBearing": 82, 
                     "windSpeed": 9.57
-                }
+                }, 
+                "winner": "BEL"
             }, 
             {
                 "away_team": {
@@ -509,7 +520,8 @@
                     "time": 1403812800, 
                     "windBearing": 297, 
                     "windSpeed": 3.98
-                }
+                }, 
+                "winner": "BEL"
             }
         ], 
         "temps": [
@@ -564,7 +576,8 @@
                     "visibility": 6.2, 
                     "windBearing": 210, 
                     "windSpeed": 6.44
-                }
+                }, 
+                "winner": "ARG"
             }, 
             {
                 "away_team": {
@@ -600,7 +613,8 @@
                     "time": 1403391600, 
                     "windBearing": 144, 
                     "windSpeed": 0.95
-                }
+                }, 
+                "winner": "NGA"
             }, 
             {
                 "away_team": {
@@ -637,7 +651,8 @@
                     "visibility": 6.2, 
                     "windBearing": 160, 
                     "windSpeed": 6.53
-                }
+                }, 
+                "winner": "BIH"
             }
         ], 
         "temps": [
@@ -693,7 +708,8 @@
                     "visibility": 6.2, 
                     "windBearing": 82, 
                     "windSpeed": 8.26
-                }
+                }, 
+                "winner": "BRA"
             }, 
             {
                 "away_team": {
@@ -730,7 +746,8 @@
                     "visibility": 6.2, 
                     "windBearing": 92, 
                     "windSpeed": 14.24
-                }
+                }, 
+                "winner": "BRA"
             }, 
             {
                 "away_team": {
@@ -767,7 +784,8 @@
                     "visibility": 6.2, 
                     "windBearing": 78, 
                     "windSpeed": 6.92
-                }
+                }, 
+                "winner": "BRA"
             }, 
             {
                 "away_team": {
@@ -806,7 +824,8 @@
                     "visibility": 6.21, 
                     "windBearing": 332, 
                     "windSpeed": 3.05
-                }
+                }, 
+                "winner": "BRA"
             }
         ], 
         "temps": [
@@ -862,7 +881,8 @@
                     "time": 1402700400, 
                     "windBearing": 0, 
                     "windSpeed": 3
-                }
+                }, 
+                "winner": "CHI"
             }, 
             {
                 "away_team": {
@@ -899,7 +919,8 @@
                     "visibility": 3.53, 
                     "windBearing": 202, 
                     "windSpeed": 9.2
-                }
+                }, 
+                "winner": "CHI"
             }, 
             {
                 "away_team": {
@@ -936,7 +957,8 @@
                     "visibility": 6.2, 
                     "windBearing": 15, 
                     "windSpeed": 3.95
-                }
+                }, 
+                "winner": "NED"
             }, 
             {
                 "away_team": {
@@ -975,7 +997,8 @@
                     "visibility": 6.21, 
                     "windBearing": 332, 
                     "windSpeed": 3.05
-                }
+                }, 
+                "winner": "BRA"
             }
         ], 
         "temps": [
@@ -1031,7 +1054,8 @@
                     "visibility": 5.34, 
                     "windBearing": 136, 
                     "windSpeed": 9.98
-                }
+                }, 
+                "winner": "CIV"
             }, 
             {
                 "away_team": {
@@ -1068,7 +1092,8 @@
                     "visibility": 6.2, 
                     "windBearing": 152, 
                     "windSpeed": 6.07
-                }
+                }, 
+                "winner": "COL"
             }, 
             {
                 "away_team": {
@@ -1104,7 +1129,8 @@
                     "time": 1403640000, 
                     "windBearing": 88, 
                     "windSpeed": 13.06
-                }
+                }, 
+                "winner": "GRE"
             }
         ], 
         "temps": [
@@ -1159,7 +1185,8 @@
                     "visibility": 3.47, 
                     "windBearing": 87, 
                     "windSpeed": 5.08
-                }
+                }, 
+                "winner": "MEX"
             }, 
             {
                 "away_team": {
@@ -1196,7 +1223,8 @@
                     "visibility": 6.2, 
                     "windBearing": 57, 
                     "windSpeed": 1.45
-                }
+                }, 
+                "winner": "CRO"
             }, 
             {
                 "away_team": {
@@ -1233,7 +1261,8 @@
                     "visibility": 6.2, 
                     "windBearing": 78, 
                     "windSpeed": 6.92
-                }
+                }, 
+                "winner": "BRA"
             }
         ], 
         "temps": [
@@ -1289,7 +1318,8 @@
                     "visibility": 6.2, 
                     "windBearing": 85, 
                     "windSpeed": 10.19
-                }
+                }, 
+                "winner": "COL"
             }, 
             {
                 "away_team": {
@@ -1326,7 +1356,8 @@
                     "visibility": 6.2, 
                     "windBearing": 152, 
                     "windSpeed": 6.07
-                }
+                }, 
+                "winner": "COL"
             }, 
             {
                 "away_team": {
@@ -1361,7 +1392,8 @@
                     "time": 1403643600, 
                     "windBearing": 12, 
                     "windSpeed": 4.01
-                }
+                }, 
+                "winner": "COL"
             }, 
             {
                 "away_team": {
@@ -1397,7 +1429,8 @@
                     "visibility": 4.67, 
                     "windBearing": 119, 
                     "windSpeed": 4.37
-                }
+                }, 
+                "winner": "COL"
             }
         ], 
         "temps": [
@@ -1413,8 +1446,8 @@
         "code": "CRC", 
         "country": "Costa Rica", 
         "goal_difference": 3, 
-        "goals for": 4, 
-        "goals_against": 1, 
+        "goals for": 5, 
+        "goals_against": 2, 
         "group": "D", 
         "group_position": 1, 
         "humidities": [
@@ -1454,7 +1487,8 @@
                     "visibility": 6.2, 
                     "windBearing": 60, 
                     "windSpeed": 13
-                }
+                }, 
+                "winner": "CRC"
             }, 
             {
                 "away_team": {
@@ -1491,7 +1525,8 @@
                     "visibility": 6.2, 
                     "windBearing": 149, 
                     "windSpeed": 14.06
-                }
+                }, 
+                "winner": "CRC"
             }, 
             {
                 "away_team": {
@@ -1528,20 +1563,21 @@
                     "visibility": 6.2, 
                     "windBearing": 87, 
                     "windSpeed": 3.06
-                }
+                }, 
+                "winner": "CRC"
             }, 
             {
                 "away_team": {
                     "code": "GRE", 
                     "country": "Greece", 
-                    "goals": 0
+                    "goals": 1
                 }, 
                 "code": "CRC", 
                 "datetime": "2014-06-29T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "CRC", 
                     "country": "Costa Rica", 
-                    "goals": 0
+                    "goals": 1
                 }, 
                 "lat": -8.04065, 
                 "lng": -35.008205, 
@@ -1563,7 +1599,8 @@
                     "time": 1404072000, 
                     "windBearing": 151, 
                     "windSpeed": 9.9
-                }
+                }, 
+                "winner": "CRC"
             }
         ], 
         "temps": [
@@ -1619,7 +1656,8 @@
                     "visibility": 6.2, 
                     "windBearing": 82, 
                     "windSpeed": 8.26
-                }
+                }, 
+                "winner": "BRA"
             }, 
             {
                 "away_team": {
@@ -1656,7 +1694,8 @@
                     "visibility": 6.2, 
                     "windBearing": 57, 
                     "windSpeed": 1.45
-                }
+                }, 
+                "winner": "CRO"
             }, 
             {
                 "away_team": {
@@ -1693,7 +1732,8 @@
                     "visibility": 5.25, 
                     "windBearing": 142, 
                     "windSpeed": 11.67
-                }
+                }, 
+                "winner": "MEX"
             }
         ], 
         "temps": [
@@ -1748,7 +1788,8 @@
                     "visibility": 6.2, 
                     "windBearing": 83, 
                     "windSpeed": 8.97
-                }
+                }, 
+                "winner": "SUI"
             }, 
             {
                 "away_team": {
@@ -1785,7 +1826,8 @@
                     "visibility": 6.2, 
                     "windBearing": 108, 
                     "windSpeed": 2.72
-                }
+                }, 
+                "winner": "ECU"
             }, 
             {
                 "away_team": {
@@ -1820,7 +1862,8 @@
                     "time": 1403726400, 
                     "windBearing": 130, 
                     "windSpeed": 3.83
-                }
+                }, 
+                "winner": "ECU"
             }
         ], 
         "temps": [
@@ -1874,7 +1917,8 @@
                     "time": 1402786800, 
                     "windBearing": 110, 
                     "windSpeed": 3
-                }
+                }, 
+                "winner": "ITA"
             }, 
             {
                 "away_team": {
@@ -1911,7 +1955,8 @@
                     "visibility": 5.84, 
                     "windBearing": 166, 
                     "windSpeed": 9.02
-                }
+                }, 
+                "winner": "URU"
             }, 
             {
                 "away_team": {
@@ -1948,7 +1993,8 @@
                     "visibility": 6.2, 
                     "windBearing": 87, 
                     "windSpeed": 3.06
-                }
+                }, 
+                "winner": "CRC"
             }
         ], 
         "temps": [
@@ -2003,7 +2049,8 @@
                     "visibility": 6.2, 
                     "windBearing": 150, 
                     "windSpeed": 8
-                }
+                }, 
+                "winner": "NED"
             }, 
             {
                 "away_team": {
@@ -2040,7 +2087,8 @@
                     "visibility": 3.53, 
                     "windBearing": 202, 
                     "windSpeed": 9.2
-                }
+                }, 
+                "winner": "CHI"
             }, 
             {
                 "away_team": {
@@ -2077,7 +2125,8 @@
                     "visibility": 6.2, 
                     "windBearing": 2, 
                     "windSpeed": 4.51
-                }
+                }, 
+                "winner": "ESP"
             }
         ], 
         "temps": [
@@ -2132,7 +2181,8 @@
                     "visibility": 6.1, 
                     "windBearing": 110, 
                     "windSpeed": 15.33
-                }
+                }, 
+                "winner": "FRA"
             }, 
             {
                 "away_team": {
@@ -2169,7 +2219,8 @@
                     "visibility": 6.2, 
                     "windBearing": 134, 
                     "windSpeed": 7.72
-                }
+                }, 
+                "winner": "FRA"
             }, 
             {
                 "away_team": {
@@ -2204,7 +2255,8 @@
                     "time": 1403726400, 
                     "windBearing": 130, 
                     "windSpeed": 3.83
-                }
+                }, 
+                "winner": "ECU"
             }
         ], 
         "temps": [
@@ -2264,7 +2316,8 @@
                     "visibility": 6.2, 
                     "windBearing": 130, 
                     "windSpeed": 11.61
-                }
+                }, 
+                "winner": "GER"
             }, 
             {
                 "away_team": {
@@ -2299,7 +2352,8 @@
                     "time": 1403377200, 
                     "windBearing": 96, 
                     "windSpeed": 10.58
-                }
+                }, 
+                "winner": "GER"
             }, 
             {
                 "away_team": {
@@ -2334,7 +2388,8 @@
                     "time": 1403798400, 
                     "windBearing": 96, 
                     "windSpeed": 7.18
-                }
+                }, 
+                "winner": "GER"
             }
         ], 
         "temps": [
@@ -2394,7 +2449,8 @@
                     "visibility": 6.2, 
                     "windBearing": 144, 
                     "windSpeed": 14.24
-                }
+                }, 
+                "winner": "USA"
             }, 
             {
                 "away_team": {
@@ -2429,7 +2485,8 @@
                     "time": 1403377200, 
                     "windBearing": 96, 
                     "windSpeed": 10.58
-                }
+                }, 
+                "winner": "GER"
             }, 
             {
                 "away_team": {
@@ -2464,7 +2521,8 @@
                     "time": 1403798400, 
                     "windBearing": 70, 
                     "windSpeed": 6.57
-                }
+                }, 
+                "winner": "POR"
             }
         ], 
         "temps": [
@@ -2479,8 +2537,8 @@
         "code": "GRE", 
         "country": "Greece", 
         "goal_difference": -2, 
-        "goals for": 2, 
-        "goals_against": 4, 
+        "goals for": 3, 
+        "goals_against": 5, 
         "group": "C", 
         "group_position": 2, 
         "humidities": [
@@ -2520,7 +2578,8 @@
                     "visibility": 6.2, 
                     "windBearing": 85, 
                     "windSpeed": 10.19
-                }
+                }, 
+                "winner": "COL"
             }, 
             {
                 "away_team": {
@@ -2557,7 +2616,8 @@
                     "visibility": 6.2, 
                     "windBearing": 143, 
                     "windSpeed": 16.3
-                }
+                }, 
+                "winner": "JPN"
             }, 
             {
                 "away_team": {
@@ -2593,20 +2653,21 @@
                     "time": 1403640000, 
                     "windBearing": 88, 
                     "windSpeed": 13.06
-                }
+                }, 
+                "winner": "GRE"
             }, 
             {
                 "away_team": {
                     "code": "GRE", 
                     "country": "Greece", 
-                    "goals": 0
+                    "goals": 1
                 }, 
                 "code": "GRE", 
                 "datetime": "2014-06-29T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "CRC", 
                     "country": "Costa Rica", 
-                    "goals": 0
+                    "goals": 1
                 }, 
                 "lat": -8.04065, 
                 "lng": -35.008205, 
@@ -2628,7 +2689,8 @@
                     "time": 1404072000, 
                     "windBearing": 151, 
                     "windSpeed": 9.9
-                }
+                }, 
+                "winner": "CRC"
             }
         ], 
         "temps": [
@@ -2684,7 +2746,8 @@
                     "visibility": 6.1, 
                     "windBearing": 110, 
                     "windSpeed": 15.33
-                }
+                }, 
+                "winner": "FRA"
             }, 
             {
                 "away_team": {
@@ -2721,7 +2784,8 @@
                     "visibility": 6.2, 
                     "windBearing": 108, 
                     "windSpeed": 2.72
-                }
+                }, 
+                "winner": "ECU"
             }, 
             {
                 "away_team": {
@@ -2758,7 +2822,8 @@
                     "visibility": 6.2, 
                     "windBearing": 53, 
                     "windSpeed": 2.09
-                }
+                }, 
+                "winner": "SUI"
             }
         ], 
         "temps": [
@@ -2818,7 +2883,8 @@
                     "visibility": 6.2, 
                     "windBearing": 259, 
                     "windSpeed": 5.21
-                }
+                }, 
+                "winner": "IRN"
             }, 
             {
                 "away_team": {
@@ -2855,7 +2921,8 @@
                     "visibility": 6.2, 
                     "windBearing": 84, 
                     "windSpeed": 5.45
-                }
+                }, 
+                "winner": "ARG"
             }, 
             {
                 "away_team": {
@@ -2892,7 +2959,8 @@
                     "visibility": 6.2, 
                     "windBearing": 160, 
                     "windSpeed": 6.53
-                }
+                }, 
+                "winner": "BIH"
             }
         ], 
         "temps": [
@@ -2946,7 +3014,8 @@
                     "time": 1402786800, 
                     "windBearing": 110, 
                     "windSpeed": 3
-                }
+                }, 
+                "winner": "ITA"
             }, 
             {
                 "away_team": {
@@ -2983,7 +3052,8 @@
                     "visibility": 6.2, 
                     "windBearing": 149, 
                     "windSpeed": 14.06
-                }
+                }, 
+                "winner": "CRC"
             }, 
             {
                 "away_team": {
@@ -3020,7 +3090,8 @@
                     "visibility": 6.03, 
                     "windBearing": 137, 
                     "windSpeed": 16.18
-                }
+                }, 
+                "winner": "URU"
             }
         ], 
         "temps": [
@@ -3075,7 +3146,8 @@
                     "visibility": 5.34, 
                     "windBearing": 136, 
                     "windSpeed": 9.98
-                }
+                }, 
+                "winner": "CIV"
             }, 
             {
                 "away_team": {
@@ -3112,7 +3184,8 @@
                     "visibility": 6.2, 
                     "windBearing": 143, 
                     "windSpeed": 16.3
-                }
+                }, 
+                "winner": "JPN"
             }, 
             {
                 "away_team": {
@@ -3147,7 +3220,8 @@
                     "time": 1403643600, 
                     "windBearing": 12, 
                     "windSpeed": 4.01
-                }
+                }, 
+                "winner": "COL"
             }
         ], 
         "temps": [
@@ -3207,7 +3281,8 @@
                     "visibility": 6.2, 
                     "windBearing": 168, 
                     "windSpeed": 3.05
-                }
+                }, 
+                "winner": "RUS"
             }, 
             {
                 "away_team": {
@@ -3242,7 +3317,8 @@
                     "time": 1403463600, 
                     "windBearing": 149, 
                     "windSpeed": 1.64
-                }
+                }, 
+                "winner": "ALG"
             }, 
             {
                 "away_team": {
@@ -3278,7 +3354,8 @@
                     "time": 1403812800, 
                     "windBearing": 297, 
                     "windSpeed": 3.98
-                }
+                }, 
+                "winner": "BEL"
             }
         ], 
         "temps": [
@@ -3334,7 +3411,8 @@
                     "visibility": 3.47, 
                     "windBearing": 87, 
                     "windSpeed": 5.08
-                }
+                }, 
+                "winner": "MEX"
             }, 
             {
                 "away_team": {
@@ -3371,7 +3449,8 @@
                     "visibility": 6.2, 
                     "windBearing": 92, 
                     "windSpeed": 14.24
-                }
+                }, 
+                "winner": "BRA"
             }, 
             {
                 "away_team": {
@@ -3408,7 +3487,8 @@
                     "visibility": 5.25, 
                     "windBearing": 142, 
                     "windSpeed": 11.67
-                }
+                }, 
+                "winner": "MEX"
             }, 
             {
                 "away_team": {
@@ -3445,7 +3525,8 @@
                     "visibility": 6.21, 
                     "windBearing": 110, 
                     "windSpeed": 13.49
-                }
+                }, 
+                "winner": "NED"
             }
         ], 
         "temps": [
@@ -3502,7 +3583,8 @@
                     "visibility": 6.2, 
                     "windBearing": 150, 
                     "windSpeed": 8
-                }
+                }, 
+                "winner": "NED"
             }, 
             {
                 "away_team": {
@@ -3539,7 +3621,8 @@
                     "visibility": 6.2, 
                     "windBearing": 217, 
                     "windSpeed": 7.18
-                }
+                }, 
+                "winner": "NED"
             }, 
             {
                 "away_team": {
@@ -3576,7 +3659,8 @@
                     "visibility": 6.2, 
                     "windBearing": 15, 
                     "windSpeed": 3.95
-                }
+                }, 
+                "winner": "NED"
             }, 
             {
                 "away_team": {
@@ -3613,7 +3697,8 @@
                     "visibility": 6.21, 
                     "windBearing": 110, 
                     "windSpeed": 13.49
-                }
+                }, 
+                "winner": "NED"
             }
         ], 
         "temps": [
@@ -3674,7 +3759,8 @@
                     "visibility": 6.2, 
                     "windBearing": 259, 
                     "windSpeed": 5.21
-                }
+                }, 
+                "winner": "IRN"
             }, 
             {
                 "away_team": {
@@ -3710,7 +3796,8 @@
                     "time": 1403391600, 
                     "windBearing": 144, 
                     "windSpeed": 0.95
-                }
+                }, 
+                "winner": "NGA"
             }, 
             {
                 "away_team": {
@@ -3747,7 +3834,8 @@
                     "visibility": 3.84, 
                     "windBearing": 272, 
                     "windSpeed": 1.05
-                }
+                }, 
+                "winner": "ARG"
             }
         ], 
         "temps": [
@@ -3758,7 +3846,7 @@
     }, 
     "POR": {
         "average_humidities": 0.65333333333333332, 
-        "average_temps": 79.790000000000006, 
+        "average_temps": 79.736666666666665, 
         "code": "POR", 
         "country": "Portugal", 
         "goal_difference": -3, 
@@ -3807,7 +3895,8 @@
                     "visibility": 6.2, 
                     "windBearing": 130, 
                     "windSpeed": 11.61
-                }
+                }, 
+                "winner": "GER"
             }, 
             {
                 "away_team": {
@@ -3828,9 +3917,9 @@
                 "match_number": 30, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 86.77, 
+                    "apparentTemperature": 86.41, 
                     "cloudCover": 0.96, 
-                    "dewPoint": 74.23, 
+                    "dewPoint": 74.08, 
                     "humidity": 0.8, 
                     "icon": "rain", 
                     "ozone": 255.76, 
@@ -3839,12 +3928,13 @@
                     "precipType": "rain", 
                     "pressure": 1011.72, 
                     "summary": "Drizzle", 
-                    "temperature": 81.19, 
+                    "temperature": 81.03, 
                     "time": 1403478000, 
                     "visibility": 6.2, 
                     "windBearing": 83, 
                     "windSpeed": 2.1
-                }
+                }, 
+                "winner": "USA"
             }, 
             {
                 "away_team": {
@@ -3879,12 +3969,13 @@
                     "time": 1403798400, 
                     "windBearing": 70, 
                     "windSpeed": 6.57
-                }
+                }, 
+                "winner": "POR"
             }
         ], 
         "temps": [
             79.86, 
-            81.19, 
+            81.03, 
             78.32
         ]
     }, 
@@ -3939,7 +4030,8 @@
                     "visibility": 6.2, 
                     "windBearing": 168, 
                     "windSpeed": 3.05
-                }
+                }, 
+                "winner": "RUS"
             }, 
             {
                 "away_team": {
@@ -3976,7 +4068,8 @@
                     "visibility": 6.2, 
                     "windBearing": 82, 
                     "windSpeed": 9.57
-                }
+                }, 
+                "winner": "BEL"
             }, 
             {
                 "away_team": {
@@ -4012,7 +4105,8 @@
                     "time": 1403812800, 
                     "windBearing": 8, 
                     "windSpeed": 3.79
-                }
+                }, 
+                "winner": "ALG"
             }
         ], 
         "temps": [
@@ -4067,7 +4161,8 @@
                     "visibility": 6.2, 
                     "windBearing": 83, 
                     "windSpeed": 8.97
-                }
+                }, 
+                "winner": "SUI"
             }, 
             {
                 "away_team": {
@@ -4104,7 +4199,8 @@
                     "visibility": 6.2, 
                     "windBearing": 134, 
                     "windSpeed": 7.72
-                }
+                }, 
+                "winner": "FRA"
             }, 
             {
                 "away_team": {
@@ -4141,7 +4237,8 @@
                     "visibility": 6.2, 
                     "windBearing": 53, 
                     "windSpeed": 2.09
-                }
+                }, 
+                "winner": "SUI"
             }
         ], 
         "temps": [
@@ -4197,7 +4294,8 @@
                     "visibility": 6.2, 
                     "windBearing": 60, 
                     "windSpeed": 13
-                }
+                }, 
+                "winner": "CRC"
             }, 
             {
                 "away_team": {
@@ -4234,7 +4332,8 @@
                     "visibility": 5.84, 
                     "windBearing": 166, 
                     "windSpeed": 9.02
-                }
+                }, 
+                "winner": "URU"
             }, 
             {
                 "away_team": {
@@ -4271,7 +4370,8 @@
                     "visibility": 6.03, 
                     "windBearing": 137, 
                     "windSpeed": 16.18
-                }
+                }, 
+                "winner": "URU"
             }, 
             {
                 "away_team": {
@@ -4307,7 +4407,8 @@
                     "visibility": 4.67, 
                     "windBearing": 119, 
                     "windSpeed": 4.37
-                }
+                }, 
+                "winner": "COL"
             }
         ], 
         "temps": [
@@ -4319,7 +4420,7 @@
     }, 
     "USA": {
         "average_humidities": 0.81000000000000005, 
-        "average_temps": 80.803333333333327, 
+        "average_temps": 80.75, 
         "code": "USA", 
         "country": "USA", 
         "goal_difference": 0, 
@@ -4368,7 +4469,8 @@
                     "visibility": 6.2, 
                     "windBearing": 144, 
                     "windSpeed": 14.24
-                }
+                }, 
+                "winner": "USA"
             }, 
             {
                 "away_team": {
@@ -4389,9 +4491,9 @@
                 "match_number": 30, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 86.77, 
+                    "apparentTemperature": 86.41, 
                     "cloudCover": 0.96, 
-                    "dewPoint": 74.23, 
+                    "dewPoint": 74.08, 
                     "humidity": 0.8, 
                     "icon": "rain", 
                     "ozone": 255.76, 
@@ -4400,12 +4502,13 @@
                     "precipType": "rain", 
                     "pressure": 1011.72, 
                     "summary": "Drizzle", 
-                    "temperature": 81.19, 
+                    "temperature": 81.03, 
                     "time": 1403478000, 
                     "visibility": 6.2, 
                     "windBearing": 83, 
                     "windSpeed": 2.1
-                }
+                }, 
+                "winner": "USA"
             }, 
             {
                 "away_team": {
@@ -4440,12 +4543,13 @@
                     "time": 1403798400, 
                     "windBearing": 96, 
                     "windSpeed": 7.18
-                }
+                }, 
+                "winner": "GER"
             }
         ], 
         "temps": [
             79.27, 
-            81.19, 
+            81.03, 
             81.95
         ]
     }

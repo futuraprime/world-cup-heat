@@ -37,6 +37,7 @@ weather = [{
             'away_team' : m['away_team'],
             'home_team' : m['home_team'],
             'datetime' : m['datetime'],
+            'winner' : m['away_team']['code'] if m['away_team']['country'] == m['winner'] else m['home_team']['code'],
             'lat' : m['lat'],
             'lng' : m['lng'],
             'match_number' : m['match_number'],
