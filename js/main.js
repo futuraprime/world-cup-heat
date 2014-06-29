@@ -1,5 +1,5 @@
 (function($, _, d3) {
-  var w = 350; var h = 800;
+  var w = 340; var h = 800;
   var chart = d3.select('#interactive').append('svg');
   chart.attr('width', w)
     .attr('height', h);
@@ -9,7 +9,7 @@
   }
 
   var xScale = d3.scale.linear()
-    .range([50, w])
+    .range([40, w])
     .domain([0,3]);
   var yScale = d3.scale.ordinal()
     .domain(_.range(32))
