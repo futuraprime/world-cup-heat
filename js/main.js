@@ -13,7 +13,7 @@
     .domain([0,3]);
   var yScale = d3.scale.ordinal()
     .domain(_.range(32))
-    .rangePoints([10, h-10]);
+    .rangePoints([10, h-30]);
   var colorScale = d3.scale.quantize()
     .domain([55,85])
     .range([
