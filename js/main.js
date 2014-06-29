@@ -42,8 +42,6 @@
         return getTransformString(0, yScale(i));
       });
 
-    $('body').on('touchstart', clearActiveLocation);
-
     allTeams.append('text')
       .text(function(d) { return d.code; })
       .attr('text-anchor', 'end')
@@ -127,5 +125,15 @@
       teamGroups.select('rect')
         .attr('stroke-width', 0);
       };
+
+    // this is an admittedly rather silly way of making the touch
+    // system work properly: if you touch the body, it'll clear, but
+    // if you touch on an interactive element, it won't.
+    $('body').on('touchstart', clearActiveLocation);
+    // NB: you can't use event delegation to stop propagation. Has to
+    // be a direct listener.
+    $('.match').on('touchstart', function(evt) {
+      evt.stopPropagation();
+    });
   });
 }).call(this, jQuery, _, d3);
