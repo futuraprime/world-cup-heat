@@ -1,7 +1,7 @@
 {
     "ALG": {
         "average_humidities": 0.64333333333333342, 
-        "average_temps": 71.070000000000007, 
+        "average_temps": 70.986666666666679, 
         "code": "ALG", 
         "country": "Algeria", 
         "goal_difference": 1, 
@@ -41,7 +41,7 @@
                     "icon": "partly-cloudy-day", 
                     "ozone": 252.39, 
                     "precipIntensity": 0.0002, 
-                    "precipProbability": 0.82, 
+                    "precipProbability": 0.8, 
                     "precipType": "rain", 
                     "pressure": 1019.34, 
                     "summary": "Mostly Cloudy", 
@@ -107,9 +107,9 @@
                 "match_number": 48, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 72.17, 
+                    "apparentTemperature": 71.92, 
                     "cloudCover": 1, 
-                    "dewPoint": 64.49, 
+                    "dewPoint": 64.25, 
                     "humidity": 0.77, 
                     "icon": "cloudy", 
                     "ozone": 272.74, 
@@ -118,7 +118,7 @@
                     "precipType": "rain", 
                     "pressure": 1013.13, 
                     "summary": "Overcast", 
-                    "temperature": 72.17, 
+                    "temperature": 71.92, 
                     "time": 1403812800, 
                     "windBearing": 8, 
                     "windSpeed": 3.79
@@ -129,7 +129,7 @@
         "temps": [
             75.65, 
             65.39, 
-            72.17
+            71.92
         ]
     }, 
     "ARG": {
@@ -207,7 +207,7 @@
                     "icon": "partly-cloudy-day", 
                     "ozone": 266.23, 
                     "precipIntensity": 0.0016, 
-                    "precipProbability": 0.85, 
+                    "precipProbability": 0.83, 
                     "precipType": "rain", 
                     "pressure": 1019.94, 
                     "summary": "Partly Cloudy", 
@@ -240,12 +240,12 @@
                 "weather": {
                     "apparentTemperature": 70.51, 
                     "cloudCover": 0.78, 
-                    "dewPoint": 65.44, 
+                    "dewPoint": 65.43, 
                     "humidity": 0.84, 
                     "icon": "rain", 
                     "ozone": 274.12, 
                     "precipIntensity": 0.0178, 
-                    "precipProbability": 0.56, 
+                    "precipProbability": 0.54, 
                     "precipType": "rain", 
                     "pressure": 1011.52, 
                     "summary": "Light Rain", 
@@ -266,7 +266,7 @@
     }, 
     "AUS": {
         "average_humidities": 0.69000000000000006, 
-        "average_temps": 67.990000000000009, 
+        "average_temps": 68.006666666666675, 
         "code": "AUS", 
         "country": "Australia", 
         "goal_difference": -6, 
@@ -338,7 +338,7 @@
                     "icon": "clear-day", 
                     "ozone": 312.67, 
                     "precipIntensity": 0.0005, 
-                    "precipProbability": 0.82, 
+                    "precipProbability": 0.81, 
                     "precipType": "rain", 
                     "pressure": 1027.65, 
                     "summary": "Clear", 
@@ -369,18 +369,18 @@
                 "match_number": 35, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 70.54, 
+                    "apparentTemperature": 70.59, 
                     "cloudCover": 0.84, 
-                    "dewPoint": 61.11, 
+                    "dewPoint": 61.16, 
                     "humidity": 0.72, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 275.51, 
                     "precipIntensity": 0.0003, 
-                    "precipProbability": 0.96, 
+                    "precipProbability": 0.95, 
                     "precipType": "rain", 
                     "pressure": 1019.55, 
                     "summary": "Mostly Cloudy", 
-                    "temperature": 70.54, 
+                    "temperature": 70.59, 
                     "time": 1403539200, 
                     "visibility": 6.2, 
                     "windBearing": 2, 
@@ -392,12 +392,12 @@
         "temps": [
             75, 
             58.43, 
-            70.54
+            70.59
         ]
     }, 
     "BEL": {
         "average_humidities": 0.63, 
-        "average_temps": 75.359999999999999, 
+        "average_temps": 75.446666666666673, 
         "code": "BEL", 
         "country": "Belgium", 
         "goal_difference": 3, 
@@ -437,7 +437,7 @@
                     "icon": "partly-cloudy-day", 
                     "ozone": 252.39, 
                     "precipIntensity": 0.0002, 
-                    "precipProbability": 0.82, 
+                    "precipProbability": 0.8, 
                     "precipType": "rain", 
                     "pressure": 1019.34, 
                     "summary": "Mostly Cloudy", 
@@ -474,7 +474,7 @@
                     "icon": "rain", 
                     "ozone": 270.16, 
                     "precipIntensity": 0.0031, 
-                    "precipProbability": 0.75, 
+                    "precipProbability": 0.74, 
                     "precipType": "rain", 
                     "pressure": 1023.39, 
                     "summary": "Drizzle", 
@@ -505,9 +505,9 @@
                 "match_number": 47, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 76.05, 
+                    "apparentTemperature": 76.31, 
                     "cloudCover": 1, 
-                    "dewPoint": 66.55, 
+                    "dewPoint": 66.8, 
                     "humidity": 0.72, 
                     "icon": "cloudy", 
                     "ozone": 264.14, 
@@ -516,7 +516,7 @@
                     "precipType": "rain", 
                     "pressure": 1014.1, 
                     "summary": "Overcast", 
-                    "temperature": 76.05, 
+                    "temperature": 76.31, 
                     "time": 1403812800, 
                     "windBearing": 297, 
                     "windSpeed": 3.98
@@ -527,12 +527,12 @@
         "temps": [
             75.65, 
             74.38, 
-            76.05
+            76.31
         ]
     }, 
     "BIH": {
         "average_humidities": 0.77333333333333343, 
-        "average_temps": 74.743333333333339, 
+        "average_temps": 74.760000000000005, 
         "code": "BIH", 
         "country": "Bosnia and Herzegovina", 
         "goal_difference": 0, 
@@ -605,7 +605,7 @@
                     "icon": "partly-cloudy-night", 
                     "ozone": 254.45, 
                     "precipIntensity": 0.0001, 
-                    "precipProbability": 0.92, 
+                    "precipProbability": 0.91, 
                     "precipType": "rain", 
                     "pressure": 1013.16, 
                     "summary": "Partly Cloudy", 
@@ -635,9 +635,9 @@
                 "match_number": 44, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 77.12, 
+                    "apparentTemperature": 77.17, 
                     "cloudCover": 0.62, 
-                    "dewPoint": 69.13, 
+                    "dewPoint": 69.18, 
                     "humidity": 0.76, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 253.89, 
@@ -646,7 +646,7 @@
                     "precipType": "rain", 
                     "pressure": 1015.85, 
                     "summary": "Mostly Cloudy", 
-                    "temperature": 77.12, 
+                    "temperature": 77.17, 
                     "time": 1403712000, 
                     "visibility": 6.2, 
                     "windBearing": 160, 
@@ -658,12 +658,12 @@
         "temps": [
             72.36, 
             74.75, 
-            77.12
+            77.17
         ]
     }, 
     "BRA": {
         "average_humidities": 0.58000000000000007, 
-        "average_temps": 77.897499999999994, 
+        "average_temps": 77.777500000000003, 
         "code": "BRA", 
         "country": "Brazil", 
         "goal_difference": 5, 
@@ -737,7 +737,7 @@
                     "icon": "rain", 
                     "ozone": 257.01, 
                     "precipIntensity": 0.0046, 
-                    "precipProbability": 0.6, 
+                    "precipProbability": 0.59, 
                     "precipType": "rain", 
                     "pressure": 1012.35, 
                     "summary": "Drizzle", 
@@ -768,18 +768,18 @@
                 "match_number": 33, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 72.97, 
+                    "apparentTemperature": 72.94, 
                     "cloudCover": 0.98, 
-                    "dewPoint": 57.61, 
+                    "dewPoint": 57.58, 
                     "humidity": 0.59, 
                     "icon": "cloudy", 
                     "ozone": 251.39, 
                     "precipIntensity": 0.0004, 
-                    "precipProbability": 0.97, 
+                    "precipProbability": 0.95, 
                     "precipType": "rain", 
                     "pressure": 1017.79, 
                     "summary": "Overcast", 
-                    "temperature": 72.97, 
+                    "temperature": 72.94, 
                     "time": 1403553600, 
                     "visibility": 6.2, 
                     "windBearing": 78, 
@@ -808,22 +808,22 @@
                 "match_number": 49, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 80.34, 
+                    "apparentTemperature": 79.78, 
                     "cloudCover": 0.43, 
-                    "dewPoint": 55.63, 
+                    "dewPoint": 55.23, 
                     "humidity": 0.43, 
                     "icon": "partly-cloudy-day", 
-                    "ozone": 253.38, 
+                    "ozone": 253.67, 
                     "precipIntensity": 0.0002, 
                     "precipProbability": 1, 
                     "precipType": "rain", 
                     "pressure": 1018.55, 
                     "summary": "Partly Cloudy", 
-                    "temperature": 80.23, 
+                    "temperature": 79.78, 
                     "time": 1403971200, 
                     "visibility": 6.21, 
-                    "windBearing": 332, 
-                    "windSpeed": 3.05
+                    "windBearing": 331, 
+                    "windSpeed": 3.08
                 }, 
                 "winner": "BRA"
             }
@@ -831,13 +831,13 @@
         "temps": [
             74.8, 
             83.59, 
-            72.97, 
-            80.23
+            72.94, 
+            79.78
         ]
     }, 
     "CHI": {
         "average_humidities": 0.66249999999999998, 
-        "average_temps": 75.849999999999994, 
+        "average_temps": 75.784999999999997, 
         "code": "CHI", 
         "country": "Chile", 
         "goal_difference": 2, 
@@ -910,7 +910,7 @@
                     "icon": "partly-cloudy-day", 
                     "ozone": 263.01, 
                     "precipIntensity": 0.0006, 
-                    "precipProbability": 0.82, 
+                    "precipProbability": 0.81, 
                     "precipType": "rain", 
                     "pressure": 1019.46, 
                     "summary": "Partly Cloudy", 
@@ -941,18 +941,18 @@
                 "match_number": 36, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 74.57, 
+                    "apparentTemperature": 74.76, 
                     "cloudCover": 0.82, 
-                    "dewPoint": 62.09, 
+                    "dewPoint": 62.27, 
                     "humidity": 0.65, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 265.14, 
                     "precipIntensity": 0.0002, 
-                    "precipProbability": 0.97, 
+                    "precipProbability": 0.95, 
                     "precipType": "rain", 
                     "pressure": 1020.67, 
                     "summary": "Mostly Cloudy", 
-                    "temperature": 74.57, 
+                    "temperature": 74.76, 
                     "time": 1403539200, 
                     "visibility": 6.2, 
                     "windBearing": 15, 
@@ -981,22 +981,22 @@
                 "match_number": 49, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 80.34, 
+                    "apparentTemperature": 79.78, 
                     "cloudCover": 0.43, 
-                    "dewPoint": 55.63, 
+                    "dewPoint": 55.23, 
                     "humidity": 0.43, 
                     "icon": "partly-cloudy-day", 
-                    "ozone": 253.38, 
+                    "ozone": 253.67, 
                     "precipIntensity": 0.0002, 
                     "precipProbability": 1, 
                     "precipType": "rain", 
                     "pressure": 1018.55, 
                     "summary": "Partly Cloudy", 
-                    "temperature": 80.23, 
+                    "temperature": 79.78, 
                     "time": 1403971200, 
                     "visibility": 6.21, 
-                    "windBearing": 332, 
-                    "windSpeed": 3.05
+                    "windBearing": 331, 
+                    "windSpeed": 3.08
                 }, 
                 "winner": "BRA"
             }
@@ -1004,13 +1004,13 @@
         "temps": [
             75, 
             73.6, 
-            74.57, 
-            80.23
+            74.76, 
+            79.78
         ]
     }, 
     "CIV": {
         "average_humidities": 0.67333333333333334, 
-        "average_temps": 78.560000000000002, 
+        "average_temps": 78.546666666666667, 
         "code": "CIV", 
         "country": "Ivory Coast", 
         "goal_difference": -1, 
@@ -1083,7 +1083,7 @@
                     "icon": "cloudy", 
                     "ozone": 259.05, 
                     "precipIntensity": 0.0003, 
-                    "precipProbability": 0.86, 
+                    "precipProbability": 0.84, 
                     "precipType": "rain", 
                     "pressure": 1018.22, 
                     "summary": "Overcast", 
@@ -1114,9 +1114,9 @@
                 "match_number": 38, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 85.98, 
+                    "apparentTemperature": 85.92, 
                     "cloudCover": 0.61, 
-                    "dewPoint": 69.48, 
+                    "dewPoint": 69.45, 
                     "humidity": 0.65, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 252.84, 
@@ -1125,7 +1125,7 @@
                     "precipType": "rain", 
                     "pressure": 1012.02, 
                     "summary": "Mostly Cloudy", 
-                    "temperature": 82.32, 
+                    "temperature": 82.28, 
                     "time": 1403640000, 
                     "windBearing": 88, 
                     "windSpeed": 13.06
@@ -1136,12 +1136,12 @@
         "temps": [
             75.38, 
             77.98, 
-            82.32
+            82.28
         ]
     }, 
     "CMR": {
         "average_humidities": 0.80333333333333323, 
-        "average_temps": 74.703333333333333, 
+        "average_temps": 74.693333333333328, 
         "code": "CMR", 
         "country": "Cameroon", 
         "goal_difference": -8, 
@@ -1245,18 +1245,18 @@
                 "match_number": 33, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 72.97, 
+                    "apparentTemperature": 72.94, 
                     "cloudCover": 0.98, 
-                    "dewPoint": 57.61, 
+                    "dewPoint": 57.58, 
                     "humidity": 0.59, 
                     "icon": "cloudy", 
                     "ozone": 251.39, 
                     "precipIntensity": 0.0004, 
-                    "precipProbability": 0.97, 
+                    "precipProbability": 0.95, 
                     "precipType": "rain", 
                     "pressure": 1017.79, 
                     "summary": "Overcast", 
-                    "temperature": 72.97, 
+                    "temperature": 72.94, 
                     "time": 1403553600, 
                     "visibility": 6.2, 
                     "windBearing": 78, 
@@ -1268,12 +1268,12 @@
         "temps": [
             73.92, 
             77.22, 
-            72.97
+            72.94
         ]
     }, 
     "COL": {
         "average_humidities": 0.57499999999999996, 
-        "average_temps": 76.877499999999998, 
+        "average_temps": 76.89500000000001, 
         "code": "COL", 
         "country": "Colombia", 
         "goal_difference": 9, 
@@ -1347,7 +1347,7 @@
                     "icon": "cloudy", 
                     "ozone": 259.05, 
                     "precipIntensity": 0.0003, 
-                    "precipProbability": 0.86, 
+                    "precipProbability": 0.84, 
                     "precipType": "rain", 
                     "pressure": 1018.22, 
                     "summary": "Overcast", 
@@ -1378,9 +1378,9 @@
                 "match_number": 37, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 84.05, 
+                    "apparentTemperature": 83.98, 
                     "cloudCover": 0.35, 
-                    "dewPoint": 61.77, 
+                    "dewPoint": 61.72, 
                     "humidity": 0.48, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 252.9, 
@@ -1388,7 +1388,7 @@
                     "precipProbability": 0, 
                     "pressure": 1013.16, 
                     "summary": "Partly Cloudy", 
-                    "temperature": 83.4, 
+                    "temperature": 83.34, 
                     "time": 1403643600, 
                     "windBearing": 12, 
                     "windSpeed": 4.01
@@ -1414,21 +1414,22 @@
                 "match_number": 50, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 73.82, 
-                    "cloudCover": 0.42, 
-                    "dewPoint": 68.07, 
+                    "apparentTemperature": 73.95, 
+                    "cloudCover": 0.41, 
+                    "dewPoint": 68.17, 
                     "humidity": 0.82, 
                     "icon": "partly-cloudy-day", 
-                    "ozone": 263.35, 
-                    "precipIntensity": 0, 
-                    "precipProbability": 0, 
-                    "pressure": 1017.02, 
+                    "ozone": 263.71, 
+                    "precipIntensity": 0.0001, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1017.05, 
                     "summary": "Partly Cloudy", 
-                    "temperature": 73.82, 
+                    "temperature": 73.95, 
                     "time": 1403985600, 
                     "visibility": 4.67, 
-                    "windBearing": 119, 
-                    "windSpeed": 4.37
+                    "windBearing": 132, 
+                    "windSpeed": 5.53
                 }, 
                 "winner": "COL"
             }
@@ -1436,13 +1437,13 @@
         "temps": [
             72.31, 
             77.98, 
-            83.4, 
-            73.82
+            83.34, 
+            73.95
         ]
     }, 
     "CRC": {
-        "average_humidities": 0.61749999999999994, 
-        "average_temps": 81.109999999999999, 
+        "average_humidities": 0.61499999999999999, 
+        "average_temps": 80.992499999999993, 
         "code": "CRC", 
         "country": "Costa Rica", 
         "goal_difference": 3, 
@@ -1454,7 +1455,7 @@
             0.59, 
             0.68, 
             0.45, 
-            0.75
+            0.74
         ], 
         "matches": [
             {
@@ -1547,18 +1548,18 @@
                 "match_number": 40, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 76.13, 
+                    "apparentTemperature": 75.64, 
                     "cloudCover": 0.03, 
-                    "dewPoint": 53.37, 
+                    "dewPoint": 52.94, 
                     "humidity": 0.45, 
                     "icon": "clear-day", 
                     "ozone": 264.8, 
                     "precipIntensity": 0.0001, 
-                    "precipProbability": 0.99, 
+                    "precipProbability": 0.98, 
                     "precipType": "rain", 
                     "pressure": 1019.44, 
                     "summary": "Clear", 
-                    "temperature": 76.13, 
+                    "temperature": 75.64, 
                     "time": 1403625600, 
                     "visibility": 6.2, 
                     "windBearing": 87, 
@@ -1570,14 +1571,16 @@
                 "away_team": {
                     "code": "GRE", 
                     "country": "Greece", 
-                    "goals": 1
+                    "goals": 1, 
+                    "penalties": 3
                 }, 
                 "code": "CRC", 
                 "datetime": "2014-06-29T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "CRC", 
                     "country": "Costa Rica", 
-                    "goals": 1
+                    "goals": 1, 
+                    "penalties": 5
                 }, 
                 "lat": -8.04065, 
                 "lng": -35.008205, 
@@ -1585,20 +1588,21 @@
                 "match_number": 52, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 89.08, 
-                    "cloudCover": 0.43, 
-                    "dewPoint": 73.92, 
-                    "humidity": 0.75, 
+                    "apparentTemperature": 88.86, 
+                    "cloudCover": 0.42, 
+                    "dewPoint": 73.56, 
+                    "humidity": 0.74, 
                     "icon": "partly-cloudy-day", 
-                    "ozone": 250.95, 
-                    "precipIntensity": 0, 
-                    "precipProbability": 0, 
-                    "pressure": 1014.36, 
+                    "ozone": 252.4, 
+                    "precipIntensity": 0.0015, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1014.35, 
                     "summary": "Partly Cloudy", 
-                    "temperature": 82.69, 
+                    "temperature": 82.71, 
                     "time": 1404072000, 
-                    "windBearing": 151, 
-                    "windSpeed": 9.9
+                    "windBearing": 154, 
+                    "windSpeed": 10.27
                 }, 
                 "winner": "CRC"
             }
@@ -1606,13 +1610,13 @@
         "temps": [
             84, 
             81.62, 
-            76.13, 
-            82.69
+            75.64, 
+            82.71
         ]
     }, 
     "CRO": {
         "average_humidities": 0.79666666666666675, 
-        "average_temps": 77.153333333333322, 
+        "average_temps": 77.156666666666652, 
         "code": "CRO", 
         "country": "Croatia", 
         "goal_difference": 0, 
@@ -1716,9 +1720,9 @@
                 "match_number": 34, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 79.44, 
+                    "apparentTemperature": 79.45, 
                     "cloudCover": 0.94, 
-                    "dewPoint": 74.59, 
+                    "dewPoint": 74.6, 
                     "humidity": 0.85, 
                     "icon": "cloudy", 
                     "ozone": 254.04, 
@@ -1727,7 +1731,7 @@
                     "precipType": "rain", 
                     "pressure": 1016.7, 
                     "summary": "Humid and Overcast", 
-                    "temperature": 79.44, 
+                    "temperature": 79.45, 
                     "time": 1403553600, 
                     "visibility": 5.25, 
                     "windBearing": 142, 
@@ -1739,12 +1743,12 @@
         "temps": [
             74.8, 
             77.22, 
-            79.44
+            79.45
         ]
     }, 
     "ECU": {
         "average_humidities": 0.70999999999999996, 
-        "average_temps": 68.396666666666661, 
+        "average_temps": 68.340000000000003, 
         "code": "ECU", 
         "country": "Ecuador", 
         "goal_difference": 0, 
@@ -1817,7 +1821,7 @@
                     "icon": "cloudy", 
                     "ozone": 291.34, 
                     "precipIntensity": 0.0003, 
-                    "precipProbability": 0.89, 
+                    "precipProbability": 0.87, 
                     "precipType": "rain", 
                     "pressure": 1022.15, 
                     "summary": "Overcast", 
@@ -1848,9 +1852,9 @@
                 "match_number": 42, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 76.85, 
+                    "apparentTemperature": 76.68, 
                     "cloudCover": 0.17, 
-                    "dewPoint": 67.24, 
+                    "dewPoint": 67.08, 
                     "humidity": 0.72, 
                     "icon": "clear-day", 
                     "ozone": 262.46, 
@@ -1858,7 +1862,7 @@
                     "precipProbability": 0, 
                     "pressure": 1015.91, 
                     "summary": "Clear", 
-                    "temperature": 76.85, 
+                    "temperature": 76.68, 
                     "time": 1403726400, 
                     "windBearing": 130, 
                     "windSpeed": 3.83
@@ -1869,12 +1873,12 @@
         "temps": [
             75.17, 
             53.17, 
-            76.85
+            76.68
         ]
     }, 
     "ENG": {
         "average_humidities": 0.67333333333333334, 
-        "average_temps": 72.719999999999999, 
+        "average_temps": 72.556666666666672, 
         "code": "ENG", 
         "country": "England", 
         "goal_difference": -2, 
@@ -1977,18 +1981,18 @@
                 "match_number": 40, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 76.13, 
+                    "apparentTemperature": 75.64, 
                     "cloudCover": 0.03, 
-                    "dewPoint": 53.37, 
+                    "dewPoint": 52.94, 
                     "humidity": 0.45, 
                     "icon": "clear-day", 
                     "ozone": 264.8, 
                     "precipIntensity": 0.0001, 
-                    "precipProbability": 0.99, 
+                    "precipProbability": 0.98, 
                     "precipType": "rain", 
                     "pressure": 1019.44, 
                     "summary": "Clear", 
-                    "temperature": 76.13, 
+                    "temperature": 75.64, 
                     "time": 1403625600, 
                     "visibility": 6.2, 
                     "windBearing": 87, 
@@ -2000,12 +2004,12 @@
         "temps": [
             81, 
             61.03, 
-            76.13
+            75.64
         ]
     }, 
     "ESP": {
         "average_humidities": 0.77999999999999992, 
-        "average_temps": 74.379999999999995, 
+        "average_temps": 74.396666666666661, 
         "code": "ESP", 
         "country": "Spain", 
         "goal_difference": -3, 
@@ -2078,7 +2082,7 @@
                     "icon": "partly-cloudy-day", 
                     "ozone": 263.01, 
                     "precipIntensity": 0.0006, 
-                    "precipProbability": 0.82, 
+                    "precipProbability": 0.81, 
                     "precipType": "rain", 
                     "pressure": 1019.46, 
                     "summary": "Partly Cloudy", 
@@ -2109,18 +2113,18 @@
                 "match_number": 35, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 70.54, 
+                    "apparentTemperature": 70.59, 
                     "cloudCover": 0.84, 
-                    "dewPoint": 61.11, 
+                    "dewPoint": 61.16, 
                     "humidity": 0.72, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 275.51, 
                     "precipIntensity": 0.0003, 
-                    "precipProbability": 0.96, 
+                    "precipProbability": 0.95, 
                     "precipType": "rain", 
                     "pressure": 1019.55, 
                     "summary": "Mostly Cloudy", 
-                    "temperature": 70.54, 
+                    "temperature": 70.59, 
                     "time": 1403539200, 
                     "visibility": 6.2, 
                     "windBearing": 2, 
@@ -2132,12 +2136,12 @@
         "temps": [
             79, 
             73.6, 
-            70.54
+            70.59
         ]
     }, 
     "FRA": {
         "average_humidities": 0.75666666666666649, 
-        "average_temps": 73.973333333333329, 
+        "average_temps": 73.916666666666671, 
         "code": "FRA", 
         "country": "France", 
         "goal_difference": 6, 
@@ -2241,9 +2245,9 @@
                 "match_number": 42, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 76.85, 
+                    "apparentTemperature": 76.68, 
                     "cloudCover": 0.17, 
-                    "dewPoint": 67.24, 
+                    "dewPoint": 67.08, 
                     "humidity": 0.72, 
                     "icon": "clear-day", 
                     "ozone": 262.46, 
@@ -2251,7 +2255,7 @@
                     "precipProbability": 0, 
                     "pressure": 1015.91, 
                     "summary": "Clear", 
-                    "temperature": 76.85, 
+                    "temperature": 76.68, 
                     "time": 1403726400, 
                     "windBearing": 130, 
                     "windSpeed": 3.83
@@ -2262,12 +2266,12 @@
         "temps": [
             66.52, 
             78.55, 
-            76.85
+            76.68
         ]
     }, 
     "GER": {
-        "average_humidities": 0.69666666666666666, 
-        "average_temps": 82.170000000000002, 
+        "average_humidities": 0.67666666666666664, 
+        "average_temps": 83.543333333333337, 
         "code": "GER", 
         "country": "Germany", 
         "goal_difference": 5, 
@@ -2276,7 +2280,7 @@
         "group": "G", 
         "group_position": 1, 
         "humidities": [
-            0.73, 
+            0.67, 
             0.5, 
             0.86
         ], 
@@ -2300,22 +2304,17 @@
                 "match_number": 13, 
                 "number": 1, 
                 "weather": {
-                    "apparentTemperature": 79.86, 
-                    "cloudCover": 0.17, 
-                    "dewPoint": 70.52, 
-                    "humidity": 0.73, 
-                    "icon": "rain", 
-                    "ozone": 255.43, 
-                    "precipIntensity": 0.0127, 
-                    "precipProbability": 0.26, 
+                    "apparentTemperature": 89.53, 
+                    "dewPoint": 71.84, 
+                    "humidity": 0.67, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1017.5, 
-                    "summary": "Drizzle", 
-                    "temperature": 79.86, 
+                    "summary": "Clear", 
+                    "temperature": 84, 
                     "time": 1402934400, 
                     "visibility": 6.2, 
                     "windBearing": 130, 
-                    "windSpeed": 11.61
+                    "windSpeed": 11
                 }, 
                 "winner": "GER"
             }, 
@@ -2374,9 +2373,9 @@
                 "match_number": 45, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 90.46, 
+                    "apparentTemperature": 90.4, 
                     "cloudCover": 0.85, 
-                    "dewPoint": 77.46, 
+                    "dewPoint": 77.44, 
                     "humidity": 0.86, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 249.63, 
@@ -2384,7 +2383,7 @@
                     "precipProbability": 0, 
                     "pressure": 1014.14, 
                     "summary": "Humid and Mostly Cloudy", 
-                    "temperature": 81.95, 
+                    "temperature": 81.93, 
                     "time": 1403798400, 
                     "windBearing": 96, 
                     "windSpeed": 7.18
@@ -2393,14 +2392,14 @@
             }
         ], 
         "temps": [
-            79.86, 
+            84, 
             84.7, 
-            81.95
+            81.93
         ]
     }, 
     "GHA": {
-        "average_humidities": 0.56666666666666665, 
-        "average_temps": 80.763333333333335, 
+        "average_humidities": 0.55666666666666664, 
+        "average_temps": 80.443333333333342, 
         "code": "GHA", 
         "country": "Ghana", 
         "goal_difference": -2, 
@@ -2409,7 +2408,7 @@
         "group": "G", 
         "group_position": 4, 
         "humidities": [
-            0.77, 
+            0.74, 
             0.5, 
             0.43
         ], 
@@ -2433,22 +2432,17 @@
                 "match_number": 14, 
                 "number": 1, 
                 "weather": {
-                    "apparentTemperature": 79.27, 
-                    "cloudCover": 0.22, 
-                    "dewPoint": 71.3, 
-                    "humidity": 0.77, 
-                    "icon": "rain", 
-                    "ozone": 252.42, 
-                    "precipIntensity": 0.0101, 
-                    "precipProbability": 0.47, 
+                    "apparentTemperature": 78.48, 
+                    "dewPoint": 69.66, 
+                    "humidity": 0.74, 
+                    "icon": "clear-night", 
                     "precipType": "rain", 
-                    "pressure": 1014.88, 
-                    "summary": "Drizzle", 
-                    "temperature": 79.27, 
+                    "summary": "Clear", 
+                    "temperature": 78.48, 
                     "time": 1402956000, 
                     "visibility": 6.2, 
-                    "windBearing": 144, 
-                    "windSpeed": 14.24
+                    "windBearing": 150, 
+                    "windSpeed": 12.08
                 }, 
                 "winner": "USA"
             }, 
@@ -2507,9 +2501,9 @@
                 "match_number": 46, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 78.32, 
+                    "apparentTemperature": 78.15, 
                     "cloudCover": 0.48, 
-                    "dewPoint": 54.25, 
+                    "dewPoint": 54.09, 
                     "humidity": 0.43, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 252.4, 
@@ -2517,7 +2511,7 @@
                     "precipProbability": 0, 
                     "pressure": 1014.85, 
                     "summary": "Partly Cloudy", 
-                    "temperature": 78.32, 
+                    "temperature": 78.15, 
                     "time": 1403798400, 
                     "windBearing": 70, 
                     "windSpeed": 6.57
@@ -2526,14 +2520,14 @@
             }
         ], 
         "temps": [
-            79.27, 
+            78.48, 
             84.7, 
-            78.32
+            78.15
         ]
     }, 
     "GRE": {
-        "average_humidities": 0.68999999999999995, 
-        "average_temps": 79.025000000000006, 
+        "average_humidities": 0.6875, 
+        "average_temps": 79.019999999999996, 
         "code": "GRE", 
         "country": "Greece", 
         "goal_difference": -2, 
@@ -2545,7 +2539,7 @@
             0.52, 
             0.84, 
             0.65, 
-            0.75
+            0.74
         ], 
         "matches": [
             {
@@ -2607,7 +2601,7 @@
                     "icon": "rain", 
                     "ozone": 256.26, 
                     "precipIntensity": 0.0086, 
-                    "precipProbability": 0.65, 
+                    "precipProbability": 0.64, 
                     "precipType": "rain", 
                     "pressure": 1015.07, 
                     "summary": "Drizzle", 
@@ -2638,9 +2632,9 @@
                 "match_number": 38, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 85.98, 
+                    "apparentTemperature": 85.92, 
                     "cloudCover": 0.61, 
-                    "dewPoint": 69.48, 
+                    "dewPoint": 69.45, 
                     "humidity": 0.65, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 252.84, 
@@ -2649,7 +2643,7 @@
                     "precipType": "rain", 
                     "pressure": 1012.02, 
                     "summary": "Mostly Cloudy", 
-                    "temperature": 82.32, 
+                    "temperature": 82.28, 
                     "time": 1403640000, 
                     "windBearing": 88, 
                     "windSpeed": 13.06
@@ -2660,14 +2654,16 @@
                 "away_team": {
                     "code": "GRE", 
                     "country": "Greece", 
-                    "goals": 1
+                    "goals": 1, 
+                    "penalties": 3
                 }, 
                 "code": "GRE", 
                 "datetime": "2014-06-29T17:00:00.000-03:00", 
                 "home_team": {
                     "code": "CRC", 
                     "country": "Costa Rica", 
-                    "goals": 1
+                    "goals": 1, 
+                    "penalties": 5
                 }, 
                 "lat": -8.04065, 
                 "lng": -35.008205, 
@@ -2675,20 +2671,21 @@
                 "match_number": 52, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 89.08, 
-                    "cloudCover": 0.43, 
-                    "dewPoint": 73.92, 
-                    "humidity": 0.75, 
+                    "apparentTemperature": 88.86, 
+                    "cloudCover": 0.42, 
+                    "dewPoint": 73.56, 
+                    "humidity": 0.74, 
                     "icon": "partly-cloudy-day", 
-                    "ozone": 250.95, 
-                    "precipIntensity": 0, 
-                    "precipProbability": 0, 
-                    "pressure": 1014.36, 
+                    "ozone": 252.4, 
+                    "precipIntensity": 0.0015, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1014.35, 
                     "summary": "Partly Cloudy", 
-                    "temperature": 82.69, 
+                    "temperature": 82.71, 
                     "time": 1404072000, 
-                    "windBearing": 151, 
-                    "windSpeed": 9.9
+                    "windBearing": 154, 
+                    "windSpeed": 10.27
                 }, 
                 "winner": "CRC"
             }
@@ -2696,13 +2693,13 @@
         "temps": [
             72.31, 
             78.78, 
-            82.32, 
-            82.69
+            82.28, 
+            82.71
         ]
     }, 
     "HON": {
         "average_humidities": 0.81666666666666676, 
-        "average_temps": 67.433333333333337, 
+        "average_temps": 67.156666666666666, 
         "code": "HON", 
         "country": "Honduras", 
         "goal_difference": -7, 
@@ -2775,7 +2772,7 @@
                     "icon": "cloudy", 
                     "ozone": 291.34, 
                     "precipIntensity": 0.0003, 
-                    "precipProbability": 0.89, 
+                    "precipProbability": 0.87, 
                     "precipType": "rain", 
                     "pressure": 1022.15, 
                     "summary": "Overcast", 
@@ -2806,18 +2803,18 @@
                 "match_number": 41, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 89.21, 
+                    "apparentTemperature": 87.35, 
                     "cloudCover": 0.97, 
-                    "dewPoint": 74.31, 
+                    "dewPoint": 73.51, 
                     "humidity": 0.76, 
                     "icon": "rain", 
                     "ozone": 252.9, 
                     "precipIntensity": 0.0077, 
-                    "precipProbability": 0.35, 
+                    "precipProbability": 0.37, 
                     "precipType": "rain", 
                     "pressure": 1010.05, 
                     "summary": "Drizzle", 
-                    "temperature": 82.61, 
+                    "temperature": 81.78, 
                     "time": 1403730000, 
                     "visibility": 6.2, 
                     "windBearing": 53, 
@@ -2829,12 +2826,12 @@
         "temps": [
             66.52, 
             53.17, 
-            82.61
+            81.78
         ]
     }, 
     "IRN": {
-        "average_humidities": 0.70666666666666667, 
-        "average_temps": 72.336666666666659, 
+        "average_humidities": 0.69333333333333336, 
+        "average_temps": 72.890000000000001, 
         "code": "IRN", 
         "country": "Iran", 
         "goal_difference": -3, 
@@ -2843,7 +2840,7 @@
         "group": "F", 
         "group_position": 4, 
         "humidities": [
-            0.76, 
+            0.72, 
             0.6, 
             0.76
         ], 
@@ -2867,22 +2864,17 @@
                 "match_number": 12, 
                 "number": 1, 
                 "weather": {
-                    "apparentTemperature": 70.21, 
-                    "cloudCover": 0.51, 
-                    "dewPoint": 62.3, 
-                    "humidity": 0.76, 
-                    "icon": "rain", 
-                    "ozone": 253.94, 
-                    "precipIntensity": 0.0032, 
-                    "precipProbability": 0.67, 
+                    "apparentTemperature": 71.82, 
+                    "dewPoint": 62.14, 
+                    "humidity": 0.72, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1019.68, 
-                    "summary": "Drizzle", 
-                    "temperature": 70.21, 
+                    "summary": "Clear", 
+                    "temperature": 71.82, 
                     "time": 1402945200, 
                     "visibility": 6.2, 
-                    "windBearing": 259, 
-                    "windSpeed": 5.21
+                    "windBearing": 234, 
+                    "windSpeed": 9.12
                 }, 
                 "winner": "IRN"
             }, 
@@ -2912,7 +2904,7 @@
                     "icon": "partly-cloudy-day", 
                     "ozone": 266.23, 
                     "precipIntensity": 0.0016, 
-                    "precipProbability": 0.85, 
+                    "precipProbability": 0.83, 
                     "precipType": "rain", 
                     "pressure": 1019.94, 
                     "summary": "Partly Cloudy", 
@@ -2943,9 +2935,9 @@
                 "match_number": 44, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 77.12, 
+                    "apparentTemperature": 77.17, 
                     "cloudCover": 0.62, 
-                    "dewPoint": 69.13, 
+                    "dewPoint": 69.18, 
                     "humidity": 0.76, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 253.89, 
@@ -2954,7 +2946,7 @@
                     "precipType": "rain", 
                     "pressure": 1015.85, 
                     "summary": "Mostly Cloudy", 
-                    "temperature": 77.12, 
+                    "temperature": 77.17, 
                     "time": 1403712000, 
                     "visibility": 6.2, 
                     "windBearing": 160, 
@@ -2964,14 +2956,14 @@
             }
         ], 
         "temps": [
-            70.21, 
+            71.82, 
             69.68, 
-            77.12
+            77.17
         ]
     }, 
     "ITA": {
         "average_humidities": 0.71666666666666679, 
-        "average_temps": 81.283333333333346, 
+        "average_temps": 81.209999999999994, 
         "code": "ITA", 
         "country": "Italy", 
         "goal_difference": -1, 
@@ -3074,9 +3066,9 @@
                 "match_number": 39, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 86.17, 
+                    "apparentTemperature": 85.7, 
                     "cloudCover": 0.64, 
-                    "dewPoint": 72.94, 
+                    "dewPoint": 72.72, 
                     "humidity": 0.76, 
                     "icon": "rain", 
                     "ozone": 251.98, 
@@ -3085,7 +3077,7 @@
                     "precipType": "rain", 
                     "pressure": 1014.64, 
                     "summary": "Drizzle", 
-                    "temperature": 81.23, 
+                    "temperature": 81.01, 
                     "time": 1403625600, 
                     "visibility": 6.03, 
                     "windBearing": 137, 
@@ -3097,12 +3089,12 @@
         "temps": [
             81, 
             81.62, 
-            81.23
+            81.01
         ]
     }, 
     "JPN": {
         "average_humidities": 0.73666666666666669, 
-        "average_temps": 79.186666666666667, 
+        "average_temps": 79.166666666666671, 
         "code": "JPN", 
         "country": "Japan", 
         "goal_difference": -4, 
@@ -3175,7 +3167,7 @@
                     "icon": "rain", 
                     "ozone": 256.26, 
                     "precipIntensity": 0.0086, 
-                    "precipProbability": 0.65, 
+                    "precipProbability": 0.64, 
                     "precipType": "rain", 
                     "pressure": 1015.07, 
                     "summary": "Drizzle", 
@@ -3206,9 +3198,9 @@
                 "match_number": 37, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 84.05, 
+                    "apparentTemperature": 83.98, 
                     "cloudCover": 0.35, 
-                    "dewPoint": 61.77, 
+                    "dewPoint": 61.72, 
                     "humidity": 0.48, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 252.9, 
@@ -3216,7 +3208,7 @@
                     "precipProbability": 0, 
                     "pressure": 1013.16, 
                     "summary": "Partly Cloudy", 
-                    "temperature": 83.4, 
+                    "temperature": 83.34, 
                     "time": 1403643600, 
                     "windBearing": 12, 
                     "windSpeed": 4.01
@@ -3227,12 +3219,12 @@
         "temps": [
             75.38, 
             78.78, 
-            83.4
+            83.34
         ]
     }, 
     "KOR": {
         "average_humidities": 0.71333333333333326, 
-        "average_temps": 71.983333333333334, 
+        "average_temps": 72.070000000000007, 
         "code": "KOR", 
         "country": "Korea Republic", 
         "goal_difference": -3, 
@@ -3272,7 +3264,7 @@
                     "icon": "cloudy", 
                     "ozone": 260.83, 
                     "precipIntensity": 0.0001, 
-                    "precipProbability": 0.82, 
+                    "precipProbability": 0.81, 
                     "precipType": "rain", 
                     "pressure": 1015.31, 
                     "summary": "Overcast", 
@@ -3339,9 +3331,9 @@
                 "match_number": 47, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 76.05, 
+                    "apparentTemperature": 76.31, 
                     "cloudCover": 1, 
-                    "dewPoint": 66.55, 
+                    "dewPoint": 66.8, 
                     "humidity": 0.72, 
                     "icon": "cloudy", 
                     "ozone": 264.14, 
@@ -3350,7 +3342,7 @@
                     "precipType": "rain", 
                     "pressure": 1014.1, 
                     "summary": "Overcast", 
-                    "temperature": 76.05, 
+                    "temperature": 76.31, 
                     "time": 1403812800, 
                     "windBearing": 297, 
                     "windSpeed": 3.98
@@ -3361,12 +3353,12 @@
         "temps": [
             74.51, 
             65.39, 
-            76.05
+            76.31
         ]
     }, 
     "MEX": {
-        "average_humidities": 0.82500000000000007, 
-        "average_temps": 80.134999999999991, 
+        "average_humidities": 0.82000000000000006, 
+        "average_temps": 80.039999999999992, 
         "code": "MEX", 
         "country": "Mexico", 
         "goal_difference": 2, 
@@ -3378,7 +3370,7 @@
             0.94, 
             0.64, 
             0.85, 
-            0.87
+            0.85
         ], 
         "matches": [
             {
@@ -3440,7 +3432,7 @@
                     "icon": "rain", 
                     "ozone": 257.01, 
                     "precipIntensity": 0.0046, 
-                    "precipProbability": 0.6, 
+                    "precipProbability": 0.59, 
                     "precipType": "rain", 
                     "pressure": 1012.35, 
                     "summary": "Drizzle", 
@@ -3471,9 +3463,9 @@
                 "match_number": 34, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 79.44, 
+                    "apparentTemperature": 79.45, 
                     "cloudCover": 0.94, 
-                    "dewPoint": 74.59, 
+                    "dewPoint": 74.6, 
                     "humidity": 0.85, 
                     "icon": "cloudy", 
                     "ozone": 254.04, 
@@ -3482,7 +3474,7 @@
                     "precipType": "rain", 
                     "pressure": 1016.7, 
                     "summary": "Humid and Overcast", 
-                    "temperature": 79.44, 
+                    "temperature": 79.45, 
                     "time": 1403553600, 
                     "visibility": 5.25, 
                     "windBearing": 142, 
@@ -3509,22 +3501,22 @@
                 "match_number": 51, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 95.76, 
-                    "cloudCover": 0.19, 
-                    "dewPoint": 79.42, 
-                    "humidity": 0.87, 
-                    "icon": "clear-day", 
-                    "ozone": 255.46, 
-                    "precipIntensity": 0.0054, 
-                    "precipProbability": 0.13, 
+                    "apparentTemperature": 93.54, 
+                    "cloudCover": 0.22, 
+                    "dewPoint": 78.22, 
+                    "humidity": 0.85, 
+                    "icon": "rain", 
+                    "ozone": 255.65, 
+                    "precipIntensity": 0.005, 
+                    "precipProbability": 0.88, 
                     "precipType": "rain", 
-                    "pressure": 1013.36, 
-                    "summary": "Humid", 
-                    "temperature": 83.59, 
+                    "pressure": 1013.37, 
+                    "summary": "Drizzle", 
+                    "temperature": 83.2, 
                     "time": 1404057600, 
                     "visibility": 6.21, 
-                    "windBearing": 110, 
-                    "windSpeed": 13.49
+                    "windBearing": 111, 
+                    "windSpeed": 13.42
                 }, 
                 "winner": "NED"
             }
@@ -3532,13 +3524,13 @@
         "temps": [
             73.92, 
             83.59, 
-            79.44, 
-            83.59
+            79.45, 
+            83.2
         ]
     }, 
     "NED": {
-        "average_humidities": 0.72999999999999998, 
-        "average_temps": 73.897500000000008, 
+        "average_humidities": 0.72499999999999998, 
+        "average_temps": 73.847499999999997, 
         "code": "NED", 
         "country": "Netherlands", 
         "goal_difference": 8, 
@@ -3550,7 +3542,7 @@
             0.79, 
             0.61, 
             0.65, 
-            0.87
+            0.85
         ], 
         "matches": [
             {
@@ -3612,7 +3604,7 @@
                     "icon": "clear-day", 
                     "ozone": 312.67, 
                     "precipIntensity": 0.0005, 
-                    "precipProbability": 0.82, 
+                    "precipProbability": 0.81, 
                     "precipType": "rain", 
                     "pressure": 1027.65, 
                     "summary": "Clear", 
@@ -3643,18 +3635,18 @@
                 "match_number": 36, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 74.57, 
+                    "apparentTemperature": 74.76, 
                     "cloudCover": 0.82, 
-                    "dewPoint": 62.09, 
+                    "dewPoint": 62.27, 
                     "humidity": 0.65, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 265.14, 
                     "precipIntensity": 0.0002, 
-                    "precipProbability": 0.97, 
+                    "precipProbability": 0.95, 
                     "precipType": "rain", 
                     "pressure": 1020.67, 
                     "summary": "Mostly Cloudy", 
-                    "temperature": 74.57, 
+                    "temperature": 74.76, 
                     "time": 1403539200, 
                     "visibility": 6.2, 
                     "windBearing": 15, 
@@ -3681,22 +3673,22 @@
                 "match_number": 51, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 95.76, 
-                    "cloudCover": 0.19, 
-                    "dewPoint": 79.42, 
-                    "humidity": 0.87, 
-                    "icon": "clear-day", 
-                    "ozone": 255.46, 
-                    "precipIntensity": 0.0054, 
-                    "precipProbability": 0.13, 
+                    "apparentTemperature": 93.54, 
+                    "cloudCover": 0.22, 
+                    "dewPoint": 78.22, 
+                    "humidity": 0.85, 
+                    "icon": "rain", 
+                    "ozone": 255.65, 
+                    "precipIntensity": 0.005, 
+                    "precipProbability": 0.88, 
                     "precipType": "rain", 
-                    "pressure": 1013.36, 
-                    "summary": "Humid", 
-                    "temperature": 83.59, 
+                    "pressure": 1013.37, 
+                    "summary": "Drizzle", 
+                    "temperature": 83.2, 
                     "time": 1404057600, 
                     "visibility": 6.21, 
-                    "windBearing": 110, 
-                    "windSpeed": 13.49
+                    "windBearing": 111, 
+                    "windSpeed": 13.42
                 }, 
                 "winner": "NED"
             }
@@ -3704,13 +3696,13 @@
         "temps": [
             79, 
             58.43, 
-            74.57, 
-            83.59
+            74.76, 
+            83.2
         ]
     }, 
     "NGA": {
-        "average_humidities": 0.78333333333333333, 
-        "average_temps": 71.823333333333323, 
+        "average_humidities": 0.77000000000000002, 
+        "average_temps": 72.359999999999999, 
         "code": "NGA", 
         "country": "Nigeria", 
         "goal_difference": 0, 
@@ -3719,7 +3711,7 @@
         "group": "F", 
         "group_position": 2, 
         "humidities": [
-            0.76, 
+            0.72, 
             0.75, 
             0.84
         ], 
@@ -3743,22 +3735,17 @@
                 "match_number": 12, 
                 "number": 1, 
                 "weather": {
-                    "apparentTemperature": 70.21, 
-                    "cloudCover": 0.51, 
-                    "dewPoint": 62.3, 
-                    "humidity": 0.76, 
-                    "icon": "rain", 
-                    "ozone": 253.94, 
-                    "precipIntensity": 0.0032, 
-                    "precipProbability": 0.67, 
+                    "apparentTemperature": 71.82, 
+                    "dewPoint": 62.14, 
+                    "humidity": 0.72, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1019.68, 
-                    "summary": "Drizzle", 
-                    "temperature": 70.21, 
+                    "summary": "Clear", 
+                    "temperature": 71.82, 
                     "time": 1402945200, 
                     "visibility": 6.2, 
-                    "windBearing": 259, 
-                    "windSpeed": 5.21
+                    "windBearing": 234, 
+                    "windSpeed": 9.12
                 }, 
                 "winner": "IRN"
             }, 
@@ -3788,7 +3775,7 @@
                     "icon": "partly-cloudy-night", 
                     "ozone": 254.45, 
                     "precipIntensity": 0.0001, 
-                    "precipProbability": 0.92, 
+                    "precipProbability": 0.91, 
                     "precipType": "rain", 
                     "pressure": 1013.16, 
                     "summary": "Partly Cloudy", 
@@ -3820,12 +3807,12 @@
                 "weather": {
                     "apparentTemperature": 70.51, 
                     "cloudCover": 0.78, 
-                    "dewPoint": 65.44, 
+                    "dewPoint": 65.43, 
                     "humidity": 0.84, 
                     "icon": "rain", 
                     "ozone": 274.12, 
                     "precipIntensity": 0.0178, 
-                    "precipProbability": 0.56, 
+                    "precipProbability": 0.54, 
                     "precipType": "rain", 
                     "pressure": 1011.52, 
                     "summary": "Light Rain", 
@@ -3839,14 +3826,14 @@
             }
         ], 
         "temps": [
-            70.21, 
+            71.82, 
             74.75, 
             70.51
         ]
     }, 
     "POR": {
-        "average_humidities": 0.65333333333333332, 
-        "average_temps": 79.736666666666665, 
+        "average_humidities": 0.63333333333333341, 
+        "average_temps": 80.63666666666667, 
         "code": "POR", 
         "country": "Portugal", 
         "goal_difference": -3, 
@@ -3855,7 +3842,7 @@
         "group": "G", 
         "group_position": 3, 
         "humidities": [
-            0.73, 
+            0.67, 
             0.8, 
             0.43
         ], 
@@ -3879,22 +3866,17 @@
                 "match_number": 13, 
                 "number": 1, 
                 "weather": {
-                    "apparentTemperature": 79.86, 
-                    "cloudCover": 0.17, 
-                    "dewPoint": 70.52, 
-                    "humidity": 0.73, 
-                    "icon": "rain", 
-                    "ozone": 255.43, 
-                    "precipIntensity": 0.0127, 
-                    "precipProbability": 0.26, 
+                    "apparentTemperature": 89.53, 
+                    "dewPoint": 71.84, 
+                    "humidity": 0.67, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1017.5, 
-                    "summary": "Drizzle", 
-                    "temperature": 79.86, 
+                    "summary": "Clear", 
+                    "temperature": 84, 
                     "time": 1402934400, 
                     "visibility": 6.2, 
                     "windBearing": 130, 
-                    "windSpeed": 11.61
+                    "windSpeed": 11
                 }, 
                 "winner": "GER"
             }, 
@@ -3917,18 +3899,18 @@
                 "match_number": 30, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 86.41, 
+                    "apparentTemperature": 79.76, 
                     "cloudCover": 0.96, 
-                    "dewPoint": 74.08, 
+                    "dewPoint": 72.84, 
                     "humidity": 0.8, 
                     "icon": "rain", 
                     "ozone": 255.76, 
                     "precipIntensity": 0.0055, 
-                    "precipProbability": 0.6, 
+                    "precipProbability": 0.59, 
                     "precipType": "rain", 
                     "pressure": 1011.72, 
                     "summary": "Drizzle", 
-                    "temperature": 81.03, 
+                    "temperature": 79.76, 
                     "time": 1403478000, 
                     "visibility": 6.2, 
                     "windBearing": 83, 
@@ -3955,9 +3937,9 @@
                 "match_number": 46, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 78.32, 
+                    "apparentTemperature": 78.15, 
                     "cloudCover": 0.48, 
-                    "dewPoint": 54.25, 
+                    "dewPoint": 54.09, 
                     "humidity": 0.43, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 252.4, 
@@ -3965,7 +3947,7 @@
                     "precipProbability": 0, 
                     "pressure": 1014.85, 
                     "summary": "Partly Cloudy", 
-                    "temperature": 78.32, 
+                    "temperature": 78.15, 
                     "time": 1403798400, 
                     "windBearing": 70, 
                     "windSpeed": 6.57
@@ -3974,14 +3956,14 @@
             }
         ], 
         "temps": [
-            79.86, 
-            81.03, 
-            78.32
+            84, 
+            79.76, 
+            78.15
         ]
     }, 
     "RUS": {
         "average_humidities": 0.73333333333333339, 
-        "average_temps": 73.686666666666667, 
+        "average_temps": 73.603333333333339, 
         "code": "RUS", 
         "country": "Russia", 
         "goal_difference": -1, 
@@ -4021,7 +4003,7 @@
                     "icon": "cloudy", 
                     "ozone": 260.83, 
                     "precipIntensity": 0.0001, 
-                    "precipProbability": 0.82, 
+                    "precipProbability": 0.81, 
                     "precipType": "rain", 
                     "pressure": 1015.31, 
                     "summary": "Overcast", 
@@ -4059,7 +4041,7 @@
                     "icon": "rain", 
                     "ozone": 270.16, 
                     "precipIntensity": 0.0031, 
-                    "precipProbability": 0.75, 
+                    "precipProbability": 0.74, 
                     "precipType": "rain", 
                     "pressure": 1023.39, 
                     "summary": "Drizzle", 
@@ -4090,9 +4072,9 @@
                 "match_number": 48, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 72.17, 
+                    "apparentTemperature": 71.92, 
                     "cloudCover": 1, 
-                    "dewPoint": 64.49, 
+                    "dewPoint": 64.25, 
                     "humidity": 0.77, 
                     "icon": "cloudy", 
                     "ozone": 272.74, 
@@ -4101,7 +4083,7 @@
                     "precipType": "rain", 
                     "pressure": 1013.13, 
                     "summary": "Overcast", 
-                    "temperature": 72.17, 
+                    "temperature": 71.92, 
                     "time": 1403812800, 
                     "windBearing": 8, 
                     "windSpeed": 3.79
@@ -4112,12 +4094,12 @@
         "temps": [
             74.51, 
             74.38, 
-            72.17
+            71.92
         ]
     }, 
     "SUI": {
         "average_humidities": 0.67666666666666675, 
-        "average_temps": 78.776666666666657, 
+        "average_temps": 78.5, 
         "code": "SUI", 
         "country": "Switzerland", 
         "goal_difference": 1, 
@@ -4221,18 +4203,18 @@
                 "match_number": 41, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 89.21, 
+                    "apparentTemperature": 87.35, 
                     "cloudCover": 0.97, 
-                    "dewPoint": 74.31, 
+                    "dewPoint": 73.51, 
                     "humidity": 0.76, 
                     "icon": "rain", 
                     "ozone": 252.9, 
                     "precipIntensity": 0.0077, 
-                    "precipProbability": 0.35, 
+                    "precipProbability": 0.37, 
                     "precipType": "rain", 
                     "pressure": 1010.05, 
                     "summary": "Drizzle", 
-                    "temperature": 82.61, 
+                    "temperature": 81.78, 
                     "time": 1403730000, 
                     "visibility": 6.2, 
                     "windBearing": 53, 
@@ -4244,12 +4226,12 @@
         "temps": [
             75.17, 
             78.55, 
-            82.61
+            81.78
         ]
     }, 
     "URU": {
         "average_humidities": 0.75749999999999995, 
-        "average_temps": 75.019999999999996, 
+        "average_temps": 74.997500000000002, 
         "code": "URU", 
         "country": "Uruguay", 
         "goal_difference": -2, 
@@ -4354,9 +4336,9 @@
                 "match_number": 39, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 86.17, 
+                    "apparentTemperature": 85.7, 
                     "cloudCover": 0.64, 
-                    "dewPoint": 72.94, 
+                    "dewPoint": 72.72, 
                     "humidity": 0.76, 
                     "icon": "rain", 
                     "ozone": 251.98, 
@@ -4365,7 +4347,7 @@
                     "precipType": "rain", 
                     "pressure": 1014.64, 
                     "summary": "Drizzle", 
-                    "temperature": 81.23, 
+                    "temperature": 81.01, 
                     "time": 1403625600, 
                     "visibility": 6.03, 
                     "windBearing": 137, 
@@ -4392,21 +4374,22 @@
                 "match_number": 50, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 73.82, 
-                    "cloudCover": 0.42, 
-                    "dewPoint": 68.07, 
+                    "apparentTemperature": 73.95, 
+                    "cloudCover": 0.41, 
+                    "dewPoint": 68.17, 
                     "humidity": 0.82, 
                     "icon": "partly-cloudy-day", 
-                    "ozone": 263.35, 
-                    "precipIntensity": 0, 
-                    "precipProbability": 0, 
-                    "pressure": 1017.02, 
+                    "ozone": 263.71, 
+                    "precipIntensity": 0.0001, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1017.05, 
                     "summary": "Partly Cloudy", 
-                    "temperature": 73.82, 
+                    "temperature": 73.95, 
                     "time": 1403985600, 
                     "visibility": 4.67, 
-                    "windBearing": 119, 
-                    "windSpeed": 4.37
+                    "windBearing": 132, 
+                    "windSpeed": 5.53
                 }, 
                 "winner": "COL"
             }
@@ -4414,13 +4397,13 @@
         "temps": [
             84, 
             61.03, 
-            81.23, 
-            73.82
+            81.01, 
+            73.95
         ]
     }, 
     "USA": {
-        "average_humidities": 0.81000000000000005, 
-        "average_temps": 80.75, 
+        "average_humidities": 0.79999999999999993, 
+        "average_temps": 80.056666666666672, 
         "code": "USA", 
         "country": "USA", 
         "goal_difference": 0, 
@@ -4429,7 +4412,7 @@
         "group": "G", 
         "group_position": 2, 
         "humidities": [
-            0.77, 
+            0.74, 
             0.8, 
             0.86
         ], 
@@ -4453,22 +4436,17 @@
                 "match_number": 14, 
                 "number": 1, 
                 "weather": {
-                    "apparentTemperature": 79.27, 
-                    "cloudCover": 0.22, 
-                    "dewPoint": 71.3, 
-                    "humidity": 0.77, 
-                    "icon": "rain", 
-                    "ozone": 252.42, 
-                    "precipIntensity": 0.0101, 
-                    "precipProbability": 0.47, 
+                    "apparentTemperature": 78.48, 
+                    "dewPoint": 69.66, 
+                    "humidity": 0.74, 
+                    "icon": "clear-night", 
                     "precipType": "rain", 
-                    "pressure": 1014.88, 
-                    "summary": "Drizzle", 
-                    "temperature": 79.27, 
+                    "summary": "Clear", 
+                    "temperature": 78.48, 
                     "time": 1402956000, 
                     "visibility": 6.2, 
-                    "windBearing": 144, 
-                    "windSpeed": 14.24
+                    "windBearing": 150, 
+                    "windSpeed": 12.08
                 }, 
                 "winner": "USA"
             }, 
@@ -4491,18 +4469,18 @@
                 "match_number": 30, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 86.41, 
+                    "apparentTemperature": 79.76, 
                     "cloudCover": 0.96, 
-                    "dewPoint": 74.08, 
+                    "dewPoint": 72.84, 
                     "humidity": 0.8, 
                     "icon": "rain", 
                     "ozone": 255.76, 
                     "precipIntensity": 0.0055, 
-                    "precipProbability": 0.6, 
+                    "precipProbability": 0.59, 
                     "precipType": "rain", 
                     "pressure": 1011.72, 
                     "summary": "Drizzle", 
-                    "temperature": 81.03, 
+                    "temperature": 79.76, 
                     "time": 1403478000, 
                     "visibility": 6.2, 
                     "windBearing": 83, 
@@ -4529,9 +4507,9 @@
                 "match_number": 45, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 90.46, 
+                    "apparentTemperature": 90.4, 
                     "cloudCover": 0.85, 
-                    "dewPoint": 77.46, 
+                    "dewPoint": 77.44, 
                     "humidity": 0.86, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 249.63, 
@@ -4539,7 +4517,7 @@
                     "precipProbability": 0, 
                     "pressure": 1014.14, 
                     "summary": "Humid and Mostly Cloudy", 
-                    "temperature": 81.95, 
+                    "temperature": 81.93, 
                     "time": 1403798400, 
                     "windBearing": 96, 
                     "windSpeed": 7.18
@@ -4548,9 +4526,9 @@
             }
         ], 
         "temps": [
-            79.27, 
-            81.03, 
-            81.95
+            78.48, 
+            79.76, 
+            81.93
         ]
     }
 }
