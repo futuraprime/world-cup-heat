@@ -1,7 +1,7 @@
 {
     "ALG": {
-        "average_humidities": 0.6925, 
-        "average_temps": 68.064999999999998, 
+        "average_humidities": 0.67999999999999994, 
+        "average_temps": 67.862499999999997, 
         "code": "ALG", 
         "country": "Algeria", 
         "goal_difference": 0, 
@@ -11,9 +11,9 @@
         "group_position": 2, 
         "humidities": [
             0.42, 
-            0.68, 
+            0.61, 
             0.75, 
-            0.92
+            0.94
         ], 
         "matches": [
             {
@@ -67,20 +67,16 @@
                 "match_number": 32, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 65.39, 
-                    "cloudCover": 0.3, 
-                    "dewPoint": 54.44, 
-                    "humidity": 0.68, 
-                    "icon": "partly-cloudy-day", 
-                    "ozone": 264.33, 
-                    "precipIntensity": 0, 
-                    "precipProbability": 0, 
-                    "pressure": 1019.13, 
-                    "summary": "Partly Cloudy", 
-                    "temperature": 65.39, 
+                    "apparentTemperature": 68.78, 
+                    "dewPoint": 54.97, 
+                    "humidity": 0.61, 
+                    "icon": "clear-day", 
+                    "precipType": "rain", 
+                    "summary": "Clear", 
+                    "temperature": 68.78, 
                     "time": 1403463600, 
-                    "windBearing": 149, 
-                    "windSpeed": 1.64
+                    "windBearing": 169, 
+                    "windSpeed": 2
                 }, 
                 "winner": "ALG"
             }, 
@@ -103,18 +99,18 @@
                 "match_number": 48, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 70.68, 
+                    "apparentTemperature": 69.51, 
                     "cloudCover": 1, 
-                    "dewPoint": 62.25, 
+                    "dewPoint": 61.12, 
                     "humidity": 0.75, 
                     "icon": "cloudy", 
                     "ozone": 272.74, 
                     "precipIntensity": 0.0012, 
-                    "precipProbability": 0.97, 
+                    "precipProbability": 0.81, 
                     "precipType": "rain", 
                     "pressure": 1013.13, 
                     "summary": "Overcast", 
-                    "temperature": 70.68, 
+                    "temperature": 69.51, 
                     "time": 1403812800, 
                     "visibility": 6.2, 
                     "windBearing": 23, 
@@ -141,47 +137,47 @@
                 "match_number": 54, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 58.89, 
+                    "apparentTemperature": 55.86, 
                     "cloudCover": 1, 
-                    "dewPoint": 56.42, 
-                    "humidity": 0.92, 
+                    "dewPoint": 54.2, 
+                    "humidity": 0.94, 
                     "icon": "cloudy", 
-                    "ozone": 292.6, 
+                    "ozone": 292.56, 
                     "precipIntensity": 0, 
                     "precipProbability": 0, 
-                    "pressure": 1011.67, 
+                    "pressure": 1011.65, 
                     "summary": "Overcast", 
-                    "temperature": 58.89, 
+                    "temperature": 55.86, 
                     "time": 1404158400, 
-                    "visibility": 6.21, 
-                    "windBearing": 279, 
-                    "windSpeed": 16.32
+                    "windBearing": 286, 
+                    "windSpeed": 16.78
                 }, 
                 "winner": "GER"
             }
         ], 
         "temps": [
             77.3, 
-            65.39, 
-            70.68, 
-            58.89
+            68.78, 
+            69.51, 
+            55.86
         ]
     }, 
     "ARG": {
-        "average_humidities": 0.65249999999999997, 
-        "average_temps": 70.705000000000013, 
+        "average_humidities": 0.61599999999999999, 
+        "average_temps": 73.286000000000001, 
         "code": "ARG", 
         "country": "Argentina", 
-        "goal_difference": 4, 
-        "goals for": 7, 
+        "goal_difference": 5, 
+        "goals for": 8, 
         "goals_against": 3, 
         "group": "F", 
         "group_position": 1, 
         "humidities": [
             0.81, 
-            0.6, 
+            0.48, 
             0.84, 
-            0.36
+            0.48, 
+            0.47
         ], 
         "matches": [
             {
@@ -236,22 +232,17 @@
                 "match_number": 27, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 69.68, 
-                    "cloudCover": 0.54, 
-                    "dewPoint": 55.09, 
-                    "humidity": 0.6, 
-                    "icon": "partly-cloudy-day", 
-                    "ozone": 266.23, 
-                    "precipIntensity": 0.0016, 
-                    "precipProbability": 0.79, 
+                    "apparentTemperature": 74.54, 
+                    "dewPoint": 53.54, 
+                    "humidity": 0.48, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1019.94, 
-                    "summary": "Partly Cloudy", 
-                    "temperature": 69.68, 
+                    "summary": "Clear", 
+                    "temperature": 74.54, 
                     "time": 1403366400, 
                     "visibility": 6.2, 
-                    "windBearing": 84, 
-                    "windSpeed": 5.45
+                    "windBearing": 90, 
+                    "windSpeed": 7.37
                 }, 
                 "winner": "ARG"
             }, 
@@ -274,18 +265,18 @@
                 "match_number": 43, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 70.74, 
+                    "apparentTemperature": 69.84, 
                     "cloudCover": 0.78, 
-                    "dewPoint": 65.66, 
+                    "dewPoint": 64.78, 
                     "humidity": 0.84, 
                     "icon": "rain", 
                     "ozone": 274.12, 
                     "precipIntensity": 0.0178, 
-                    "precipProbability": 0.5, 
+                    "precipProbability": 0.43, 
                     "precipType": "rain", 
                     "pressure": 1011.52, 
                     "summary": "Drizzle", 
-                    "temperature": 70.74, 
+                    "temperature": 69.84, 
                     "time": 1403712000, 
                     "visibility": 3.84, 
                     "windBearing": 272, 
@@ -312,34 +303,71 @@
                 "match_number": 55, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 70.04, 
+                    "apparentTemperature": 73.31, 
                     "cloudCover": 0, 
-                    "dewPoint": 41.91, 
-                    "humidity": 0.36, 
+                    "dewPoint": 52.38, 
+                    "humidity": 0.48, 
                     "icon": "clear-day", 
-                    "ozone": 266.38, 
+                    "ozone": 266.28, 
                     "precipIntensity": 0, 
                     "precipProbability": 0, 
-                    "pressure": 1017.12, 
+                    "pressure": 1016.63, 
                     "summary": "Clear", 
-                    "temperature": 70.04, 
+                    "temperature": 73.31, 
                     "time": 1404230400, 
-                    "windBearing": 294, 
-                    "windSpeed": 6.42
+                    "windBearing": 290, 
+                    "windSpeed": 6.76
+                }, 
+                "winner": "ARG"
+            }, 
+            {
+                "away_team": {
+                    "code": "BEL", 
+                    "country": "Belgium", 
+                    "goals": 0
+                }, 
+                "code": "ARG", 
+                "datetime": "2014-07-05T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ARG", 
+                    "country": "Argentina", 
+                    "goals": 1
+                }, 
+                "lat": -15.783519, 
+                "lng": -47.899211, 
+                "location": "Estadio Nacional", 
+                "match_number": 60, 
+                "number": 5, 
+                "weather": {
+                    "apparentTemperature": 76.38, 
+                    "cloudCover": 0.18, 
+                    "dewPoint": 54.57, 
+                    "humidity": 0.47, 
+                    "icon": "clear-day", 
+                    "ozone": 256.83, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1017.06, 
+                    "summary": "Clear", 
+                    "temperature": 76.38, 
+                    "time": 1404576000, 
+                    "windBearing": 62, 
+                    "windSpeed": 9.83
                 }, 
                 "winner": "ARG"
             }
         ], 
         "temps": [
             72.36, 
-            69.68, 
-            70.74, 
-            70.04
+            74.54, 
+            69.84, 
+            73.31, 
+            76.38
         ]
     }, 
     "AUS": {
-        "average_humidities": 0.69000000000000006, 
-        "average_temps": 67.453333333333333, 
+        "average_humidities": 0.65666666666666673, 
+        "average_temps": 68.426666666666662, 
         "code": "AUS", 
         "country": "Australia", 
         "goal_difference": -6, 
@@ -349,8 +377,8 @@
         "group_position": 4, 
         "humidities": [
             0.74, 
-            0.61, 
-            0.72
+            0.59, 
+            0.64
         ], 
         "matches": [
             {
@@ -404,22 +432,17 @@
                 "match_number": 20, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 58.43, 
-                    "cloudCover": 0.02, 
-                    "dewPoint": 45.08, 
-                    "humidity": 0.61, 
+                    "apparentTemperature": 58.63, 
+                    "dewPoint": 44.29, 
+                    "humidity": 0.59, 
                     "icon": "clear-day", 
-                    "ozone": 312.67, 
-                    "precipIntensity": 0.0005, 
-                    "precipProbability": 0.78, 
                     "precipType": "rain", 
-                    "pressure": 1027.65, 
                     "summary": "Clear", 
-                    "temperature": 58.43, 
+                    "temperature": 58.63, 
                     "time": 1403107200, 
                     "visibility": 6.2, 
-                    "windBearing": 217, 
-                    "windSpeed": 7.18
+                    "windBearing": 223, 
+                    "windSpeed": 6.95
                 }, 
                 "winner": "NED"
             }, 
@@ -442,47 +465,43 @@
                 "match_number": 35, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 68.93, 
-                    "cloudCover": 0.84, 
-                    "dewPoint": 59.57, 
-                    "humidity": 0.72, 
-                    "icon": "partly-cloudy-day", 
-                    "ozone": 275.51, 
-                    "precipIntensity": 0.0003, 
-                    "precipProbability": 0.91, 
+                    "apparentTemperature": 71.65, 
+                    "dewPoint": 58.67, 
+                    "humidity": 0.64, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1019.55, 
-                    "summary": "Mostly Cloudy", 
-                    "temperature": 68.93, 
+                    "summary": "Clear", 
+                    "temperature": 71.65, 
                     "time": 1403539200, 
                     "visibility": 6.2, 
-                    "windBearing": 2, 
-                    "windSpeed": 4.51
+                    "windBearing": 20, 
+                    "windSpeed": 7.79
                 }, 
                 "winner": "ESP"
             }
         ], 
         "temps": [
             75, 
-            58.43, 
-            68.93
+            58.63, 
+            71.65
         ]
     }, 
     "BEL": {
-        "average_humidities": 0.63749999999999996, 
-        "average_temps": 76.537499999999994, 
+        "average_humidities": 0.57999999999999985, 
+        "average_temps": 77.86999999999999, 
         "code": "BEL", 
         "country": "Belgium", 
-        "goal_difference": 4, 
+        "goal_difference": 3, 
         "goals for": 6, 
-        "goals_against": 2, 
+        "goals_against": 3, 
         "group": "H", 
         "group_position": 1, 
         "humidities": [
             0.42, 
-            0.69, 
+            0.6, 
             0.65, 
-            0.79
+            0.76, 
+            0.47
         ], 
         "matches": [
             {
@@ -536,22 +555,17 @@
                 "match_number": 31, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 74.38, 
-                    "cloudCover": 0.05, 
-                    "dewPoint": 63.71, 
-                    "humidity": 0.69, 
-                    "icon": "rain", 
-                    "ozone": 270.16, 
-                    "precipIntensity": 0.0031, 
-                    "precipProbability": 0.71, 
+                    "apparentTemperature": 78.8, 
+                    "dewPoint": 63.78, 
+                    "humidity": 0.6, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1023.39, 
-                    "summary": "Drizzle", 
-                    "temperature": 74.38, 
+                    "summary": "Clear", 
+                    "temperature": 78.8, 
                     "time": 1403452800, 
                     "visibility": 6.2, 
-                    "windBearing": 82, 
-                    "windSpeed": 9.57
+                    "windBearing": 79, 
+                    "windSpeed": 7.5
                 }, 
                 "winner": "BEL"
             }, 
@@ -574,18 +588,18 @@
                 "match_number": 47, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 76.09, 
+                    "apparentTemperature": 72.55, 
                     "cloudCover": 1, 
-                    "dewPoint": 63.65, 
+                    "dewPoint": 60.29, 
                     "humidity": 0.65, 
                     "icon": "cloudy", 
                     "ozone": 264.14, 
                     "precipIntensity": 0.0003, 
-                    "precipProbability": 0.99, 
+                    "precipProbability": 0.85, 
                     "precipType": "rain", 
                     "pressure": 1014.1, 
                     "summary": "Overcast", 
-                    "temperature": 76.09, 
+                    "temperature": 72.55, 
                     "time": 1403812800, 
                     "windBearing": 315, 
                     "windSpeed": 2.61
@@ -611,36 +625,72 @@
                 "match_number": 56, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 78.38, 
-                    "cloudCover": 0.17, 
-                    "dewPoint": 71.27, 
-                    "humidity": 0.79, 
+                    "apparentTemperature": 93.18, 
+                    "cloudCover": 0.08, 
+                    "dewPoint": 75.77, 
+                    "humidity": 0.76, 
                     "icon": "clear-day", 
-                    "ozone": 253.19, 
-                    "precipIntensity": 0.0011, 
-                    "precipProbability": 0.09, 
+                    "ozone": 253.13, 
+                    "precipIntensity": 0.0007, 
+                    "precipProbability": 0.96, 
                     "precipType": "rain", 
-                    "pressure": 1014.75, 
+                    "pressure": 1014.92, 
                     "summary": "Clear", 
-                    "temperature": 78.38, 
+                    "temperature": 84.32, 
                     "time": 1404244800, 
-                    "visibility": 10, 
-                    "windBearing": 130, 
-                    "windSpeed": 8.54
+                    "windBearing": 125, 
+                    "windSpeed": 7.68
                 }, 
                 "winner": "BEL"
+            }, 
+            {
+                "away_team": {
+                    "code": "BEL", 
+                    "country": "Belgium", 
+                    "goals": 0
+                }, 
+                "code": "BEL", 
+                "datetime": "2014-07-05T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "ARG", 
+                    "country": "Argentina", 
+                    "goals": 1
+                }, 
+                "lat": -15.783519, 
+                "lng": -47.899211, 
+                "location": "Estadio Nacional", 
+                "match_number": 60, 
+                "number": 5, 
+                "weather": {
+                    "apparentTemperature": 76.38, 
+                    "cloudCover": 0.18, 
+                    "dewPoint": 54.57, 
+                    "humidity": 0.47, 
+                    "icon": "clear-day", 
+                    "ozone": 256.83, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1017.06, 
+                    "summary": "Clear", 
+                    "temperature": 76.38, 
+                    "time": 1404576000, 
+                    "windBearing": 62, 
+                    "windSpeed": 9.83
+                }, 
+                "winner": "ARG"
             }
         ], 
         "temps": [
             77.3, 
-            74.38, 
-            76.09, 
-            78.38
+            78.8, 
+            72.55, 
+            84.32, 
+            76.38
         ]
     }, 
     "BIH": {
-        "average_humidities": 0.77333333333333343, 
-        "average_temps": 74.793333333333337, 
+        "average_humidities": 0.77000000000000002, 
+        "average_temps": 75.413333333333341, 
         "code": "BIH", 
         "country": "Bosnia and Herzegovina", 
         "goal_difference": 0, 
@@ -650,7 +700,7 @@
         "group_position": 3, 
         "humidities": [
             0.81, 
-            0.75, 
+            0.74, 
             0.76
         ], 
         "matches": [
@@ -706,21 +756,16 @@
                 "match_number": 28, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 74.75, 
-                    "cloudCover": 0.32, 
-                    "dewPoint": 66.44, 
-                    "humidity": 0.75, 
-                    "icon": "partly-cloudy-night", 
-                    "ozone": 254.45, 
-                    "precipIntensity": 0.0001, 
-                    "precipProbability": 0.87, 
+                    "apparentTemperature": 77, 
+                    "dewPoint": 68.06, 
+                    "humidity": 0.74, 
+                    "icon": "clear-night", 
                     "precipType": "rain", 
-                    "pressure": 1013.16, 
-                    "summary": "Partly Cloudy", 
-                    "temperature": 74.75, 
+                    "summary": "Clear", 
+                    "temperature": 77, 
                     "time": 1403391600, 
-                    "windBearing": 144, 
-                    "windSpeed": 0.95
+                    "windBearing": 180, 
+                    "windSpeed": 3
                 }, 
                 "winner": "NGA"
             }, 
@@ -743,18 +788,18 @@
                 "match_number": 44, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 77.27, 
+                    "apparentTemperature": 76.88, 
                     "cloudCover": 0.62, 
-                    "dewPoint": 69.28, 
+                    "dewPoint": 68.9, 
                     "humidity": 0.76, 
-                    "icon": "partly-cloudy-day", 
+                    "icon": "rain", 
                     "ozone": 253.89, 
                     "precipIntensity": 0.0097, 
-                    "precipProbability": 0.29, 
+                    "precipProbability": 0.34, 
                     "precipType": "rain", 
                     "pressure": 1015.85, 
-                    "summary": "Mostly Cloudy", 
-                    "temperature": 77.27, 
+                    "summary": "Drizzle", 
+                    "temperature": 76.88, 
                     "time": 1403712000, 
                     "visibility": 6.2, 
                     "windBearing": 160, 
@@ -765,25 +810,26 @@
         ], 
         "temps": [
             72.36, 
-            74.75, 
-            77.27
+            77, 
+            76.88
         ]
     }, 
     "BRA": {
-        "average_humidities": 0.59999999999999998, 
-        "average_temps": 77.042500000000004, 
+        "average_humidities": 0.59400000000000008, 
+        "average_temps": 77.155999999999992, 
         "code": "BRA", 
         "country": "Brazil", 
-        "goal_difference": 5, 
-        "goals for": 8, 
-        "goals_against": 3, 
+        "goal_difference": 6, 
+        "goals for": 10, 
+        "goals_against": 4, 
         "group": "A", 
         "group_position": 1, 
         "humidities": [
             0.66, 
             0.67, 
-            0.59, 
-            0.48
+            0.51, 
+            0.48, 
+            0.65
         ], 
         "matches": [
             {
@@ -871,22 +917,17 @@
                 "match_number": 33, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 71.82, 
-                    "cloudCover": 0.98, 
-                    "dewPoint": 56.53, 
-                    "humidity": 0.59, 
-                    "icon": "cloudy", 
-                    "ozone": 251.39, 
-                    "precipIntensity": 0.0004, 
-                    "precipProbability": 0.91, 
+                    "apparentTemperature": 73.03, 
+                    "dewPoint": 53.98, 
+                    "humidity": 0.51, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1017.79, 
-                    "summary": "Overcast", 
-                    "temperature": 71.82, 
+                    "summary": "Clear", 
+                    "temperature": 73.03, 
                     "time": 1403553600, 
                     "visibility": 6.2, 
-                    "windBearing": 78, 
-                    "windSpeed": 6.92
+                    "windBearing": 80, 
+                    "windSpeed": 5.82
                 }, 
                 "winner": "BRA"
             }, 
@@ -911,22 +952,59 @@
                 "match_number": 49, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 79.55, 
+                    "apparentTemperature": 76.49, 
                     "cloudCover": 0.29, 
-                    "dewPoint": 58.37, 
+                    "dewPoint": 55.58, 
                     "humidity": 0.48, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 253.67, 
                     "precipIntensity": 0.0002, 
-                    "precipProbability": 1, 
+                    "precipProbability": 0.9, 
                     "precipType": "rain", 
                     "pressure": 1018.05, 
                     "summary": "Partly Cloudy", 
-                    "temperature": 79.55, 
+                    "temperature": 76.49, 
                     "time": 1403971200, 
                     "visibility": 6.2, 
                     "windBearing": 13, 
                     "windSpeed": 2.8
+                }, 
+                "winner": "BRA"
+            }, 
+            {
+                "away_team": {
+                    "code": "COL", 
+                    "country": "Colombia", 
+                    "goals": 1
+                }, 
+                "code": "BRA", 
+                "datetime": "2014-07-04T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "BRA", 
+                    "country": "Brazil", 
+                    "goals": 2
+                }, 
+                "lat": -3.807231, 
+                "lng": -38.522434, 
+                "location": "Estadio Castelao", 
+                "match_number": 57, 
+                "number": 5, 
+                "weather": {
+                    "apparentTemperature": 79.46, 
+                    "cloudCover": 0.44, 
+                    "dewPoint": 66.85, 
+                    "humidity": 0.65, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 256.82, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1013.47, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 79.46, 
+                    "time": 1404504000, 
+                    "visibility": 6.21, 
+                    "windBearing": 87, 
+                    "windSpeed": 7.54
                 }, 
                 "winner": "BRA"
             }
@@ -934,13 +1012,14 @@
         "temps": [
             74.8, 
             82, 
-            71.82, 
-            79.55
+            73.03, 
+            76.49, 
+            79.46
         ]
     }, 
     "CHI": {
-        "average_humidities": 0.67499999999999993, 
-        "average_temps": 75.167500000000004, 
+        "average_humidities": 0.64500000000000002, 
+        "average_temps": 75.010000000000005, 
         "code": "CHI", 
         "country": "Chile", 
         "goal_difference": 2, 
@@ -950,8 +1029,8 @@
         "group_position": 2, 
         "humidities": [
             0.74, 
-            0.83, 
-            0.65, 
+            0.79, 
+            0.57, 
             0.48
         ], 
         "matches": [
@@ -1006,22 +1085,17 @@
                 "match_number": 19, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 73.6, 
-                    "cloudCover": 0.25, 
-                    "dewPoint": 67.93, 
-                    "humidity": 0.83, 
-                    "icon": "partly-cloudy-day", 
-                    "ozone": 263.01, 
-                    "precipIntensity": 0.0006, 
-                    "precipProbability": 0.78, 
+                    "apparentTemperature": 75.06, 
+                    "dewPoint": 68.13, 
+                    "humidity": 0.79, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1019.46, 
-                    "summary": "Partly Cloudy", 
-                    "temperature": 73.6, 
+                    "summary": "Clear", 
+                    "temperature": 75.06, 
                     "time": 1403118000, 
                     "visibility": 3.53, 
-                    "windBearing": 202, 
-                    "windSpeed": 9.2
+                    "windBearing": 196, 
+                    "windSpeed": 12.47
                 }, 
                 "winner": "CHI"
             }, 
@@ -1044,22 +1118,17 @@
                 "match_number": 36, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 72.52, 
-                    "cloudCover": 0.82, 
-                    "dewPoint": 60.14, 
-                    "humidity": 0.65, 
-                    "icon": "partly-cloudy-day", 
-                    "ozone": 265.14, 
-                    "precipIntensity": 0.0002, 
-                    "precipProbability": 0.91, 
+                    "apparentTemperature": 73.49, 
+                    "dewPoint": 57.37, 
+                    "humidity": 0.57, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1020.67, 
-                    "summary": "Mostly Cloudy", 
-                    "temperature": 72.52, 
+                    "summary": "Clear", 
+                    "temperature": 73.49, 
                     "time": 1403539200, 
                     "visibility": 6.2, 
-                    "windBearing": 15, 
-                    "windSpeed": 3.95
+                    "windBearing": 52, 
+                    "windSpeed": 6.85
                 }, 
                 "winner": "NED"
             }, 
@@ -1084,18 +1153,18 @@
                 "match_number": 49, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 79.55, 
+                    "apparentTemperature": 76.49, 
                     "cloudCover": 0.29, 
-                    "dewPoint": 58.37, 
+                    "dewPoint": 55.58, 
                     "humidity": 0.48, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 253.67, 
                     "precipIntensity": 0.0002, 
-                    "precipProbability": 1, 
+                    "precipProbability": 0.9, 
                     "precipType": "rain", 
                     "pressure": 1018.05, 
                     "summary": "Partly Cloudy", 
-                    "temperature": 79.55, 
+                    "temperature": 76.49, 
                     "time": 1403971200, 
                     "visibility": 6.2, 
                     "windBearing": 13, 
@@ -1106,14 +1175,14 @@
         ], 
         "temps": [
             75, 
-            73.6, 
-            72.52, 
-            79.55
+            75.06, 
+            73.49, 
+            76.49
         ]
     }, 
     "CIV": {
-        "average_humidities": 0.67333333333333334, 
-        "average_temps": 78.65666666666668, 
+        "average_humidities": 0.65000000000000002, 
+        "average_temps": 79.569999999999993, 
         "code": "CIV", 
         "country": "Ivory Coast", 
         "goal_difference": -1, 
@@ -1123,7 +1192,7 @@
         "group_position": 3, 
         "humidities": [
             0.89, 
-            0.48, 
+            0.41, 
             0.65
         ], 
         "matches": [
@@ -1179,22 +1248,17 @@
                 "match_number": 21, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 77.98, 
-                    "cloudCover": 0.98, 
-                    "dewPoint": 56.53, 
-                    "humidity": 0.48, 
-                    "icon": "cloudy", 
-                    "ozone": 259.05, 
-                    "precipIntensity": 0.0003, 
-                    "precipProbability": 0.81, 
+                    "apparentTemperature": 80.57, 
+                    "dewPoint": 55.09, 
+                    "humidity": 0.41, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1018.22, 
-                    "summary": "Overcast", 
-                    "temperature": 77.98, 
+                    "summary": "Clear", 
+                    "temperature": 80.72, 
                     "time": 1403193600, 
                     "visibility": 6.2, 
-                    "windBearing": 152, 
-                    "windSpeed": 6.07
+                    "windBearing": 184, 
+                    "windSpeed": 8.29
                 }, 
                 "winner": "COL"
             }, 
@@ -1224,7 +1288,7 @@
                     "icon": "partly-cloudy-day", 
                     "ozone": 252.84, 
                     "precipIntensity": 0.0002, 
-                    "precipProbability": 0.96, 
+                    "precipProbability": 0.81, 
                     "precipType": "rain", 
                     "pressure": 1012.02, 
                     "summary": "Mostly Cloudy", 
@@ -1238,13 +1302,13 @@
         ], 
         "temps": [
             75.38, 
-            77.98, 
+            80.72, 
             82.61
         ]
     }, 
     "CMR": {
-        "average_humidities": 0.80333333333333323, 
-        "average_temps": 74.319999999999993, 
+        "average_humidities": 0.79000000000000004, 
+        "average_temps": 73.983333333333334, 
         "code": "CMR", 
         "country": "Cameroon", 
         "goal_difference": -8, 
@@ -1254,8 +1318,8 @@
         "group_position": 4, 
         "humidities": [
             0.94, 
-            0.88, 
-            0.59
+            0.92, 
+            0.51
         ], 
         "matches": [
             {
@@ -1310,22 +1374,17 @@
                 "match_number": 18, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 77.22, 
-                    "cloudCover": 0.81, 
-                    "dewPoint": 73.32, 
-                    "humidity": 0.88, 
-                    "icon": "rain", 
-                    "ozone": 249.45, 
-                    "precipIntensity": 0.0115, 
-                    "precipProbability": 0.38, 
+                    "apparentTemperature": 75, 
+                    "dewPoint": 72.39, 
+                    "humidity": 0.92, 
+                    "icon": "clear-night", 
                     "precipType": "rain", 
-                    "pressure": 1014.23, 
-                    "summary": "Drizzle", 
-                    "temperature": 77.22, 
+                    "summary": "Clear", 
+                    "temperature": 75, 
                     "time": 1403132400, 
                     "visibility": 6.2, 
-                    "windBearing": 57, 
-                    "windSpeed": 1.45
+                    "windBearing": 41, 
+                    "windSpeed": 1.55
                 }, 
                 "winner": "CRO"
             }, 
@@ -1348,47 +1407,43 @@
                 "match_number": 33, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 71.82, 
-                    "cloudCover": 0.98, 
-                    "dewPoint": 56.53, 
-                    "humidity": 0.59, 
-                    "icon": "cloudy", 
-                    "ozone": 251.39, 
-                    "precipIntensity": 0.0004, 
-                    "precipProbability": 0.91, 
+                    "apparentTemperature": 73.03, 
+                    "dewPoint": 53.98, 
+                    "humidity": 0.51, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1017.79, 
-                    "summary": "Overcast", 
-                    "temperature": 71.82, 
+                    "summary": "Clear", 
+                    "temperature": 73.03, 
                     "time": 1403553600, 
                     "visibility": 6.2, 
-                    "windBearing": 78, 
-                    "windSpeed": 6.92
+                    "windBearing": 80, 
+                    "windSpeed": 5.82
                 }, 
                 "winner": "BRA"
             }
         ], 
         "temps": [
             73.92, 
-            77.22, 
-            71.82
+            75, 
+            73.03
         ]
     }, 
     "COL": {
-        "average_humidities": 0.5675, 
-        "average_temps": 77.322500000000005, 
+        "average_humidities": 0.57000000000000006, 
+        "average_temps": 77.641999999999996, 
         "code": "COL", 
         "country": "Colombia", 
-        "goal_difference": 9, 
-        "goals for": 11, 
-        "goals_against": 2, 
+        "goal_difference": 8, 
+        "goals for": 12, 
+        "goals_against": 4, 
         "group": "C", 
         "group_position": 1, 
         "humidities": [
             0.52, 
+            0.41, 
             0.48, 
-            0.48, 
-            0.79
+            0.79, 
+            0.65
         ], 
         "matches": [
             {
@@ -1443,22 +1498,17 @@
                 "match_number": 21, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 77.98, 
-                    "cloudCover": 0.98, 
-                    "dewPoint": 56.53, 
-                    "humidity": 0.48, 
-                    "icon": "cloudy", 
-                    "ozone": 259.05, 
-                    "precipIntensity": 0.0003, 
-                    "precipProbability": 0.81, 
+                    "apparentTemperature": 80.57, 
+                    "dewPoint": 55.09, 
+                    "humidity": 0.41, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1018.22, 
-                    "summary": "Overcast", 
-                    "temperature": 77.98, 
+                    "summary": "Clear", 
+                    "temperature": 80.72, 
                     "time": 1403193600, 
                     "visibility": 6.2, 
-                    "windBearing": 152, 
-                    "windSpeed": 6.07
+                    "windBearing": 184, 
+                    "windSpeed": 8.29
                 }, 
                 "winner": "COL"
             }, 
@@ -1517,36 +1567,74 @@
                 "match_number": 50, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 77.64, 
+                    "apparentTemperature": 74.36, 
                     "cloudCover": 0.2, 
-                    "dewPoint": 70.6, 
+                    "dewPoint": 67.43, 
                     "humidity": 0.79, 
                     "icon": "clear-day", 
                     "ozone": 263.7, 
                     "precipIntensity": 0.0001, 
-                    "precipProbability": 1, 
+                    "precipProbability": 0.91, 
                     "precipType": "rain", 
                     "pressure": 1016.99, 
                     "summary": "Clear", 
-                    "temperature": 77.64, 
+                    "temperature": 74.36, 
                     "time": 1403985600, 
                     "visibility": 4.79, 
                     "windBearing": 138, 
                     "windSpeed": 5.89
                 }, 
                 "winner": "COL"
+            }, 
+            {
+                "away_team": {
+                    "code": "COL", 
+                    "country": "Colombia", 
+                    "goals": 1
+                }, 
+                "code": "COL", 
+                "datetime": "2014-07-04T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "BRA", 
+                    "country": "Brazil", 
+                    "goals": 2
+                }, 
+                "lat": -3.807231, 
+                "lng": -38.522434, 
+                "location": "Estadio Castelao", 
+                "match_number": 57, 
+                "number": 5, 
+                "weather": {
+                    "apparentTemperature": 79.46, 
+                    "cloudCover": 0.44, 
+                    "dewPoint": 66.85, 
+                    "humidity": 0.65, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 256.82, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1013.47, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 79.46, 
+                    "time": 1404504000, 
+                    "visibility": 6.21, 
+                    "windBearing": 87, 
+                    "windSpeed": 7.54
+                }, 
+                "winner": "BRA"
             }
         ], 
         "temps": [
             72.31, 
-            77.98, 
+            80.72, 
             81.36, 
-            77.64
+            74.36, 
+            79.46
         ]
     }, 
     "CRC": {
-        "average_humidities": 0.62, 
-        "average_temps": 80.657499999999999, 
+        "average_humidities": 0.65199999999999991, 
+        "average_temps": 80.027999999999992, 
         "code": "CRC", 
         "country": "Costa Rica", 
         "goal_difference": 3, 
@@ -1556,9 +1644,10 @@
         "group_position": 1, 
         "humidities": [
             0.59, 
-            0.68, 
+            0.69, 
             0.45, 
-            0.76
+            0.76, 
+            0.77
         ], 
         "matches": [
             {
@@ -1613,22 +1702,17 @@
                 "match_number": 24, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 85.37, 
-                    "cloudCover": 0.23, 
-                    "dewPoint": 70.08, 
-                    "humidity": 0.68, 
-                    "icon": "rain", 
-                    "ozone": 257.87, 
-                    "precipIntensity": 0.0052, 
-                    "precipProbability": 0.58, 
+                    "apparentTemperature": 85.48, 
+                    "dewPoint": 70.48, 
+                    "humidity": 0.69, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1015.33, 
-                    "summary": "Drizzle", 
-                    "temperature": 81.62, 
+                    "summary": "Clear", 
+                    "temperature": 81.56, 
                     "time": 1403280000, 
                     "visibility": 6.2, 
-                    "windBearing": 149, 
-                    "windSpeed": 14.06
+                    "windBearing": 146, 
+                    "windSpeed": 15.92
                 }, 
                 "winner": "CRC"
             }, 
@@ -1658,7 +1742,7 @@
                     "icon": "clear-day", 
                     "ozone": 264.8, 
                     "precipIntensity": 0.0001, 
-                    "precipProbability": 0.94, 
+                    "precipProbability": 0.81, 
                     "precipType": "rain", 
                     "pressure": 1019.44, 
                     "summary": "Clear", 
@@ -1691,36 +1775,75 @@
                 "match_number": 52, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 88.57, 
-                    "cloudCover": 0.41, 
-                    "dewPoint": 73.9, 
+                    "apparentTemperature": 78.08, 
+                    "cloudCover": 0.02, 
+                    "dewPoint": 69.75, 
                     "humidity": 0.76, 
-                    "icon": "partly-cloudy-day", 
+                    "icon": "clear-day", 
                     "ozone": 252.41, 
                     "precipIntensity": 0.0015, 
-                    "precipProbability": 1, 
+                    "precipProbability": 0.86, 
                     "precipType": "rain", 
                     "pressure": 1014.33, 
-                    "summary": "Partly Cloudy", 
-                    "temperature": 82.38, 
+                    "summary": "Clear", 
+                    "temperature": 78.08, 
                     "time": 1404072000, 
                     "visibility": 6.2, 
                     "windBearing": 155, 
                     "windSpeed": 10.41
                 }, 
                 "winner": "CRC"
+            }, 
+            {
+                "away_team": {
+                    "code": "CRC", 
+                    "country": "Costa Rica", 
+                    "goals": 0, 
+                    "penalties": 3
+                }, 
+                "code": "CRC", 
+                "datetime": "2014-07-05T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "NED", 
+                    "country": "Netherlands", 
+                    "goals": 0, 
+                    "penalties": 4
+                }, 
+                "lat": -12.97883, 
+                "lng": -38.504371, 
+                "location": "Arena Fonte Nova", 
+                "match_number": 59, 
+                "number": 5, 
+                "weather": {
+                    "apparentTemperature": 87.8, 
+                    "cloudCover": 0.73, 
+                    "dewPoint": 74.01, 
+                    "humidity": 0.77, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 252.65, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1018.07, 
+                    "summary": "Mostly Cloudy", 
+                    "temperature": 81.87, 
+                    "time": 1404590400, 
+                    "windBearing": 115, 
+                    "windSpeed": 9
+                }, 
+                "winner": "NED"
             }
         ], 
         "temps": [
             84, 
-            81.62, 
+            81.56, 
             74.63, 
-            82.38
+            78.08, 
+            81.87
         ]
     }, 
     "CRO": {
-        "average_humidities": 0.79666666666666675, 
-        "average_temps": 75.973333333333329, 
+        "average_humidities": 0.80333333333333334, 
+        "average_temps": 75.540000000000006, 
         "code": "CRO", 
         "country": "Croatia", 
         "goal_difference": 0, 
@@ -1730,8 +1853,8 @@
         "group_position": 3, 
         "humidities": [
             0.66, 
-            0.88, 
-            0.85
+            0.92, 
+            0.83
         ], 
         "matches": [
             {
@@ -1786,22 +1909,17 @@
                 "match_number": 18, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 77.22, 
-                    "cloudCover": 0.81, 
-                    "dewPoint": 73.32, 
-                    "humidity": 0.88, 
-                    "icon": "rain", 
-                    "ozone": 249.45, 
-                    "precipIntensity": 0.0115, 
-                    "precipProbability": 0.38, 
+                    "apparentTemperature": 75, 
+                    "dewPoint": 72.39, 
+                    "humidity": 0.92, 
+                    "icon": "clear-night", 
                     "precipType": "rain", 
-                    "pressure": 1014.23, 
-                    "summary": "Drizzle", 
-                    "temperature": 77.22, 
+                    "summary": "Clear", 
+                    "temperature": 75, 
                     "time": 1403132400, 
                     "visibility": 6.2, 
-                    "windBearing": 57, 
-                    "windSpeed": 1.45
+                    "windBearing": 41, 
+                    "windSpeed": 1.55
                 }, 
                 "winner": "CRO"
             }, 
@@ -1824,35 +1942,30 @@
                 "match_number": 34, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 75.9, 
-                    "cloudCover": 0.94, 
-                    "dewPoint": 71.12, 
-                    "humidity": 0.85, 
-                    "icon": "cloudy", 
-                    "ozone": 254.04, 
-                    "precipIntensity": 0.0293, 
-                    "precipProbability": 0.03, 
+                    "apparentTemperature": 76.82, 
+                    "dewPoint": 71.13, 
+                    "humidity": 0.83, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1016.7, 
-                    "summary": "Humid and Overcast", 
-                    "temperature": 75.9, 
+                    "summary": "Clear", 
+                    "temperature": 76.82, 
                     "time": 1403553600, 
                     "visibility": 5.25, 
-                    "windBearing": 142, 
-                    "windSpeed": 11.67
+                    "windBearing": 134, 
+                    "windSpeed": 13.12
                 }, 
                 "winner": "MEX"
             }
         ], 
         "temps": [
             74.8, 
-            77.22, 
-            75.9
+            75, 
+            76.82
         ]
     }, 
     "ECU": {
-        "average_humidities": 0.70999999999999996, 
-        "average_temps": 68.356666666666669, 
+        "average_humidities": 0.7466666666666667, 
+        "average_temps": 67.620000000000005, 
         "code": "ECU", 
         "country": "Ecuador", 
         "goal_difference": 0, 
@@ -1862,7 +1975,7 @@
         "group_position": 3, 
         "humidities": [
             0.54, 
-            0.87, 
+            0.98, 
             0.72
         ], 
         "matches": [
@@ -1918,22 +2031,17 @@
                 "match_number": 26, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 53.17, 
-                    "cloudCover": 1, 
-                    "dewPoint": 49.47, 
-                    "humidity": 0.87, 
-                    "icon": "cloudy", 
-                    "ozone": 291.34, 
-                    "precipIntensity": 0.0003, 
-                    "precipProbability": 0.83, 
+                    "apparentTemperature": 53.05, 
+                    "dewPoint": 52.59, 
+                    "humidity": 0.98, 
+                    "icon": "clear-night", 
                     "precipType": "rain", 
-                    "pressure": 1022.15, 
-                    "summary": "Overcast", 
-                    "temperature": 53.17, 
+                    "summary": "Clear", 
+                    "temperature": 53.05, 
                     "time": 1403301600, 
                     "visibility": 6.2, 
-                    "windBearing": 108, 
-                    "windSpeed": 2.72
+                    "windBearing": 142, 
+                    "windSpeed": 4.02
                 }, 
                 "winner": "ECU"
             }, 
@@ -1956,9 +2064,9 @@
                 "match_number": 42, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 76.73, 
+                    "apparentTemperature": 74.64, 
                     "cloudCover": 0.17, 
-                    "dewPoint": 67.13, 
+                    "dewPoint": 65.13, 
                     "humidity": 0.72, 
                     "icon": "clear-day", 
                     "ozone": 262.46, 
@@ -1966,7 +2074,7 @@
                     "precipProbability": 0, 
                     "pressure": 1015.91, 
                     "summary": "Clear", 
-                    "temperature": 76.73, 
+                    "temperature": 74.64, 
                     "time": 1403726400, 
                     "windBearing": 130, 
                     "windSpeed": 3.83
@@ -1976,13 +2084,13 @@
         ], 
         "temps": [
             75.17, 
-            53.17, 
-            76.73
+            53.05, 
+            74.64
         ]
     }, 
     "ENG": {
-        "average_humidities": 0.67333333333333334, 
-        "average_temps": 72.219999999999999, 
+        "average_humidities": 0.65666666666666662, 
+        "average_temps": 72.670000000000002, 
         "code": "ENG", 
         "country": "England", 
         "goal_difference": -2, 
@@ -1992,7 +2100,7 @@
         "group_position": 4, 
         "humidities": [
             0.71, 
-            0.86, 
+            0.81, 
             0.45
         ], 
         "matches": [
@@ -2047,22 +2155,17 @@
                 "match_number": 23, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 61.03, 
-                    "cloudCover": 0.91, 
-                    "dewPoint": 56.8, 
-                    "humidity": 0.86, 
-                    "icon": "rain", 
-                    "ozone": 286.33, 
-                    "precipIntensity": 0.0081, 
-                    "precipProbability": 0.43, 
+                    "apparentTemperature": 62.38, 
+                    "dewPoint": 56.41, 
+                    "humidity": 0.81, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1024.34, 
-                    "summary": "Drizzle", 
-                    "temperature": 61.03, 
+                    "summary": "Clear", 
+                    "temperature": 62.38, 
                     "time": 1403204400, 
                     "visibility": 5.84, 
-                    "windBearing": 166, 
-                    "windSpeed": 9.02
+                    "windBearing": 173, 
+                    "windSpeed": 10.08
                 }, 
                 "winner": "URU"
             }, 
@@ -2092,7 +2195,7 @@
                     "icon": "clear-day", 
                     "ozone": 264.8, 
                     "precipIntensity": 0.0001, 
-                    "precipProbability": 0.94, 
+                    "precipProbability": 0.81, 
                     "precipType": "rain", 
                     "pressure": 1019.44, 
                     "summary": "Clear", 
@@ -2107,13 +2210,13 @@
         ], 
         "temps": [
             81, 
-            61.03, 
+            62.38, 
             74.63
         ]
     }, 
     "ESP": {
-        "average_humidities": 0.77999999999999992, 
-        "average_temps": 73.843333333333334, 
+        "average_humidities": 0.7400000000000001, 
+        "average_temps": 75.236666666666665, 
         "code": "ESP", 
         "country": "Spain", 
         "goal_difference": -3, 
@@ -2123,8 +2226,8 @@
         "group_position": 3, 
         "humidities": [
             0.79, 
-            0.83, 
-            0.72
+            0.79, 
+            0.64
         ], 
         "matches": [
             {
@@ -2179,22 +2282,17 @@
                 "match_number": 19, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 73.6, 
-                    "cloudCover": 0.25, 
-                    "dewPoint": 67.93, 
-                    "humidity": 0.83, 
-                    "icon": "partly-cloudy-day", 
-                    "ozone": 263.01, 
-                    "precipIntensity": 0.0006, 
-                    "precipProbability": 0.78, 
+                    "apparentTemperature": 75.06, 
+                    "dewPoint": 68.13, 
+                    "humidity": 0.79, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1019.46, 
-                    "summary": "Partly Cloudy", 
-                    "temperature": 73.6, 
+                    "summary": "Clear", 
+                    "temperature": 75.06, 
                     "time": 1403118000, 
                     "visibility": 3.53, 
-                    "windBearing": 202, 
-                    "windSpeed": 9.2
+                    "windBearing": 196, 
+                    "windSpeed": 12.47
                 }, 
                 "winner": "CHI"
             }, 
@@ -2217,47 +2315,43 @@
                 "match_number": 35, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 68.93, 
-                    "cloudCover": 0.84, 
-                    "dewPoint": 59.57, 
-                    "humidity": 0.72, 
-                    "icon": "partly-cloudy-day", 
-                    "ozone": 275.51, 
-                    "precipIntensity": 0.0003, 
-                    "precipProbability": 0.91, 
+                    "apparentTemperature": 71.65, 
+                    "dewPoint": 58.67, 
+                    "humidity": 0.64, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1019.55, 
-                    "summary": "Mostly Cloudy", 
-                    "temperature": 68.93, 
+                    "summary": "Clear", 
+                    "temperature": 71.65, 
                     "time": 1403539200, 
                     "visibility": 6.2, 
-                    "windBearing": 2, 
-                    "windSpeed": 4.51
+                    "windBearing": 20, 
+                    "windSpeed": 7.79
                 }, 
                 "winner": "ESP"
             }
         ], 
         "temps": [
             79, 
-            73.6, 
-            68.93
+            75.06, 
+            71.65
         ]
     }, 
     "FRA": {
-        "average_humidities": 0.67999999999999994, 
-        "average_temps": 74.965000000000003, 
+        "average_humidities": 0.67599999999999993, 
+        "average_temps": 76.311999999999983, 
         "code": "FRA", 
         "country": "France", 
-        "goal_difference": 8, 
+        "goal_difference": 7, 
         "goals for": 10, 
-        "goals_against": 2, 
+        "goals_against": 3, 
         "group": "E", 
         "group_position": 1, 
         "humidities": [
             0.82, 
-            0.73, 
+            0.65, 
             0.72, 
-            0.45
+            0.45, 
+            0.74
         ], 
         "matches": [
             {
@@ -2312,22 +2406,17 @@
                 "match_number": 25, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 78.55, 
-                    "cloudCover": 0.94, 
-                    "dewPoint": 69.04, 
-                    "humidity": 0.73, 
-                    "icon": "rain", 
-                    "ozone": 254.07, 
-                    "precipIntensity": 0.0092, 
-                    "precipProbability": 0.41, 
+                    "apparentTemperature": 83.81, 
+                    "dewPoint": 68.1, 
+                    "humidity": 0.65, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1016.83, 
-                    "summary": "Drizzle", 
-                    "temperature": 78.55, 
+                    "summary": "Clear", 
+                    "temperature": 81, 
                     "time": 1403290800, 
                     "visibility": 6.2, 
-                    "windBearing": 134, 
-                    "windSpeed": 7.72
+                    "windBearing": 140, 
+                    "windSpeed": 7
                 }, 
                 "winner": "FRA"
             }, 
@@ -2350,9 +2439,9 @@
                 "match_number": 42, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 76.73, 
+                    "apparentTemperature": 74.64, 
                     "cloudCover": 0.17, 
-                    "dewPoint": 67.13, 
+                    "dewPoint": 65.13, 
                     "humidity": 0.72, 
                     "icon": "clear-day", 
                     "ozone": 262.46, 
@@ -2360,7 +2449,7 @@
                     "precipProbability": 0, 
                     "pressure": 1015.91, 
                     "summary": "Clear", 
-                    "temperature": 76.73, 
+                    "temperature": 74.64, 
                     "time": 1403726400, 
                     "windBearing": 130, 
                     "windSpeed": 3.83
@@ -2386,48 +2475,87 @@
                 "match_number": 53, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 78.06, 
-                    "cloudCover": 0.41, 
-                    "dewPoint": 54.9, 
+                    "apparentTemperature": 79.39, 
+                    "cloudCover": 0, 
+                    "dewPoint": 56.1, 
                     "humidity": 0.45, 
-                    "icon": "partly-cloudy-day", 
+                    "icon": "clear-day", 
                     "ozone": 256.19, 
                     "precipIntensity": 0.0001, 
-                    "precipProbability": 1, 
+                    "precipProbability": 0.96, 
                     "precipType": "rain", 
-                    "pressure": 1015.01, 
-                    "summary": "Partly Cloudy", 
-                    "temperature": 78.06, 
+                    "pressure": 1014.77, 
+                    "summary": "Clear", 
+                    "temperature": 79.39, 
                     "time": 1404144000, 
-                    "visibility": 6.21, 
-                    "windBearing": 58, 
-                    "windSpeed": 2.34
+                    "windBearing": 47, 
+                    "windSpeed": 2.48
                 }, 
                 "winner": "FRA"
+            }, 
+            {
+                "away_team": {
+                    "code": "GER", 
+                    "country": "Germany", 
+                    "goals": 1
+                }, 
+                "code": "FRA", 
+                "datetime": "2014-07-04T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "FRA", 
+                    "country": "France", 
+                    "goals": 0
+                }, 
+                "lat": -22.912109, 
+                "lng": -43.230156, 
+                "location": "Estadio do Maracana", 
+                "match_number": 58, 
+                "number": 5, 
+                "weather": {
+                    "apparentTemperature": 83.5, 
+                    "cloudCover": 0.34, 
+                    "dewPoint": 71.05, 
+                    "humidity": 0.74, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 269.52, 
+                    "precipIntensity": 0.0002, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1020.79, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 80.01, 
+                    "time": 1404489600, 
+                    "visibility": 3.49, 
+                    "windBearing": 91, 
+                    "windSpeed": 4.69
+                }, 
+                "winner": "GER"
             }
         ], 
         "temps": [
             66.52, 
-            78.55, 
-            76.73, 
-            78.06
+            81, 
+            74.64, 
+            79.39, 
+            80.01
         ]
     }, 
     "GER": {
-        "average_humidities": 0.745, 
-        "average_temps": 76.647499999999994, 
+        "average_humidities": 0.73399999999999999, 
+        "average_temps": 76.268000000000001, 
         "code": "GER", 
         "country": "Germany", 
-        "goal_difference": 6, 
-        "goals for": 9, 
+        "goal_difference": 7, 
+        "goals for": 10, 
         "goals_against": 3, 
         "group": "G", 
         "group_position": 1, 
         "humidities": [
             0.67, 
-            0.5, 
+            0.43, 
             0.89, 
-            0.92
+            0.94, 
+            0.74
         ], 
         "matches": [
             {
@@ -2482,20 +2610,16 @@
                 "match_number": 29, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 86.12, 
-                    "cloudCover": 0.24, 
-                    "dewPoint": 64.15, 
-                    "humidity": 0.5, 
+                    "apparentTemperature": 86.09, 
+                    "dewPoint": 60.86, 
+                    "humidity": 0.43, 
                     "icon": "clear-day", 
-                    "ozone": 255.14, 
-                    "precipIntensity": 0, 
-                    "precipProbability": 0, 
-                    "pressure": 1011.81, 
+                    "precipType": "rain", 
                     "summary": "Clear", 
-                    "temperature": 84.7, 
+                    "temperature": 86, 
                     "time": 1403377200, 
-                    "windBearing": 96, 
-                    "windSpeed": 10.58
+                    "windBearing": 60, 
+                    "windSpeed": 13
                 }, 
                 "winner": "GER"
             }, 
@@ -2518,9 +2642,9 @@
                 "match_number": 45, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 79, 
+                    "apparentTemperature": 75.47, 
                     "cloudCover": 0.85, 
-                    "dewPoint": 75.63, 
+                    "dewPoint": 72.14, 
                     "humidity": 0.89, 
                     "icon": "fog", 
                     "ozone": 249.63, 
@@ -2528,7 +2652,7 @@
                     "precipProbability": 0, 
                     "pressure": 1014.14, 
                     "summary": "Humid and Foggy", 
-                    "temperature": 79, 
+                    "temperature": 75.47, 
                     "time": 1403798400, 
                     "visibility": 1.76, 
                     "windBearing": 89, 
@@ -2555,35 +2679,73 @@
                 "match_number": 54, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 58.89, 
+                    "apparentTemperature": 55.86, 
                     "cloudCover": 1, 
-                    "dewPoint": 56.42, 
-                    "humidity": 0.92, 
+                    "dewPoint": 54.2, 
+                    "humidity": 0.94, 
                     "icon": "cloudy", 
-                    "ozone": 292.6, 
+                    "ozone": 292.56, 
                     "precipIntensity": 0, 
                     "precipProbability": 0, 
-                    "pressure": 1011.67, 
+                    "pressure": 1011.65, 
                     "summary": "Overcast", 
-                    "temperature": 58.89, 
+                    "temperature": 55.86, 
                     "time": 1404158400, 
-                    "visibility": 6.21, 
-                    "windBearing": 279, 
-                    "windSpeed": 16.32
+                    "windBearing": 286, 
+                    "windSpeed": 16.78
+                }, 
+                "winner": "GER"
+            }, 
+            {
+                "away_team": {
+                    "code": "GER", 
+                    "country": "Germany", 
+                    "goals": 1
+                }, 
+                "code": "GER", 
+                "datetime": "2014-07-04T13:00:00.000-03:00", 
+                "home_team": {
+                    "code": "FRA", 
+                    "country": "France", 
+                    "goals": 0
+                }, 
+                "lat": -22.912109, 
+                "lng": -43.230156, 
+                "location": "Estadio do Maracana", 
+                "match_number": 58, 
+                "number": 5, 
+                "weather": {
+                    "apparentTemperature": 83.5, 
+                    "cloudCover": 0.34, 
+                    "dewPoint": 71.05, 
+                    "humidity": 0.74, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 269.52, 
+                    "precipIntensity": 0.0002, 
+                    "precipProbability": 1, 
+                    "precipType": "rain", 
+                    "pressure": 1020.79, 
+                    "summary": "Partly Cloudy", 
+                    "temperature": 80.01, 
+                    "time": 1404489600, 
+                    "visibility": 3.49, 
+                    "windBearing": 91, 
+                    "windSpeed": 4.69
                 }, 
                 "winner": "GER"
             }
         ], 
         "temps": [
             84, 
-            84.7, 
-            79, 
-            58.89
+            86, 
+            75.47, 
+            55.86, 
+            80.01
         ]
     }, 
     "GHA": {
-        "average_humidities": 0.54666666666666675, 
-        "average_temps": 80.63333333333334, 
+        "average_humidities": 0.52333333333333332, 
+        "average_temps": 80.670000000000002, 
         "code": "GHA", 
         "country": "Ghana", 
         "goal_difference": -2, 
@@ -2593,7 +2755,7 @@
         "group_position": 4, 
         "humidities": [
             0.74, 
-            0.5, 
+            0.43, 
             0.4
         ], 
         "matches": [
@@ -2649,20 +2811,16 @@
                 "match_number": 29, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 86.12, 
-                    "cloudCover": 0.24, 
-                    "dewPoint": 64.15, 
-                    "humidity": 0.5, 
+                    "apparentTemperature": 86.09, 
+                    "dewPoint": 60.86, 
+                    "humidity": 0.43, 
                     "icon": "clear-day", 
-                    "ozone": 255.14, 
-                    "precipIntensity": 0, 
-                    "precipProbability": 0, 
-                    "pressure": 1011.81, 
+                    "precipType": "rain", 
                     "summary": "Clear", 
-                    "temperature": 84.7, 
+                    "temperature": 86, 
                     "time": 1403377200, 
-                    "windBearing": 96, 
-                    "windSpeed": 10.58
+                    "windBearing": 60, 
+                    "windSpeed": 13
                 }, 
                 "winner": "GER"
             }, 
@@ -2685,9 +2843,9 @@
                 "match_number": 46, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 78.72, 
+                    "apparentTemperature": 77.53, 
                     "cloudCover": 0.48, 
-                    "dewPoint": 52.48, 
+                    "dewPoint": 51.42, 
                     "humidity": 0.4, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 252.4, 
@@ -2695,7 +2853,7 @@
                     "precipProbability": 0, 
                     "pressure": 1014.85, 
                     "summary": "Partly Cloudy", 
-                    "temperature": 78.72, 
+                    "temperature": 77.53, 
                     "time": 1403798400, 
                     "windBearing": 62, 
                     "windSpeed": 6.47
@@ -2705,13 +2863,13 @@
         ], 
         "temps": [
             78.48, 
-            84.7, 
-            78.72
+            86, 
+            77.53
         ]
     }, 
     "GRE": {
-        "average_humidities": 0.69249999999999989, 
-        "average_temps": 79.019999999999996, 
+        "average_humidities": 0.69999999999999996, 
+        "average_temps": 77.5, 
         "code": "GRE", 
         "country": "Greece", 
         "goal_difference": -2, 
@@ -2721,7 +2879,7 @@
         "group_position": 2, 
         "humidities": [
             0.52, 
-            0.84, 
+            0.87, 
             0.65, 
             0.76
         ], 
@@ -2778,22 +2936,17 @@
                 "match_number": 22, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 78.78, 
-                    "cloudCover": 0.61, 
-                    "dewPoint": 73.38, 
-                    "humidity": 0.84, 
-                    "icon": "rain", 
-                    "ozone": 256.26, 
-                    "precipIntensity": 0.0086, 
-                    "precipProbability": 0.62, 
+                    "apparentTemperature": 77, 
+                    "dewPoint": 72.84, 
+                    "humidity": 0.87, 
+                    "icon": "clear-night", 
                     "precipType": "rain", 
-                    "pressure": 1015.07, 
-                    "summary": "Drizzle", 
-                    "temperature": 78.78, 
+                    "summary": "Clear", 
+                    "temperature": 77, 
                     "time": 1403215200, 
                     "visibility": 6.2, 
-                    "windBearing": 143, 
-                    "windSpeed": 16.3
+                    "windBearing": 131, 
+                    "windSpeed": 14.51
                 }, 
                 "winner": "JPN"
             }, 
@@ -2823,7 +2976,7 @@
                     "icon": "partly-cloudy-day", 
                     "ozone": 252.84, 
                     "precipIntensity": 0.0002, 
-                    "precipProbability": 0.96, 
+                    "precipProbability": 0.81, 
                     "precipType": "rain", 
                     "pressure": 1012.02, 
                     "summary": "Mostly Cloudy", 
@@ -2855,18 +3008,18 @@
                 "match_number": 52, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 88.57, 
-                    "cloudCover": 0.41, 
-                    "dewPoint": 73.9, 
+                    "apparentTemperature": 78.08, 
+                    "cloudCover": 0.02, 
+                    "dewPoint": 69.75, 
                     "humidity": 0.76, 
-                    "icon": "partly-cloudy-day", 
+                    "icon": "clear-day", 
                     "ozone": 252.41, 
                     "precipIntensity": 0.0015, 
-                    "precipProbability": 1, 
+                    "precipProbability": 0.86, 
                     "precipType": "rain", 
                     "pressure": 1014.33, 
-                    "summary": "Partly Cloudy", 
-                    "temperature": 82.38, 
+                    "summary": "Clear", 
+                    "temperature": 78.08, 
                     "time": 1404072000, 
                     "visibility": 6.2, 
                     "windBearing": 155, 
@@ -2877,14 +3030,14 @@
         ], 
         "temps": [
             72.31, 
-            78.78, 
+            77, 
             82.61, 
-            82.38
+            78.08
         ]
     }, 
     "HON": {
-        "average_humidities": 0.81666666666666676, 
-        "average_temps": 66.966666666666654, 
+        "average_humidities": 0.85333333333333317, 
+        "average_temps": 67.236666666666665, 
         "code": "HON", 
         "country": "Honduras", 
         "goal_difference": -7, 
@@ -2894,7 +3047,7 @@
         "group_position": 4, 
         "humidities": [
             0.82, 
-            0.87, 
+            0.98, 
             0.76
         ], 
         "matches": [
@@ -2950,22 +3103,17 @@
                 "match_number": 26, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 53.17, 
-                    "cloudCover": 1, 
-                    "dewPoint": 49.47, 
-                    "humidity": 0.87, 
-                    "icon": "cloudy", 
-                    "ozone": 291.34, 
-                    "precipIntensity": 0.0003, 
-                    "precipProbability": 0.83, 
+                    "apparentTemperature": 53.05, 
+                    "dewPoint": 52.59, 
+                    "humidity": 0.98, 
+                    "icon": "clear-night", 
                     "precipType": "rain", 
-                    "pressure": 1022.15, 
-                    "summary": "Overcast", 
-                    "temperature": 53.17, 
+                    "summary": "Clear", 
+                    "temperature": 53.05, 
                     "time": 1403301600, 
                     "visibility": 6.2, 
-                    "windBearing": 108, 
-                    "windSpeed": 2.72
+                    "windBearing": 142, 
+                    "windSpeed": 4.02
                 }, 
                 "winner": "ECU"
             }, 
@@ -2988,18 +3136,18 @@
                 "match_number": 41, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 86.15, 
+                    "apparentTemperature": 88.14, 
                     "cloudCover": 0.97, 
-                    "dewPoint": 72.96, 
+                    "dewPoint": 73.85, 
                     "humidity": 0.76, 
                     "icon": "rain", 
                     "ozone": 252.9, 
                     "precipIntensity": 0.0077, 
-                    "precipProbability": 0.39, 
+                    "precipProbability": 0.43, 
                     "precipType": "rain", 
                     "pressure": 1010.05, 
                     "summary": "Drizzle", 
-                    "temperature": 81.21, 
+                    "temperature": 82.14, 
                     "time": 1403730000, 
                     "visibility": 6.2, 
                     "windBearing": 53, 
@@ -3010,13 +3158,13 @@
         ], 
         "temps": [
             66.52, 
-            53.17, 
-            81.21
+            53.05, 
+            82.14
         ]
     }, 
     "IRN": {
-        "average_humidities": 0.69333333333333336, 
-        "average_temps": 72.923333333333332, 
+        "average_humidities": 0.65333333333333332, 
+        "average_temps": 74.413333333333341, 
         "code": "IRN", 
         "country": "Iran", 
         "goal_difference": -3, 
@@ -3026,7 +3174,7 @@
         "group_position": 4, 
         "humidities": [
             0.72, 
-            0.6, 
+            0.48, 
             0.76
         ], 
         "matches": [
@@ -3082,22 +3230,17 @@
                 "match_number": 27, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 69.68, 
-                    "cloudCover": 0.54, 
-                    "dewPoint": 55.09, 
-                    "humidity": 0.6, 
-                    "icon": "partly-cloudy-day", 
-                    "ozone": 266.23, 
-                    "precipIntensity": 0.0016, 
-                    "precipProbability": 0.79, 
+                    "apparentTemperature": 74.54, 
+                    "dewPoint": 53.54, 
+                    "humidity": 0.48, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1019.94, 
-                    "summary": "Partly Cloudy", 
-                    "temperature": 69.68, 
+                    "summary": "Clear", 
+                    "temperature": 74.54, 
                     "time": 1403366400, 
                     "visibility": 6.2, 
-                    "windBearing": 84, 
-                    "windSpeed": 5.45
+                    "windBearing": 90, 
+                    "windSpeed": 7.37
                 }, 
                 "winner": "ARG"
             }, 
@@ -3120,18 +3263,18 @@
                 "match_number": 44, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 77.27, 
+                    "apparentTemperature": 76.88, 
                     "cloudCover": 0.62, 
-                    "dewPoint": 69.28, 
+                    "dewPoint": 68.9, 
                     "humidity": 0.76, 
-                    "icon": "partly-cloudy-day", 
+                    "icon": "rain", 
                     "ozone": 253.89, 
                     "precipIntensity": 0.0097, 
-                    "precipProbability": 0.29, 
+                    "precipProbability": 0.34, 
                     "precipType": "rain", 
                     "pressure": 1015.85, 
-                    "summary": "Mostly Cloudy", 
-                    "temperature": 77.27, 
+                    "summary": "Drizzle", 
+                    "temperature": 76.88, 
                     "time": 1403712000, 
                     "visibility": 6.2, 
                     "windBearing": 160, 
@@ -3142,13 +3285,13 @@
         ], 
         "temps": [
             71.82, 
-            69.68, 
-            77.27
+            74.54, 
+            76.88
         ]
     }, 
     "ITA": {
-        "average_humidities": 0.71666666666666679, 
-        "average_temps": 81.206666666666663, 
+        "average_humidities": 0.72000000000000008, 
+        "average_temps": 81.186666666666667, 
         "code": "ITA", 
         "country": "Italy", 
         "goal_difference": -1, 
@@ -3158,7 +3301,7 @@
         "group_position": 3, 
         "humidities": [
             0.71, 
-            0.68, 
+            0.69, 
             0.76
         ], 
         "matches": [
@@ -3213,22 +3356,17 @@
                 "match_number": 24, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 85.37, 
-                    "cloudCover": 0.23, 
-                    "dewPoint": 70.08, 
-                    "humidity": 0.68, 
-                    "icon": "rain", 
-                    "ozone": 257.87, 
-                    "precipIntensity": 0.0052, 
-                    "precipProbability": 0.58, 
+                    "apparentTemperature": 85.48, 
+                    "dewPoint": 70.48, 
+                    "humidity": 0.69, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1015.33, 
-                    "summary": "Drizzle", 
-                    "temperature": 81.62, 
+                    "summary": "Clear", 
+                    "temperature": 81.56, 
                     "time": 1403280000, 
                     "visibility": 6.2, 
-                    "windBearing": 149, 
-                    "windSpeed": 14.06
+                    "windBearing": 146, 
+                    "windSpeed": 15.92
                 }, 
                 "winner": "CRC"
             }, 
@@ -3258,7 +3396,7 @@
                     "icon": "rain", 
                     "ozone": 251.98, 
                     "precipIntensity": 0.0144, 
-                    "precipProbability": 0.25, 
+                    "precipProbability": 0.28, 
                     "precipType": "rain", 
                     "pressure": 1014.64, 
                     "summary": "Drizzle", 
@@ -3273,13 +3411,13 @@
         ], 
         "temps": [
             81, 
-            81.62, 
+            81.56, 
             81
         ]
     }, 
     "JPN": {
-        "average_humidities": 0.73666666666666669, 
-        "average_temps": 78.506666666666661, 
+        "average_humidities": 0.7466666666666667, 
+        "average_temps": 77.913333333333341, 
         "code": "JPN", 
         "country": "Japan", 
         "goal_difference": -4, 
@@ -3289,7 +3427,7 @@
         "group_position": 4, 
         "humidities": [
             0.89, 
-            0.84, 
+            0.87, 
             0.48
         ], 
         "matches": [
@@ -3345,22 +3483,17 @@
                 "match_number": 22, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 78.78, 
-                    "cloudCover": 0.61, 
-                    "dewPoint": 73.38, 
-                    "humidity": 0.84, 
-                    "icon": "rain", 
-                    "ozone": 256.26, 
-                    "precipIntensity": 0.0086, 
-                    "precipProbability": 0.62, 
+                    "apparentTemperature": 77, 
+                    "dewPoint": 72.84, 
+                    "humidity": 0.87, 
+                    "icon": "clear-night", 
                     "precipType": "rain", 
-                    "pressure": 1015.07, 
-                    "summary": "Drizzle", 
-                    "temperature": 78.78, 
+                    "summary": "Clear", 
+                    "temperature": 77, 
                     "time": 1403215200, 
                     "visibility": 6.2, 
-                    "windBearing": 143, 
-                    "windSpeed": 16.3
+                    "windBearing": 131, 
+                    "windSpeed": 14.51
                 }, 
                 "winner": "JPN"
             }, 
@@ -3403,13 +3536,13 @@
         ], 
         "temps": [
             75.38, 
-            78.78, 
+            77, 
             81.36
         ]
     }, 
     "KOR": {
-        "average_humidities": 0.70666666666666667, 
-        "average_temps": 72.159999999999997, 
+        "average_humidities": 0.68333333333333324, 
+        "average_temps": 72.109999999999999, 
         "code": "KOR", 
         "country": "Korea Republic", 
         "goal_difference": -3, 
@@ -3419,7 +3552,7 @@
         "group_position": 4, 
         "humidities": [
             0.79, 
-            0.68, 
+            0.61, 
             0.65
         ], 
         "matches": [
@@ -3475,20 +3608,16 @@
                 "match_number": 32, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 65.39, 
-                    "cloudCover": 0.3, 
-                    "dewPoint": 54.44, 
-                    "humidity": 0.68, 
-                    "icon": "partly-cloudy-day", 
-                    "ozone": 264.33, 
-                    "precipIntensity": 0, 
-                    "precipProbability": 0, 
-                    "pressure": 1019.13, 
-                    "summary": "Partly Cloudy", 
-                    "temperature": 65.39, 
+                    "apparentTemperature": 68.78, 
+                    "dewPoint": 54.97, 
+                    "humidity": 0.61, 
+                    "icon": "clear-day", 
+                    "precipType": "rain", 
+                    "summary": "Clear", 
+                    "temperature": 68.78, 
                     "time": 1403463600, 
-                    "windBearing": 149, 
-                    "windSpeed": 1.64
+                    "windBearing": 169, 
+                    "windSpeed": 2
                 }, 
                 "winner": "ALG"
             }, 
@@ -3511,18 +3640,18 @@
                 "match_number": 47, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 76.09, 
+                    "apparentTemperature": 72.55, 
                     "cloudCover": 1, 
-                    "dewPoint": 63.65, 
+                    "dewPoint": 60.29, 
                     "humidity": 0.65, 
                     "icon": "cloudy", 
                     "ozone": 264.14, 
                     "precipIntensity": 0.0003, 
-                    "precipProbability": 0.99, 
+                    "precipProbability": 0.85, 
                     "precipType": "rain", 
                     "pressure": 1014.1, 
                     "summary": "Overcast", 
-                    "temperature": 76.09, 
+                    "temperature": 72.55, 
                     "time": 1403812800, 
                     "windBearing": 315, 
                     "windSpeed": 2.61
@@ -3532,13 +3661,13 @@
         ], 
         "temps": [
             75, 
-            65.39, 
-            76.09
+            68.78, 
+            72.55
         ]
     }, 
     "MEX": {
-        "average_humidities": 0.81999999999999995, 
-        "average_temps": 79.38000000000001, 
+        "average_humidities": 0.74249999999999994, 
+        "average_temps": 79.827500000000001, 
         "code": "MEX", 
         "country": "Mexico", 
         "goal_difference": 2, 
@@ -3549,8 +3678,8 @@
         "humidities": [
             0.94, 
             0.67, 
-            0.85, 
-            0.82
+            0.83, 
+            0.53
         ], 
         "matches": [
             {
@@ -3638,22 +3767,17 @@
                 "match_number": 34, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 75.9, 
-                    "cloudCover": 0.94, 
-                    "dewPoint": 71.12, 
-                    "humidity": 0.85, 
-                    "icon": "cloudy", 
-                    "ozone": 254.04, 
-                    "precipIntensity": 0.0293, 
-                    "precipProbability": 0.03, 
+                    "apparentTemperature": 76.82, 
+                    "dewPoint": 71.13, 
+                    "humidity": 0.83, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1016.7, 
-                    "summary": "Humid and Overcast", 
-                    "temperature": 75.9, 
+                    "summary": "Clear", 
+                    "temperature": 76.82, 
                     "time": 1403553600, 
                     "visibility": 5.25, 
-                    "windBearing": 142, 
-                    "windSpeed": 11.67
+                    "windBearing": 134, 
+                    "windSpeed": 13.12
                 }, 
                 "winner": "MEX"
             }, 
@@ -3676,20 +3800,20 @@
                 "match_number": 51, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 99.69, 
-                    "cloudCover": 0.22, 
-                    "dewPoint": 79.4, 
-                    "humidity": 0.82, 
+                    "apparentTemperature": 89.8, 
+                    "cloudCover": 0.75, 
+                    "dewPoint": 67.54, 
+                    "humidity": 0.53, 
                     "icon": "rain", 
                     "ozone": 255.51, 
                     "precipIntensity": 0.0031, 
-                    "precipProbability": 0.97, 
+                    "precipProbability": 0.78, 
                     "precipType": "rain", 
                     "pressure": 1013.21, 
                     "summary": "Drizzle", 
-                    "temperature": 85.7, 
+                    "temperature": 86.57, 
                     "time": 1404057600, 
-                    "visibility": 6.21, 
+                    "visibility": 6.2, 
                     "windBearing": 94, 
                     "windSpeed": 13.99
                 }, 
@@ -3699,13 +3823,13 @@
         "temps": [
             73.92, 
             82, 
-            75.9, 
-            85.7
+            76.82, 
+            86.57
         ]
     }, 
     "NED": {
-        "average_humidities": 0.71749999999999992, 
-        "average_temps": 73.912499999999994, 
+        "average_humidities": 0.64999999999999991, 
+        "average_temps": 75.912000000000006, 
         "code": "NED", 
         "country": "Netherlands", 
         "goal_difference": 8, 
@@ -3715,9 +3839,10 @@
         "group_position": 1, 
         "humidities": [
             0.79, 
-            0.61, 
-            0.65, 
-            0.82
+            0.59, 
+            0.57, 
+            0.53, 
+            0.77
         ], 
         "matches": [
             {
@@ -3772,22 +3897,17 @@
                 "match_number": 20, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 58.43, 
-                    "cloudCover": 0.02, 
-                    "dewPoint": 45.08, 
-                    "humidity": 0.61, 
+                    "apparentTemperature": 58.63, 
+                    "dewPoint": 44.29, 
+                    "humidity": 0.59, 
                     "icon": "clear-day", 
-                    "ozone": 312.67, 
-                    "precipIntensity": 0.0005, 
-                    "precipProbability": 0.78, 
                     "precipType": "rain", 
-                    "pressure": 1027.65, 
                     "summary": "Clear", 
-                    "temperature": 58.43, 
+                    "temperature": 58.63, 
                     "time": 1403107200, 
                     "visibility": 6.2, 
-                    "windBearing": 217, 
-                    "windSpeed": 7.18
+                    "windBearing": 223, 
+                    "windSpeed": 6.95
                 }, 
                 "winner": "NED"
             }, 
@@ -3810,22 +3930,17 @@
                 "match_number": 36, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 72.52, 
-                    "cloudCover": 0.82, 
-                    "dewPoint": 60.14, 
-                    "humidity": 0.65, 
-                    "icon": "partly-cloudy-day", 
-                    "ozone": 265.14, 
-                    "precipIntensity": 0.0002, 
-                    "precipProbability": 0.91, 
+                    "apparentTemperature": 73.49, 
+                    "dewPoint": 57.37, 
+                    "humidity": 0.57, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1020.67, 
-                    "summary": "Mostly Cloudy", 
-                    "temperature": 72.52, 
+                    "summary": "Clear", 
+                    "temperature": 73.49, 
                     "time": 1403539200, 
                     "visibility": 6.2, 
-                    "windBearing": 15, 
-                    "windSpeed": 3.95
+                    "windBearing": 52, 
+                    "windSpeed": 6.85
                 }, 
                 "winner": "NED"
             }, 
@@ -3848,36 +3963,75 @@
                 "match_number": 51, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 99.69, 
-                    "cloudCover": 0.22, 
-                    "dewPoint": 79.4, 
-                    "humidity": 0.82, 
+                    "apparentTemperature": 89.8, 
+                    "cloudCover": 0.75, 
+                    "dewPoint": 67.54, 
+                    "humidity": 0.53, 
                     "icon": "rain", 
                     "ozone": 255.51, 
                     "precipIntensity": 0.0031, 
-                    "precipProbability": 0.97, 
+                    "precipProbability": 0.78, 
                     "precipType": "rain", 
                     "pressure": 1013.21, 
                     "summary": "Drizzle", 
-                    "temperature": 85.7, 
+                    "temperature": 86.57, 
                     "time": 1404057600, 
-                    "visibility": 6.21, 
+                    "visibility": 6.2, 
                     "windBearing": 94, 
                     "windSpeed": 13.99
+                }, 
+                "winner": "NED"
+            }, 
+            {
+                "away_team": {
+                    "code": "CRC", 
+                    "country": "Costa Rica", 
+                    "goals": 0, 
+                    "penalties": 3
+                }, 
+                "code": "NED", 
+                "datetime": "2014-07-05T17:00:00.000-03:00", 
+                "home_team": {
+                    "code": "NED", 
+                    "country": "Netherlands", 
+                    "goals": 0, 
+                    "penalties": 4
+                }, 
+                "lat": -12.97883, 
+                "lng": -38.504371, 
+                "location": "Arena Fonte Nova", 
+                "match_number": 59, 
+                "number": 5, 
+                "weather": {
+                    "apparentTemperature": 87.8, 
+                    "cloudCover": 0.73, 
+                    "dewPoint": 74.01, 
+                    "humidity": 0.77, 
+                    "icon": "partly-cloudy-day", 
+                    "ozone": 252.65, 
+                    "precipIntensity": 0, 
+                    "precipProbability": 0, 
+                    "pressure": 1018.07, 
+                    "summary": "Mostly Cloudy", 
+                    "temperature": 81.87, 
+                    "time": 1404590400, 
+                    "windBearing": 115, 
+                    "windSpeed": 9
                 }, 
                 "winner": "NED"
             }
         ], 
         "temps": [
             79, 
-            58.43, 
-            72.52, 
-            85.7
+            58.63, 
+            73.49, 
+            86.57, 
+            81.87
         ]
     }, 
     "NGA": {
-        "average_humidities": 0.69000000000000006, 
-        "average_temps": 73.842500000000001, 
+        "average_humidities": 0.6875, 
+        "average_temps": 74.512500000000003, 
         "code": "NGA", 
         "country": "Nigeria", 
         "goal_difference": -2, 
@@ -3887,7 +4041,7 @@
         "group_position": 2, 
         "humidities": [
             0.72, 
-            0.75, 
+            0.74, 
             0.84, 
             0.45
         ], 
@@ -3944,21 +4098,16 @@
                 "match_number": 28, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 74.75, 
-                    "cloudCover": 0.32, 
-                    "dewPoint": 66.44, 
-                    "humidity": 0.75, 
-                    "icon": "partly-cloudy-night", 
-                    "ozone": 254.45, 
-                    "precipIntensity": 0.0001, 
-                    "precipProbability": 0.87, 
+                    "apparentTemperature": 77, 
+                    "dewPoint": 68.06, 
+                    "humidity": 0.74, 
+                    "icon": "clear-night", 
                     "precipType": "rain", 
-                    "pressure": 1013.16, 
-                    "summary": "Partly Cloudy", 
-                    "temperature": 74.75, 
+                    "summary": "Clear", 
+                    "temperature": 77, 
                     "time": 1403391600, 
-                    "windBearing": 144, 
-                    "windSpeed": 0.95
+                    "windBearing": 180, 
+                    "windSpeed": 3
                 }, 
                 "winner": "NGA"
             }, 
@@ -3981,18 +4130,18 @@
                 "match_number": 43, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 70.74, 
+                    "apparentTemperature": 69.84, 
                     "cloudCover": 0.78, 
-                    "dewPoint": 65.66, 
+                    "dewPoint": 64.78, 
                     "humidity": 0.84, 
                     "icon": "rain", 
                     "ozone": 274.12, 
                     "precipIntensity": 0.0178, 
-                    "precipProbability": 0.5, 
+                    "precipProbability": 0.43, 
                     "precipType": "rain", 
                     "pressure": 1011.52, 
                     "summary": "Drizzle", 
-                    "temperature": 70.74, 
+                    "temperature": 69.84, 
                     "time": 1403712000, 
                     "visibility": 3.84, 
                     "windBearing": 272, 
@@ -4019,36 +4168,35 @@
                 "match_number": 53, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 78.06, 
-                    "cloudCover": 0.41, 
-                    "dewPoint": 54.9, 
+                    "apparentTemperature": 79.39, 
+                    "cloudCover": 0, 
+                    "dewPoint": 56.1, 
                     "humidity": 0.45, 
-                    "icon": "partly-cloudy-day", 
+                    "icon": "clear-day", 
                     "ozone": 256.19, 
                     "precipIntensity": 0.0001, 
-                    "precipProbability": 1, 
+                    "precipProbability": 0.96, 
                     "precipType": "rain", 
-                    "pressure": 1015.01, 
-                    "summary": "Partly Cloudy", 
-                    "temperature": 78.06, 
+                    "pressure": 1014.77, 
+                    "summary": "Clear", 
+                    "temperature": 79.39, 
                     "time": 1404144000, 
-                    "visibility": 6.21, 
-                    "windBearing": 58, 
-                    "windSpeed": 2.34
+                    "windBearing": 47, 
+                    "windSpeed": 2.48
                 }, 
                 "winner": "FRA"
             }
         ], 
         "temps": [
             71.82, 
-            74.75, 
-            70.74, 
-            78.06
+            77, 
+            69.84, 
+            79.39
         ]
     }, 
     "POR": {
-        "average_humidities": 0.62333333333333341, 
-        "average_temps": 80.826666666666668, 
+        "average_humidities": 0.60999999999999999, 
+        "average_temps": 80.976666666666674, 
         "code": "POR", 
         "country": "Portugal", 
         "goal_difference": -3, 
@@ -4058,7 +4206,7 @@
         "group_position": 3, 
         "humidities": [
             0.67, 
-            0.8, 
+            0.76, 
             0.4
         ], 
         "matches": [
@@ -4114,22 +4262,17 @@
                 "match_number": 30, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 79.76, 
-                    "cloudCover": 0.96, 
-                    "dewPoint": 72.84, 
-                    "humidity": 0.8, 
-                    "icon": "rain", 
-                    "ozone": 255.76, 
-                    "precipIntensity": 0.0055, 
-                    "precipProbability": 0.57, 
+                    "apparentTemperature": 86.48, 
+                    "dewPoint": 73.01, 
+                    "humidity": 0.76, 
+                    "icon": "clear-night", 
                     "precipType": "rain", 
-                    "pressure": 1011.72, 
-                    "summary": "Drizzle", 
-                    "temperature": 79.76, 
+                    "summary": "Clear", 
+                    "temperature": 81.4, 
                     "time": 1403478000, 
                     "visibility": 6.2, 
-                    "windBearing": 83, 
-                    "windSpeed": 2.1
+                    "windBearing": 82, 
+                    "windSpeed": 3.3
                 }, 
                 "winner": "USA"
             }, 
@@ -4152,9 +4295,9 @@
                 "match_number": 46, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 78.72, 
+                    "apparentTemperature": 77.53, 
                     "cloudCover": 0.48, 
-                    "dewPoint": 52.48, 
+                    "dewPoint": 51.42, 
                     "humidity": 0.4, 
                     "icon": "partly-cloudy-day", 
                     "ozone": 252.4, 
@@ -4162,7 +4305,7 @@
                     "precipProbability": 0, 
                     "pressure": 1014.85, 
                     "summary": "Partly Cloudy", 
-                    "temperature": 78.72, 
+                    "temperature": 77.53, 
                     "time": 1403798400, 
                     "windBearing": 62, 
                     "windSpeed": 6.47
@@ -4172,13 +4315,13 @@
         ], 
         "temps": [
             84, 
-            79.76, 
-            78.72
+            81.4, 
+            77.53
         ]
     }, 
     "RUS": {
-        "average_humidities": 0.74333333333333329, 
-        "average_temps": 73.353333333333339, 
+        "average_humidities": 0.71333333333333337, 
+        "average_temps": 74.436666666666667, 
         "code": "RUS", 
         "country": "Russia", 
         "goal_difference": -1, 
@@ -4188,7 +4331,7 @@
         "group_position": 3, 
         "humidities": [
             0.79, 
-            0.69, 
+            0.6, 
             0.75
         ], 
         "matches": [
@@ -4244,22 +4387,17 @@
                 "match_number": 31, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 74.38, 
-                    "cloudCover": 0.05, 
-                    "dewPoint": 63.71, 
-                    "humidity": 0.69, 
-                    "icon": "rain", 
-                    "ozone": 270.16, 
-                    "precipIntensity": 0.0031, 
-                    "precipProbability": 0.71, 
+                    "apparentTemperature": 78.8, 
+                    "dewPoint": 63.78, 
+                    "humidity": 0.6, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1023.39, 
-                    "summary": "Drizzle", 
-                    "temperature": 74.38, 
+                    "summary": "Clear", 
+                    "temperature": 78.8, 
                     "time": 1403452800, 
                     "visibility": 6.2, 
-                    "windBearing": 82, 
-                    "windSpeed": 9.57
+                    "windBearing": 79, 
+                    "windSpeed": 7.5
                 }, 
                 "winner": "BEL"
             }, 
@@ -4282,18 +4420,18 @@
                 "match_number": 48, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 70.68, 
+                    "apparentTemperature": 69.51, 
                     "cloudCover": 1, 
-                    "dewPoint": 62.25, 
+                    "dewPoint": 61.12, 
                     "humidity": 0.75, 
                     "icon": "cloudy", 
                     "ozone": 272.74, 
                     "precipIntensity": 0.0012, 
-                    "precipProbability": 0.97, 
+                    "precipProbability": 0.81, 
                     "precipType": "rain", 
                     "pressure": 1013.13, 
                     "summary": "Overcast", 
-                    "temperature": 70.68, 
+                    "temperature": 69.51, 
                     "time": 1403812800, 
                     "visibility": 6.2, 
                     "windBearing": 23, 
@@ -4304,13 +4442,13 @@
         ], 
         "temps": [
             75, 
-            74.38, 
-            70.68
+            78.8, 
+            69.51
         ]
     }, 
     "SUI": {
-        "average_humidities": 0.59750000000000003, 
-        "average_temps": 76.242500000000007, 
+        "average_humidities": 0.60749999999999993, 
+        "average_temps": 77.905000000000001, 
         "code": "SUI", 
         "country": "Switzerland", 
         "goal_difference": 0, 
@@ -4320,9 +4458,9 @@
         "group_position": 2, 
         "humidities": [
             0.54, 
-            0.73, 
+            0.65, 
             0.76, 
-            0.36
+            0.48
         ], 
         "matches": [
             {
@@ -4377,22 +4515,17 @@
                 "match_number": 25, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 78.55, 
-                    "cloudCover": 0.94, 
-                    "dewPoint": 69.04, 
-                    "humidity": 0.73, 
-                    "icon": "rain", 
-                    "ozone": 254.07, 
-                    "precipIntensity": 0.0092, 
-                    "precipProbability": 0.41, 
+                    "apparentTemperature": 83.81, 
+                    "dewPoint": 68.1, 
+                    "humidity": 0.65, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1016.83, 
-                    "summary": "Drizzle", 
-                    "temperature": 78.55, 
+                    "summary": "Clear", 
+                    "temperature": 81, 
                     "time": 1403290800, 
                     "visibility": 6.2, 
-                    "windBearing": 134, 
-                    "windSpeed": 7.72
+                    "windBearing": 140, 
+                    "windSpeed": 7
                 }, 
                 "winner": "FRA"
             }, 
@@ -4415,18 +4548,18 @@
                 "match_number": 41, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 86.15, 
+                    "apparentTemperature": 88.14, 
                     "cloudCover": 0.97, 
-                    "dewPoint": 72.96, 
+                    "dewPoint": 73.85, 
                     "humidity": 0.76, 
                     "icon": "rain", 
                     "ozone": 252.9, 
                     "precipIntensity": 0.0077, 
-                    "precipProbability": 0.39, 
+                    "precipProbability": 0.43, 
                     "precipType": "rain", 
                     "pressure": 1010.05, 
                     "summary": "Drizzle", 
-                    "temperature": 81.21, 
+                    "temperature": 82.14, 
                     "time": 1403730000, 
                     "visibility": 6.2, 
                     "windBearing": 53, 
@@ -4453,34 +4586,34 @@
                 "match_number": 55, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 70.04, 
+                    "apparentTemperature": 73.31, 
                     "cloudCover": 0, 
-                    "dewPoint": 41.91, 
-                    "humidity": 0.36, 
+                    "dewPoint": 52.38, 
+                    "humidity": 0.48, 
                     "icon": "clear-day", 
-                    "ozone": 266.38, 
+                    "ozone": 266.28, 
                     "precipIntensity": 0, 
                     "precipProbability": 0, 
-                    "pressure": 1017.12, 
+                    "pressure": 1016.63, 
                     "summary": "Clear", 
-                    "temperature": 70.04, 
+                    "temperature": 73.31, 
                     "time": 1404230400, 
-                    "windBearing": 294, 
-                    "windSpeed": 6.42
+                    "windBearing": 290, 
+                    "windSpeed": 6.76
                 }, 
                 "winner": "ARG"
             }
         ], 
         "temps": [
             75.17, 
-            78.55, 
-            81.21, 
-            70.04
+            81, 
+            82.14, 
+            73.31
         ]
     }, 
     "URU": {
-        "average_humidities": 0.75, 
-        "average_temps": 75.917500000000004, 
+        "average_humidities": 0.73750000000000004, 
+        "average_temps": 75.435000000000002, 
         "code": "URU", 
         "country": "Uruguay", 
         "goal_difference": -2, 
@@ -4490,7 +4623,7 @@
         "group_position": 2, 
         "humidities": [
             0.59, 
-            0.86, 
+            0.81, 
             0.76, 
             0.79
         ], 
@@ -4547,22 +4680,17 @@
                 "match_number": 23, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 61.03, 
-                    "cloudCover": 0.91, 
-                    "dewPoint": 56.8, 
-                    "humidity": 0.86, 
-                    "icon": "rain", 
-                    "ozone": 286.33, 
-                    "precipIntensity": 0.0081, 
-                    "precipProbability": 0.43, 
+                    "apparentTemperature": 62.38, 
+                    "dewPoint": 56.41, 
+                    "humidity": 0.81, 
+                    "icon": "clear-day", 
                     "precipType": "rain", 
-                    "pressure": 1024.34, 
-                    "summary": "Drizzle", 
-                    "temperature": 61.03, 
+                    "summary": "Clear", 
+                    "temperature": 62.38, 
                     "time": 1403204400, 
                     "visibility": 5.84, 
-                    "windBearing": 166, 
-                    "windSpeed": 9.02
+                    "windBearing": 173, 
+                    "windSpeed": 10.08
                 }, 
                 "winner": "URU"
             }, 
@@ -4592,7 +4720,7 @@
                     "icon": "rain", 
                     "ozone": 251.98, 
                     "precipIntensity": 0.0144, 
-                    "precipProbability": 0.25, 
+                    "precipProbability": 0.28, 
                     "precipType": "rain", 
                     "pressure": 1014.64, 
                     "summary": "Drizzle", 
@@ -4623,18 +4751,18 @@
                 "match_number": 50, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 77.64, 
+                    "apparentTemperature": 74.36, 
                     "cloudCover": 0.2, 
-                    "dewPoint": 70.6, 
+                    "dewPoint": 67.43, 
                     "humidity": 0.79, 
                     "icon": "clear-day", 
                     "ozone": 263.7, 
                     "precipIntensity": 0.0001, 
-                    "precipProbability": 1, 
+                    "precipProbability": 0.91, 
                     "precipType": "rain", 
                     "pressure": 1016.99, 
                     "summary": "Clear", 
-                    "temperature": 77.64, 
+                    "temperature": 74.36, 
                     "time": 1403985600, 
                     "visibility": 4.79, 
                     "windBearing": 138, 
@@ -4645,14 +4773,14 @@
         ], 
         "temps": [
             84, 
-            61.03, 
+            62.38, 
             81, 
-            77.64
+            74.36
         ]
     }, 
     "USA": {
-        "average_humidities": 0.80500000000000005, 
-        "average_temps": 78.905000000000001, 
+        "average_humidities": 0.78750000000000009, 
+        "average_temps": 79.91749999999999, 
         "code": "USA", 
         "country": "USA", 
         "goal_difference": -1, 
@@ -4662,9 +4790,9 @@
         "group_position": 2, 
         "humidities": [
             0.74, 
-            0.8, 
+            0.76, 
             0.89, 
-            0.79
+            0.76
         ], 
         "matches": [
             {
@@ -4719,22 +4847,17 @@
                 "match_number": 30, 
                 "number": 2, 
                 "weather": {
-                    "apparentTemperature": 79.76, 
-                    "cloudCover": 0.96, 
-                    "dewPoint": 72.84, 
-                    "humidity": 0.8, 
-                    "icon": "rain", 
-                    "ozone": 255.76, 
-                    "precipIntensity": 0.0055, 
-                    "precipProbability": 0.57, 
+                    "apparentTemperature": 86.48, 
+                    "dewPoint": 73.01, 
+                    "humidity": 0.76, 
+                    "icon": "clear-night", 
                     "precipType": "rain", 
-                    "pressure": 1011.72, 
-                    "summary": "Drizzle", 
-                    "temperature": 79.76, 
+                    "summary": "Clear", 
+                    "temperature": 81.4, 
                     "time": 1403478000, 
                     "visibility": 6.2, 
-                    "windBearing": 83, 
-                    "windSpeed": 2.1
+                    "windBearing": 82, 
+                    "windSpeed": 3.3
                 }, 
                 "winner": "USA"
             }, 
@@ -4757,9 +4880,9 @@
                 "match_number": 45, 
                 "number": 3, 
                 "weather": {
-                    "apparentTemperature": 79, 
+                    "apparentTemperature": 75.47, 
                     "cloudCover": 0.85, 
-                    "dewPoint": 75.63, 
+                    "dewPoint": 72.14, 
                     "humidity": 0.89, 
                     "icon": "fog", 
                     "ozone": 249.63, 
@@ -4767,7 +4890,7 @@
                     "precipProbability": 0, 
                     "pressure": 1014.14, 
                     "summary": "Humid and Foggy", 
-                    "temperature": 79, 
+                    "temperature": 75.47, 
                     "time": 1403798400, 
                     "visibility": 1.76, 
                     "windBearing": 89, 
@@ -4794,31 +4917,30 @@
                 "match_number": 56, 
                 "number": 4, 
                 "weather": {
-                    "apparentTemperature": 78.38, 
-                    "cloudCover": 0.17, 
-                    "dewPoint": 71.27, 
-                    "humidity": 0.79, 
+                    "apparentTemperature": 93.18, 
+                    "cloudCover": 0.08, 
+                    "dewPoint": 75.77, 
+                    "humidity": 0.76, 
                     "icon": "clear-day", 
-                    "ozone": 253.19, 
-                    "precipIntensity": 0.0011, 
-                    "precipProbability": 0.09, 
+                    "ozone": 253.13, 
+                    "precipIntensity": 0.0007, 
+                    "precipProbability": 0.96, 
                     "precipType": "rain", 
-                    "pressure": 1014.75, 
+                    "pressure": 1014.92, 
                     "summary": "Clear", 
-                    "temperature": 78.38, 
+                    "temperature": 84.32, 
                     "time": 1404244800, 
-                    "visibility": 10, 
-                    "windBearing": 130, 
-                    "windSpeed": 8.54
+                    "windBearing": 125, 
+                    "windSpeed": 7.68
                 }, 
                 "winner": "BEL"
             }
         ], 
         "temps": [
             78.48, 
-            79.76, 
-            79, 
-            78.38
+            81.4, 
+            75.47, 
+            84.32
         ]
     }
 }
